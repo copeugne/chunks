@@ -1,0 +1,4452 @@
+Execution started: 2025-09-29 11:47:22
+
+Loading CSV data from: /home/lonestar/Desktop/Projects/fuzzer/data/lib_ce.csv
+Limit: 14000000 entries
+Keywords file: src/txmatch/config/ud_keywords.yaml
+Threshold: 80.0%
+
+Loaded 13037407 business names
+Sample entries: ['DAB', 'FRONT OFFICE 3', 'COOKS CATERING', 'DAB', 'DAB']...
+
+Data Loading Details:
+  CSV loading time: 8.86s
+  CSV loading throughput: 1470.9k items/sec
+  Normalization time: 6m 8.5s
+  Normalization throughput: 35.4k items/sec
+  Total loading time: 6m 17.5s
+  Sample normalizations:
+    Original: RETRAIT DAB 08-05-13506-058724
+    Normalized: DAB
+    Original: CB FRONT OFFICE 3
+    Normalized: FRONT OFFICE 3
+    Original: CB COOKS CATERING
+    Normalized: COOKS CATERING
+
+Loaded 79 keywords from file
+Total unique keywords to test: 79
+
+
+================================================================================
+KEYWORD 1/79: 'ACTIVECLUB'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 5
+  After deduplication: 5 (0 duplicates removed)
+  Final results: 5
+  Processing time: 1m 10.1s
+
+Matches above 80.0% (Ensemble):
+   86.93% | ACTIVA CLUB
+   82.49% | ACTIV'ECOLE
+   80.80% | ACTIVIE.EU
+   80.80% | ACTIVEGLAM
+   80.56% | ACTIVITES CLUB
+
+================================================================================
+KEYWORD 2/79: 'AKRIBEIA'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 10
+  After deduplication: 10 (0 duplicates removed)
+  Final results: 10
+  Processing time: 1m 11.7s
+
+Matches above 80.0% (Ensemble):
+   81.74% | ALKIBIA
+   81.00% | AGRIELIA
+   81.00% | ARIEIRAS
+   80.99% | RIBEIRA
+   80.99% | CARIBEA
+   80.99% | RIBERIA
+   80.00% | CARIBEAN
+   80.00% | MARIENIA
+   80.00% | TAKIBIYA
+   80.00% | *CARIBIA
+
+================================================================================
+KEYWORD 3/79: 'AMISGENEVO'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 11.4s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 4/79: 'ANTHROPO-LOGIQUES'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 7
+  After deduplication: 7 (0 duplicates removed)
+  Final results: 7
+  Processing time: 1m 12.8s
+
+Matches above 80.0% (Ensemble):
+   92.70% | ANTHROPO-LOGIQU
+   85.48% | ANTHROPOLOGIE V
+   85.48% | ANTHROPOLOGIE 4
+   85.48% | ANTHROPOLOGIE I
+   85.36% | ANTHROPOLOGIE
+   84.97% | ANTHROPOLOGIE.C
+   81.33% | ANTHROPOLOGY SR
+
+================================================================================
+KEYWORD 5/79: 'BABTOU SOLIDE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 12.2s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 6/79: 'BREIZH INFO'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 22
+  After deduplication: 22 (0 duplicates removed)
+  Final results: 22
+  Processing time: 1m 12.0s
+
+Matches above 80.0% (Ensemble):
+   88.65% | BREIZH FOND
+   88.00% | BREIZH FOOD
+   83.88% | BREIZH LIBAN
+   83.88% | BREIZH FLO'S
+   83.18% | BREIZH FIT
+   82.97% | BREIZH INFORMAT
+   82.91% | BREIZH MOTO
+   82.91% | BREIZH CAFE
+   82.91% | BREIZH ILES
+   82.91% | BREIZH MODE
+   82.91% | BREIZH COOL
+   82.91% | BREIZH MOBY
+   82.91% | BREIZH D OC
+   82.91% | BREIZH PODO
+   82.91% | BREIZH ETHO
+   82.91% | BREIZH IZEL
+   82.56% | BREIZH ILE
+   82.55% | BREIZH'FOOD
+   82.55% | BREIZHICOOP
+   82.55% | BREIZHULINE
+   82.36% | BREIZH OR
+   80.89% | BREIZH COOKIN
+
+================================================================================
+KEYWORD 7/79: 'BRIGANDES'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 22
+  After deduplication: 22 (0 duplicates removed)
+  Final results: 22
+  Processing time: 1m 12.2s
+
+Matches above 80.0% (Ensemble):
+   88.55% | BRIGAND DES
+   87.25% | BRIGADIERS
+   86.67% | BRIGADE G
+   86.18% | BRIGAND
+   86.05% | BREVIANDES
+   85.82% | BRIGANTE
+   85.78% | BRIGNOLES
+   84.89% | BRINDEMOS
+   84.89% | BRINDESYL
+   84.00% | BRANDNERS
+   83.26% | LE BRIGAND
+   83.13% | EBRIGADE
+   82.22% | BIG HANDS
+   81.90% | BRICOLANDES
+   81.87% | BRIGADE PA
+   81.87% | BRIGADE RO
+   81.87% | BRIGADE 36
+   81.32% | LES BRIGANDS
+   80.71% | BRIGANDINO
+   80.71% | BRIGADERIE
+   80.67% | LE BRIAND
+   80.08% | BAR GADES
+
+================================================================================
+KEYWORD 8/79: 'C9M'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 567
+  After deduplication: 567 (0 duplicates removed)
+  Final results: 567
+  Processing time: 1m 50.3s
+
+Matches above 80.0% (Ensemble):
+   93.33% | IREINE.FR* C9LM
+   92.50% | IREINE.FR* CA9M
+   80.00% | AIRBNB * HM3C9M
+   80.00% | AIRBNB * HMC9MC
+   80.00% | TGTG cavpskc9mv
+   80.00% | TGTG pvnc9m3p9n
+   80.00% | WORDPRESS JC9MN
+   80.00% | TGTG ks6c9mjs96
+   80.00% | TGTG 80g2c9m6zg
+   80.00% | AIRBNB * HMWC9M
+   80.00% | Amazon.fr*2C9M1
+   80.00% | AIRBNB * HMHC9M
+   80.00% | TGTG mc9m2de3j9
+   80.00% | TGTG 4k3qjbc9m3
+   80.00% | FACEBK *67SC9MC
+   80.00% | Amazon.fr*VC9MD
+   80.00% | TGTG 81c9mcgm6c
+   80.00% | Grab* A-7FEC9MK
+   80.00% | CC9MORKOM7NA ht
+   80.00% | TGTG 628pc9mhk8
+   80.00% | TGTG n9mbazfc9m
+   80.00% | FACEBK *Q4C9MPG
+   80.00% | TGTG 9j9c9m5389
+   80.00% | TGTG ypmbgzfc9m
+   80.00% | WDCj4soYlC9m
+   80.00% | AIRBNB * HMTC9M
+   80.00% | CC9MWDHHQP1I ht
+   80.00% | TGTG yhc9mqys6c
+   80.00% | CC9MWDHHY11A ww
+   80.00% | TGTG mvjpc6c9mj
+   80.00% | FACEBK *AC9MJLC
+   80.00% | OGC9mYOucVyX ti
+   80.00% | WUFxc9MtkDmF
+   80.00% | AIRBNB * HMC9MW
+   80.00% | PONY SA* P8C9MY
+   80.00% | TGTG 3rc9mxat6c
+   80.00% | zC9mfcMCCm8N
+   80.00% | CC9MWDHHQUZL ht
+   80.00% | DC9M0RHHVOK0 ww
+   80.00% | TGTG hdrc9mfn9r
+   80.00% | TGTG 676c9m4m96
+   80.00% | TGTG cevpc9m3kv
+   80.00% | CC9MORKO6GQE ww
+   80.00% | AIRBNB * HMC9M4
+   80.00% | METAPAY*C9MPYLG
+   80.00% | OCULUS *TC7C9M8
+   80.00% | kTnc9mbvamMT
+   80.00% | AIRBNB * HMC9M8
+   80.00% | TGTG c9m5gf2x3m
+   80.00% | AIRBNB * HM8C9M
+   80.00% | TGTG 0vc9mqfs6c
+   80.00% | TGTG b5pc9ma39p
+   80.00% | TGTG swfbc9m18f
+   80.00% | AMAZON* RZ4LC9M
+   80.00% | TGTG c9msnxxenm
+   80.00% | TGTG c9mq90m7mm
+   80.00% | TGTG c9m5zqnb2m
+   80.00% | TGTG kjmc471c9m
+   80.00% | AC9Mlzs8F3Vf
+   80.00% | TRANSAVIA C9M
+   80.00% | FACEBK *XC9MXHC
+   80.00% | Amazon.fr*MC9M9
+   80.00% | TGTG vbc9mntc6c
+   80.00% | PAYPAL *LPSC9ME
+   80.00% | EC9MH95dJbpc
+   80.00% | TGTG 98c9mz7s6c
+   80.00% | bC9mm3XHvdBT
+   80.00% | TGTG pckc9m8n9k
+   80.00% | FACEBK *ZUWC9M4
+   80.00% | Amazon.fr*PC9M1
+   80.00% | TGTG wh6c9mg196
+   80.00% | AIRBNB * HMNC9M
+   80.00% | CV.fr C9myVAaR
+   80.00% | Amazon.fr*0C9MI
+   80.00% | AIRBNB * HMC9MP
+   80.00% | TGTG dgf4vc9m1f
+   80.00% | A8QUC9m1M68b
+   80.00% | IjkTbopC1c9m
+   80.00% | TGTG 0pc9mxb46c
+   80.00% | TGTG 32c9m0mt6c
+   80.00% | XB2SWHHG0C9M ww
+   80.00% | 89SZ71JGTC9M ww
+   80.00% | Amazon.fr*XC9MZ
+   80.00% | TGTG vbc9mk6s6c
+   80.00% | C9ML3zE9CmXT
+   80.00% | OTIIH7C9M70R ht
+   80.00% | FACEBK *2C9MJG8
+   80.00% | Amazon.fr*NC9M8
+   80.00% | TGTG c9m1dcg7ym
+   80.00% | AIRBNB * HMC9MD
+   80.00% | rB2Ac9m7ghhQ
+   80.00% | TGTG dgac9mnp9a
+   80.00% | Grab* A-7C9MQPP
+   80.00% | TGTG c9m97p0j6m
+   80.00% | TGTG c9mfj2bwdm
+   80.00% | FACEBK *MGSC9M4
+   80.00% | C9MdebEKbmjJ
+   80.00% | PONY SA* C9MG3X
+   80.00% | 1c9M0FTc491c
+   80.00% | TGTG 1c9mztcyj9
+   80.00% | TGTG rfc9mnv96c
+   80.00% | Amazon.fr*QC9M6
+   80.00% | TGTG bc9mvcs2j9
+   80.00% | fVqc9MSbFVzf
+   80.00% | TGTG gajac9m88j
+   80.00% | TGTG c9msyxh2pm
+   80.00% | FACEBK *9YZC9M4
+   80.00% | Amazon.fr*DC9MS
+   80.00% | PITCHUP C9MGRYV
+   80.00% | TGTG c9mmaatrjm
+   80.00% | YEc9MG7ait3o ti
+   80.00% | TGTG wzgpc2c9mg
+   80.00% | AIRBNB * HMC9MJ
+   80.00% | s1HC9MAiyZKw
+   80.00% | TGTG d8mbfvjc9m
+   80.00% | TGTG xktssc9mpt
+   80.00% | TGTG c9mkx2fggm
+   80.00% | DC9M0RHHVK4G ww
+   80.00% | TGTG v3xc9mfy9x
+   80.00% | TGTG 0qc9mehs6c
+   80.00% | TGTG bk1qa6c9m1
+   80.00% | TGTG ndc9mdk46c
+   80.00% | TGTG xw6p7c9mk6
+   80.00% | PONY SA* EC9M9F
+   80.00% | CC9MWDHH7LKV ww
+   80.00% | XNV6TB662C9M ww
+   80.00% | AIRBNB * HMC9MK
+   80.00% | TGTG c9mac8zf8m
+   80.00% | TGTG 4eehc9mkee
+   80.00% | TGTG 7acf2c9mdc
+   80.00% | DC9M0RHHVAUS ww
+   80.00% | Amazon.fr*BC9MN
+   80.00% | CC9MORKOMA3N ht
+   80.00% | TGTG aaxa4c9m7x
+   80.00% | TGTG 89npacc9mn
+   80.00% | i4pQOC9M1Gdq
+   80.00% | TGTG j5wc9mtx9w
+   80.00% | Amazon.fr*SC9MW
+   80.00% | n5YDaXC9malF
+   80.00% | FACEBK *KW7C9MG
+   80.00% | TGTG c9m0dr31ym
+   80.00% | TGTG thtbc9m48t
+   80.00% | TGTG xrdec9m2bd
+   80.00% | TGTG 4c9mvv39h9
+   80.00% | TGTG gvbc9mch9b
+   80.00% | Amazon.fr*KC9MN
+   80.00% | TGTG w2dc9m6w9d
+   80.00% | DC9M0RHHV15C ww
+   80.00% | CC9MWDHHR7L4 ht
+   80.00% | TGTG 0298c9mq59
+   80.00% | TGTG c9mv8gyssm
+   80.00% | FACEBK *FQ4C9M4
+   80.00% | TGTG e2vq6zc9mv
+   80.00% | TGTG c9mrhj4wpm
+   80.00% | TGTG 46mcrpyc9m
+   80.00% | TGTG xdjc9mav9j
+   80.00% | T0VVCTZC9MCV ww
+   80.00% | TGTG c9mfma1tbm
+   80.00% | TGTG zamc9adc9m
+   80.00% | G3dxC9mffbyw
+   80.00% | CC9MWDHHPDH7 ht
+   80.00% | TGTG jz7qjfc9m7
+   80.00% | 6BwIFsyC9mrg ti
+   80.00% | easyJetK9C9M1J
+   80.00% | AIRBNB * HMFC9M
+   80.00% | GRAB* A-7C9M3OT
+   80.00% | CC9MWDHHGTWB ww
+   80.00% | FACEBK *6RAC9MU
+   80.00% | TGTG 79mctz0c9m
+   80.00% | Grab* A-8XC9MAW
+   80.00% | TGTG dfzpahc9mz
+   80.00% | TGTG 6hbp7zc9mb
+   80.00% | AIRBNB * HMZC9M
+   80.00% | g7XlC9mrO5XV
+   80.00% | TGTG dejtc9mdqj
+   80.00% | TGTG ke1hc9m9e1
+   80.00% | AIRBNB * HMC9M2
+   80.00% | PONY SA* C9MBP8
+   80.00% | TGTG q1c9m6ge6c
+   80.00% | FACEBK *SQC9MKL
+   80.00% | FACEBK *E72C9MG
+   80.00% | FACEBK *A49C9ML
+   80.00% | c4ksKHC9M5ND
+   80.00% | TGTG 61e5hc9m2e
+   80.00% | TGTG a6q0c9mwxq
+   80.00% | TGTG dhc9mwrh6c
+   80.00% | kbunc9mimXqz ti
+   80.00% | hHC9MSDuDSrV
+   80.00% | TGTG c9mh9v2kfm
+   80.00% | PONY SA* RH8C9M
+   80.00% | TGTG c9mrydbvnm
+   80.00% | WWZeFc9myXQj
+   80.00% | Grab* A-7RC9M56
+   80.00% | TGTG pmw3tc9m0w
+   80.00% | KL6C9MlWTyAv
+   80.00% | CC9MWDHH74C5 ww
+   80.00% | c9Mll9jktczO
+   80.00% | SKYLR* KBOC9M
+   80.00% | AIRBNB * HMJC9M
+   80.00% | J4G72c9Mo6bU ti
+   80.00% | TGTG hymcpwsc9m
+   80.00% | TGTG 16txcc9mtt
+   80.00% | PONY SA* C9MEDD
+   80.00% | FREENOW* C9MUBH
+   80.00% | C9MXK5R8fPti
+   80.00% | 077IC9M1WXEN ww
+   80.00% | FACEBK *DC9MHR4
+   80.00% | CC9MWDHHV5HT ht
+   80.00% | TGTG brmcms0c9m
+   80.00% | TGTG 6a1r1ac9m1
+   80.00% | FACEBK *C9M69MQ
+   80.00% | Grab* A-7C9MWSJ
+   80.00% | PONY SA* K8EC9M
+   80.00% | uwDC9mxFYHic
+   80.00% | t0OYFXc9mZUY
+   80.00% | TGTG c9m9m0376m
+   80.00% | J602LbUC9mhh
+   80.00% | TGTG 6qc9mb1q6c
+   80.00% | TGTG x6c9mc606c
+   80.00% | TGTG k8fp9xc9mf
+   80.00% | V4XkVuCc9moH
+   80.00% | PLSK5P3C9MM2 .
+   80.00% | TGTG c9mznhq1vm
+   80.00% | TGTG 0c9m16d8h9
+   80.00% | PONY SA* LC9MSS
+   80.00% | TGTG hr2pxfc9m2
+   80.00% | NqCPueHu5c9m ti
+   80.00% | TGTG c9m5anh62m
+   80.00% | TGTG mamcxtpc9m
+   80.00% | MLtC9mVVGOwh
+   80.00% | TGTG fc9mxaxch9
+   80.00% | TGTG mvec9mq09e
+   80.00% | CC9MWDHHX4PT ww
+   80.00% | PONY SA* VXNC9M
+   80.00% | Amazon.fr*4C9MG
+   80.00% | FACEBK *C9MH6GG
+   80.00% | GRAB* A-7C9MAB2
+   80.00% | IREINE.FR* C9MH
+   80.00% | Amazon.fr*5C9MJ
+   80.00% | TGTG c9m1z95zym
+   80.00% | TGTG 3pmbk9gc9m
+   80.00% | FACEBK *AC9MCQ4
+   80.00% | fv7pUNM65c9m
+   80.00% | FACEBK *RLUC9MC
+   80.00% | FKt4uNxlc9MH
+   80.00% | TGTG qgj6wc9m3j
+   80.00% | 9oCxUlHsIc9m
+   80.00% | TGTG 1dwc9mrp9w
+   80.00% | NtiC9MFv2DWk
+   80.00% | Amazon.fr*MC9ME
+   80.00% | SSc9M6t6dAYR
+   80.00% | TGTG js7yc9m8v7
+   80.00% | TGTG akmbdm3c9m
+   80.00% | TGTG c9mhcnsrfm
+   80.00% | Amazon.fr*6C9MQ
+   80.00% | c9MyRqktxYbX
+   80.00% | Experteer SQC9M
+   80.00% | Grab* A-7KC9MOB
+   80.00% | Dropbox*SC9M8QR
+   80.00% | TGTG k1c9mdfs6c
+   80.00% | 5Yc9m6430aNS
+   80.00% | CC9MWDHHXABI ww
+   80.00% | FREENOW* C9M2OG
+   80.00% | Audible*ZC9MV5T
+   80.00% | CC9MWDHH1R07 ww
+   80.00% | SMS BOOST* 8C9M
+   80.00% | TGTG t65qc9msm5
+   80.00% | TGTG xc9mgjbbh9
+   80.00% | TGTG 3skc9m219k
+   80.00% | TGTG x7wmc9m1hw
+   80.00% | TGTG jembz4jc9m
+   80.00% | TGTG j9sc9md8as
+   80.00% | TGTG gqjbc9m68j
+   80.00% | ghCWj9C9MQNZ
+   80.00% | TGTG v6c9mp206c
+   80.00% | hqOHsc9MVhDB
+   80.00% | XRQXVMC9MDIE ht
+   80.00% | TGTG qzb9c9me6b
+   80.00% | CC9MWDHHNZOO ht
+   80.00% | TGTG hc9m22zmj9
+   80.00% | riqc9M1UTxDh
+   80.00% | TGTG v7mc62qc9m
+   80.00% | TGTG 82mc616c9m
+   80.00% | TGTG c9m7485p4m
+   80.00% | TGTG wb6ewc9mc6
+   80.00% | C9mlXGuqPOB3
+   80.00% | TGTG 6fbbc9mb8b
+   80.00% | AIRBNB * HMEC9M
+   80.00% | TGTG wcygcc9mdy
+   80.00% | AIRBNB * HM2C9M
+   80.00% | TGTG c9mb33em9m
+   80.00% | AIRBNB * HMC9M9
+   80.00% | TGTG e1mcmasc9m
+   80.00% | XEORvvSgc9mm
+   80.00% | Amazon.fr*1C9MR
+   80.00% | TGTG 6wqc9mqw9q
+   80.00% | NidoLgNsc9my
+   80.00% | CC9MWDHHNRJV ht
+   80.00% | PONY SA* BSC9MN
+   80.00% | OoCwDOGc9myX
+   80.00% | TGTG 9c9mr59sj9
+   80.00% | Amazon.fr*KC9MR
+   80.00% | CC9MWDHHKECJ ww
+   80.00% | VRBO HAKJC9M3
+   80.00% | TGTG c9m6bhr53m
+   80.00% | TGTG jc9mgszbh9
+   80.00% | FREENOW* C9MJOP
+   80.00% | TGTG bdgc9mdpag
+   80.00% | DpgbNLVcC9Me
+   80.00% | TGTG c9myaw87wm
+   80.00% | AIRBNB * HMSC9M
+   80.00% | FACEBK *LHC9MPC
+   80.00% | TGTG s6tpn6c9mt
+   80.00% | FACEBK *7N5C9M8
+   80.00% | Amazon.fr*WC9M3
+   80.00% | TGTG 21mczjzc9m
+   80.00% | GRAB* A-7UHSC9M
+   80.00% | Amazon.fr*0C9M9
+   80.00% | TGTG tk0xtc9mt0
+   80.00% | AIRBNB * HMC9M5
+   80.00% | sYmc9MWIqLM2
+   80.00% | C9MTKe37mA7u
+   80.00% | TGTG fqabc9md8a
+   80.00% | TGTG byc9mbbc6c
+   80.00% | TGTG c6eec9mkbe
+   80.00% | VMX6C9MiLTwl
+   80.00% | AMAZON* EN38C9M
+   80.00% | 8wmQR3hC9MaX
+   80.00% | TgD1Z0XTdC9M
+   80.00% | TGTG yjsvc9m6rs
+   80.00% | TGTG dnsbc9mh8s
+   80.00% | Amazon.fr*KC9MD
+   80.00% | 5nSkQc9mc6SO
+   80.00% | TGTG xvrxjc9mtr
+   80.00% | TGTG 85vapc9m8v
+   80.00% | TGTG xc9m1mhdj9
+   80.00% | TGTG qc9m6s9wj9
+   80.00% | FREENOW* C9MVIX
+   80.00% | TGTG bvmcd7bc9m
+   80.00% | Amazon.fr*WC9MI
+   80.00% | AIRBNB * HMQC9M
+   80.00% | TGTG 4ymbjc9m8m
+   80.00% | TSsNQQjK1C9M
+   80.00% | AIRBNB * HM5C9M
+   80.00% | FACEBK *C9MFQGQ
+   80.00% | OUc9MwsH6hJR
+   80.00% | sLROoR1C9MIf
+   80.00% | TGTG dpffc9mqcf
+   80.00% | XnePHYSzC9mY ti
+   80.00% | TGTG 4qc9m4ys6c
+   80.00% | Amazon.fr*7C9M1
+   80.00% | Audible*0Z5HC9M
+   80.00% | AIRBNB * HMYC9M
+   80.00% | Amazon.fr*WC9M9
+   80.00% | TGTG y0we6c9mbw
+   80.00% | TGTG k8c9mz6j6c
+   80.00% | TGTG 4bpt1c9mqp
+   80.00% | TGTG hhc9m4yy6c
+   80.00% | TGTG c9m878m55m
+   80.00% | TGTG 8c9mqqeth9
+   80.00% | TGTG 3cc9mm726c
+   80.00% | easyJetK9HPC9M
+   80.00% | HFLvei90mc9m
+   80.00% | LEUSYDHC9MII .
+   80.00% | TGTG nt80c9myx8
+   80.00% | FACEBK *CDC9MNU
+   80.00% | TGTG vg1tc9mgq1
+   80.00% | CC9MWDHHW8HJ ht
+   80.00% | FREENOW* C9MV28
+   80.00% | Amazon.fr*RC9MP
+   80.00% | AIRBNB * HM4C9M
+   80.00% | FACEBK *UC9M9TG
+   80.00% | TGTG 3sp7c9mm4p
+   80.00% | FwbeyAC9MQu3
+   80.00% | TGTG b7ntc9m0rn
+   80.00% | TGTG xc9ma9vph9
+   80.00% | easyJetK9QC9MQ
+   80.00% | zziyZC9mm3uz
+   80.00% | FACEBK *C9MNVL4
+   80.00% | FREENOW* C9MWD7
+   80.00% | AIRBNB * HMC9MA
+   80.00% | FACEBK *B9WC9M4
+   80.00% | FACEBK *8D7C9M4
+   80.00% | QghqC9mAQlEj
+   80.00% | uee8F4GQMc9m
+   80.00% | FACEBK *ZC9M3GL
+   80.00% | TGTG 1jhc9mgwah
+   80.00% | AIRBNB * HMC9ME
+   80.00% | ZTcHTC9mgshi
+   80.00% | rvbDR2TOC9mD
+   80.00% | WGz1Vc9mk1zV
+   80.00% | rUdVmC9M9xOK
+   80.00% | TGTG z92ggc9md2
+   80.00% | TGTG wc9mpnwzh9
+   80.00% | TGTG q4mcdg9c9m
+   80.00% | Amazon.fr*RC9M9
+   80.00% | TGTG 4nxc9my09x
+   80.00% | TGTG 58mp8ac9mm
+   80.00% | TGTG gvmc53gc9m
+   80.00% | VAST.AI* 543C9M
+   80.00% | TGTG j9mc6bxc9m
+   80.00% | TGTG m6gc9mp2ag
+   80.00% | FACEBK *R3UC9MC
+   80.00% | AIRBNB * HMC9MX
+   80.00% | TGTG 6c9mw3rzh9
+   80.00% | x6IVyKC9MCMW
+   80.00% | TGTG 0b1cc9m591
+   80.00% | Grab* A-7C9MW8P
+   80.00% | Amazon.fr*GC9MC
+   80.00% | Amazon.fr*KC9MB
+   80.00% | PONY SA* ANSC9M
+   80.00% | Z3mZeltC9mVK
+   80.00% | BUKc9MnikrFD
+   80.00% | AIRBNB * HMC9MF
+   80.00% | TGTG h16c9mhe96
+   80.00% | DC9M0RHHV7AC ww
+   80.00% | TGTG tc9mfzqkh9
+   80.00% | TGTG 0kmbc23c9m
+   80.00% | DfTmC9mDvJ3l
+   80.00% | Grab* A-7JC9M3O
+   80.00% | FACEBK *UC9MVF8
+   80.00% | uX0IVFrC9Mi6
+   80.00% | DC9M0RHHVDTM ww
+   80.00% | TGTG k5mb90rc9m
+   80.00% | l0mZyLxc9m42
+   80.00% | Amazon.de*TC9M2
+   80.00% | TGTG pc9m909fh9
+   80.00% | TGTG d13yfc9mv3
+   80.00% | TGTG ytc9md8a6c
+   80.00% | FREENOW* C9MST5
+   80.00% | TGTG c9m81k1q5m
+   80.00% | PONY SA* C9MS2E
+   80.00% | FREENOW* C9M0D3
+   80.00% | CC9MWDHHRX0A ht
+   80.00% | TGTG 5f6fec9mc6
+   80.00% | Amazon.fr*XC9MG
+   80.00% | CC9MWDHHVI7K ht
+   80.00% | TGTG c9myy7qjvm
+   80.00% | TGTG fc9mxdwkh9
+   80.00% | TGTG thdc9mbm9d
+   80.00% | TGTG e3yc9mr39y
+   80.00% | Amazon.fr*VC9MN
+   80.00% | Ccerpc9MLW6o
+   80.00% | TGTG c9mpss6gkm
+   80.00% | AWpVoIC9mM96
+   80.00% | C9m4CAHT0Ozq
+   80.00% | TGTG w1mcyk6c9m
+   80.00% | Grab* A-7C9MONW
+   80.00% | TGTG bc9mw4mth9
+   80.00% | FREENOW* C9MNJC
+   80.00% | TGTG s6c9mn2y6c
+   80.00% | AIRBNB * HMC9MH
+   80.00% | FREENOW* C9MPNV
+   80.00% | TGTG 09zpwgc9mz
+   80.00% | ppqjXC9mgDuk
+   80.00% | yozoic9m4M4M ti
+   80.00% | TGTG 11886c9m68
+   80.00% | TGTG zy2qvdc9m2
+   80.00% | PONY SA* C9MSN5
+   80.00% | FACEBK *HC9MNN8
+   80.00% | TGTG fc9mt22xh9
+   80.00% | TGTG zfh6c9mz4h
+   80.00% | Amazon.fr*5C9M3
+   80.00% | TGTG jj25c9mk22
+   80.00% | AIRBNB * HMC9MR
+   80.00% | Amazon.fr*HC9MG
+   80.00% | yAfs3Mgc9MCU
+   80.00% | TGTG kg6qc9m0m6
+   80.00% | TGTG w0aqxmc9ma
+   80.00% | Amazon.fr*RC9MT
+   80.00% | PONY SA* RC9MRT
+   80.00% | Kfi68MLqpc9m
+   80.00% | Kc9myiKmnIjv
+   80.00% | AIRBNB * HMCC9M
+   80.00% | OCULUS *UD7C9MG
+   80.00% | AMAZON* RA0CC9M
+   80.00% | TGTG 16jenc9mbj
+   80.00% | IQRf4bc9MO8M
+   80.00% | TGTG xv6c9mga96
+   80.00% | TGTG 2hc9m53r6c
+   80.00% | TGTG c5d5c9mj3d
+   80.00% | CC9MWDHHZILU ww
+   80.00% | Amazon.fr*QC9MH
+   80.00% | TGTG 0hahrc9mea
+   80.00% | TGTG w10mwc9mh0
+   80.00% | TGTG tt5c9mmm95
+   80.00% | PONY SA* QZC9M2
+   80.00% | TGTG c9mfdad5cm
+   80.00% | FACEBK *QUWC9MC
+   80.00% | TGTG hfe8c9my5e
+   80.00% | TGTG g7bqwc9mmb
+   80.00% | FACEBK *BC9MSH8
+   80.00% | AIRBNB * HMBC9M
+   80.00% | TGTG mc2v5c9mr2
+   80.00% | Amazon.fr*GC9MD
+   80.00% | TGTG v6c9mnzv6c
+   80.00% | TGTG 3wwq8hc9mw
+   80.00% | AIRBNB * HMDC9M
+   80.00% | TGTG 1pc9mxj56c
+   80.00% | TGTG 55cc8c9mac
+   80.00% | TGTG 5dtqdxc9mt
+   80.00% | TGTG 49fq2xc9mf
+   80.00% | FACEBK *TLC9MKG
+   80.00% | TGTG dfvc9mm29v
+   80.00% | FACEBK *PTAC9MG
+   80.00% | TGTG c9mejhfscm
+   80.00% | u341iPrJC9Mi
+   80.00% | 5c9MGGFlXAzs
+   80.00% | TGTG pctqg1c9mt
+   80.00% | CUjs1c9MqlMN
+   80.00% | PONY SA* CNKC9M
+   80.00% | CC9MWDHHNM8S ht
+   80.00% | TGTG b2vc9mgc9v
+   80.00% | 9PWTGN7C9MJG ww
+   80.00% | OJi1c9MoScD8
+   80.00% | TGTG w2mc2c1c9m
+   80.00% | TGTG gm5c9mge95
+   80.00% | METAPAY*DFLC9MC
+   80.00% | D80J7C9MZ4XZ KE
+   80.00% | TGTG 7qwhac9mew
+   80.00% | FREENOW* C9MHJI
+   80.00% | METAPAY*USNC9MY
+   80.00% | y7quO0c9mq4H
+   80.00% | TGTG d9scc9mx9s
+   80.00% | PONY SA* C9M9FL
+   80.00% | TGTG a9c9mdxn6c
+   80.00% | AIRBNB * HMPC9M
+   80.00% | TGTG 3d5exc9mc5
+   80.00% | VOLOTEA.COM C9M
+   80.00% | TGTG eg7pxdc9m7
+   80.00% | AIRBNB * HMC9MB
+   80.00% | TGTG c9mqd5manm
+   80.00% | TGTG 5hbqczc9mb
+   80.00% | Amazon.fr*HC9ML
+   80.00% | FACEBK *F4QC9MU
+   80.00% | TGTG 23sfvc9mcs
+   80.00% | TGTG 845p4wc9m5
+   80.00% | AIRBNB * HMC9MN
+   80.00% | c9MBNuxQa1eY
+   80.00% | Amazon.fr*FC9M8
+   80.00% | TGTG t1jqr9c9mj
+   80.00% | TGTG wqmcw2qc9m
+   80.00% | FACEBK *5GAC9M4
+   80.00% | AIRBNB * HM9C9M
+   80.00% | Amazon.fr*XC9M9
+   80.00% | FREENOW* C9MGZ3
+   80.00% | DC9M0RHHV2D5 ww
+   80.00% | Volotea C9M
+   80.00% | Amazon.fr*JC9M2
+   80.00% | jjiC9Mpj7b7G
+   80.00% | TGTG 7r2qgkc9m2
+   80.00% | PONY SA* C9MEEP
+   80.00% | Dropbox*2C9M36R
+   80.00% | AIRBNB * HMC9MS
+   80.00% | TGTG 47ch9c9mfc
+   80.00% | lDpvU6mEc9mh ti
+   80.00% | TGTG ejgbc9mj8g
+   80.00% | TGTG 6j1qgsc9m1
+   80.00% | TGTG c9mx1qkptm
+   80.00% | Amazon.fr*UC9M3
+   80.00% | TGTG tc9mv8xxh9
+   80.00% | c9mj9jmkq4T7
+   80.00% | D4B2C9MNWHO0 ht
+   80.00% | TGTG zxmdmnxc9m
+   80.00% | TGTG ykpc9m2f9p
+   80.00% | CC9MWDHHT2NF ht
+   80.00% | 4ACBYKC9MMF6 ht
+
+================================================================================
+KEYWORD 9/79: 'CAMION BLANC'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 23
+  After deduplication: 18 (5 duplicates removed)
+  Final results: 18
+  Processing time: 1m 13.2s
+
+Matches above 80.0% (Ensemble):
+   98.00% | CAMION BLANC
+   87.37% | MAISON BLANC
+   84.56% | CARBON BLANC
+   83.53% | CAMION BAR
+   83.39% | CAMPING BLAIN
+   82.58% | MAISON BLANCA
+   82.58% | MAISON BLANCO
+   81.93% | CAN BLANCH
+   81.72% | CASINO BANCO
+   81.38% | CRIN BLANC
+   81.09% | MATIN BLANC
+   81.09% | MAISON BLAN
+   80.82% | MONT BLANC
+   80.74% | CAMELIA BLANC
+   80.59% | COTON BLANC
+   80.44% | CAMION BRASAO
+   80.00% | CELINE BLANC
+   80.00% | CHAMPION BAR
+
+================================================================================
+KEYWORD 10/79: 'CAMION NOIR'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 7
+  After deduplication: 6 (1 duplicates removed)
+  Final results: 6
+  Processing time: 1m 9.4s
+
+Matches above 80.0% (Ensemble):
+   98.18% | CAMION NOIR
+   82.03% | CAM MONT NOIR
+   81.14% | JASMIN NOIR
+   81.09% | MAISON NOIRE
+   80.96% | CAMPION N
+   80.30% | CAMPING SOIR
+
+================================================================================
+KEYWORD 11/79: 'CLODO CLOUD'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 11.1s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 12/79: 'COMITE DE LIAISON'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 7
+  After deduplication: 7 (0 duplicates removed)
+  Final results: 7
+  Processing time: 1m 11.2s
+
+Matches above 80.0% (Ensemble):
+   87.25% | COMITE LIAISON
+   83.76% | COMITE DES LOIS
+   80.89% | COMITE DETABLIS
+   80.78% | COMITE DES LO
+   80.51% | COMITE DEPT MIS
+   80.51% | COMITE DEP LIGU
+   80.51% | COMITE FETE LAN
+
+================================================================================
+KEYWORD 13/79: 'COMMUNAUTÉ DE LA ROSE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 12.0s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 14/79: 'DERIN DEVLET'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 12.1s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 15/79: 'DIEGO SBICCA'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 2
+  After deduplication: 2 (0 duplicates removed)
+  Final results: 2
+  Processing time: 1m 12.0s
+
+Matches above 80.0% (Ensemble):
+   81.18% | DIEGO LICENCIA
+   80.11% | DIEGO ESCAMEZ
+
+================================================================================
+KEYWORD 16/79: 'DISSIDENCE TV'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 5
+  After deduplication: 5 (0 duplicates removed)
+  Final results: 5
+  Processing time: 1m 12.1s
+
+Matches above 80.0% (Ensemble):
+   85.64% | DISSIDENCE
+   83.92% | DISSIDENCE BAR
+   81.97% | DISSIDENT BAR
+   80.24% | DISSIDENT-P
+   80.01% | DISSIDENT CLUB
+
+================================================================================
+KEYWORD 17/79: 'DPF'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 626
+  After deduplication: 626 (0 duplicates removed)
+  Final results: 626
+  Processing time: 1m 50.7s
+
+Matches above 80.0% (Ensemble):
+   93.33% | IREINE.FR* DPTF
+   93.33% | Eklo Paris DPHF
+   93.33% | DPSF
+   93.33% | DPSF TRIANGLE
+   92.50% | DAPF FUTSUKEN W
+   92.50% | IREINE.FR* D9PF
+   85.00% | DPF
+   85.00% | ORDPF
+   85.00% | CSMDPF
+   85.00% | PPG*DPF
+   85.00% | PDPF93
+   85.00% | DPF VAD
+   80.00% | FACEBK *2JDPFLY
+   80.00% | TGTG 1bkjfadpfk
+   80.00% | 03lDpFD5EA8F ti
+   80.00% | AIRBNB * HMDPFH
+   80.00% | SuDpfuEg8Im7
+   80.00% | AIRBNB * HMADPF
+   80.00% | TGTG 18fsm43dpf
+   80.00% | AGGLOFVRESIDPFI
+   80.00% | PONY SA* GQDPFT
+   80.00% | 7XJQGqdpfMgK
+   80.00% | IDPfVUxYw7B4
+   80.00% | TGTG d2cjrmdpfc
+   80.00% | TGTG 4ahwkdpfsh
+   80.00% | AIRBNB * HMDPFZ
+   80.00% | yHKPvT7lJdPf
+   80.00% | GSdpftdA3J9I
+   80.00% | DPfk3RsUJjCa
+   80.00% | TGTG f9fjghdpff
+   80.00% | TGTG ts00dpfmy0
+   80.00% | TGTG pdpf1xsmcp
+   80.00% | AIRBNB * HMEDPF
+   80.00% | TGTG p03jm1dpf3
+   80.00% | yNdDWENDDpfL
+   80.00% | TGTG 8kdpf382kd
+   80.00% | TGTG 8yfsw4ydpf
+   80.00% | TGTG 4zxdpfwfax
+   80.00% | NeHTUldpfWwH
+   80.00% | FACEBK *DPF7GNQ
+   80.00% | weuzBBDPF5fD
+   80.00% | FB3IkTiLdpF3
+   80.00% | TGTG cdpfmczedp
+   80.00% | 9BXNRLDpFApa
+   80.00% | TGTG nvndpf5k9n
+   80.00% | egJSgdpfKl67
+   80.00% | TGTG agyjnjdpfy
+   80.00% | Rajae MCLCVDPF
+   80.00% | TGTG nvyx2dpfty
+   80.00% | IREINE.FR* DPFG
+   80.00% | FACEBK *HDPFELU
+   80.00% | GODpfF2mBgDq
+   80.00% | FACEBK *AUDPFML
+   80.00% | XdPFmcDuvM7r
+   80.00% | TGTG qtmsdpfapm
+   80.00% | TGTG dpfcws2caf
+   80.00% | EUJFDPFZJK D 8
+   80.00% | TGTG adpfmamjdp
+   80.00% | TGTG dpf5wf0t2f
+   80.00% | TGTG vdpfj3a3dp
+   80.00% | TGTG 1vdpf6nqkd
+   80.00% | FACEBK *YP4DPFL
+   80.00% | PAYPAL *SUEDPFA
+   80.00% | TGTG 80qedpfwbq
+   80.00% | dpb.sk *9BDPfQ
+   80.00% | AIRBNB * HMDPFX
+   80.00% | TGTG 14da2dpf8d
+   80.00% | AIRBNB * HMJDPF
+   80.00% | mydpFOijhkJm
+   80.00% | TGTG 6azdpf27az
+   80.00% | Pg0Jfy4DPFa9
+   80.00% | AIRBNB * HMFDPF
+   80.00% | gz1cU7WwrdPf
+   80.00% | TGTG 2jftg3vdpf
+   80.00% | PlwSZOY4dpFp
+   80.00% | TGTG 6qthdpf3et
+   80.00% | TGTG j88jdpfef8
+   80.00% | Grab* A-7PDPF25
+   80.00% | TGTG 030dpf17a0
+   80.00% | TGTG 2xdjhxdpfd
+   80.00% | TGTG dpf64v624f
+   80.00% | PAYPAL *mdpfros
+   80.00% | TGTG qmgjfddpfg
+   80.00% | TGTG dpf30ztv0f
+   80.00% | 4BmTDpFUbrvt
+   80.00% | TGTG 9yjj30dpfj
+   80.00% | LIME*PASS NDPF
+   80.00% | PONY SA* YDPFGC
+   80.00% | AIRBNB * HMDPFC
+   80.00% | TGTG caxdpf1kax
+   80.00% | 9DPFMd91a4Z7 ti
+   80.00% | TGTG cvcjaedpfc
+   80.00% | TGTG tdpfg5cfcp
+   80.00% | TGTG 7e1dpf0fb1
+   80.00% | FACEBK *U7DPFGC
+   80.00% | TGTG khhkqdpfgh
+   80.00% | WDpFQ9ivpkl0
+   80.00% | TGTG 72jrdpfrnj
+   80.00% | UR0OdPfTnkzv ti
+   80.00% | HELDPFORBUY
+   80.00% | ctq0YcymgdPF
+   80.00% | TGTG e3adpfj6aa
+   80.00% | dpF8GKAzK3Ar
+   80.00% | CQ6xDMDpfORt
+   80.00% | PONY SA* FDPF4V
+   80.00% | dpFVqDXWUfY8
+   80.00% | TGTG cbptdpfxrp
+   80.00% | V6eYchJdPFGu
+   80.00% | TPXGDuDPfzYQ
+   80.00% | TGTG dpfav57k7f
+   80.00% | E0DpftVwUep7
+   80.00% | gXyCs7oWvdpf
+   80.00% | gdKpngUKDPfR
+   80.00% | A6J8WmaBDpFx
+   80.00% | TGTG 7ky27dpfzy
+   80.00% | TGTG k0fses5dpf
+   80.00% | AIRBNB * HMDPF2
+   80.00% | TGTG snftfnmdpf
+   80.00% | PONY SA* QNDPFE
+   80.00% | A0K8TDPFwR0M
+   80.00% | 36DPFYrv0aIJ
+   80.00% | TGTG we25dpff22
+   80.00% | TGTG wvdp7dpfkd
+   80.00% | 3ydpf5OkAFa0
+   80.00% | TGTG dpf160wczf
+   80.00% | TGTG adpfj86jdp
+   80.00% | TGTG redpfdbwkd
+   80.00% | 7pZdpF3Pl1qH
+   80.00% | TGTG 19pndpf3jp
+   80.00% | TGTG 8gwdpf83aw
+   80.00% | wb5puDPf9rXI
+   80.00% | AIRBNB * HMDPF4
+   80.00% | TGTG ydpfk0vvcp
+   80.00% | TGTG dpf1vj24yf
+   80.00% | AIRBNB * HMHDPF
+   80.00% | LgWtWydpFG9Z
+   80.00% | BzDNJDPFSpn8
+   80.00% | HoaDPnLDpfuC
+   80.00% | qhajdPfr1aWU
+   80.00% | TGTG 3dpfe1xccp
+   80.00% | TGTG 2ezhhmdpfz
+   80.00% | WFTFAANDPFED ww
+   80.00% | TGTG p5hdpfc1ah
+   80.00% | asso.adpfdiscip
+   80.00% | TEPNaV2qgDpf
+   80.00% | ZIODpfRsXqnn
+   80.00% | ZimtundPfeffer
+   80.00% | ZUR SUDPFANNE
+   80.00% | TGTG 6p4jtndpf4
+   80.00% | TGTG 0xwdpfhzbw
+   80.00% | TGTG 24zj9fdpfz
+   80.00% | A0OmDn9DPfmD
+   80.00% | TGTG rdpfgztsdp
+   80.00% | T8ZEFFAEIDPF ww
+   80.00% | 0YEdPfPeknCX
+   80.00% | TGTG e6tdpfkdbt
+   80.00% | Grab* A-7DPF67H
+   80.00% | TGTG vdpfc1rpcp
+   80.00% | 2NJxDpfC8Eru
+   80.00% | TGTG qwfr65hdpf
+   80.00% | PONY SA* IDPFQ4
+   80.00% | PONY SA* WADPF7
+   80.00% | TGTG c4nfdpfadn
+   80.00% | cDOtJrMNddpF
+   80.00% | TGTG gdpfwgapcp
+   80.00% | TGTG h45bjdpf85
+   80.00% | KMRgdPfJoTzT
+   80.00% | easyJetK8PBDPF
+   80.00% | AIRBNB * HMSDPF
+   80.00% | PONY SA* GDPFWT
+   80.00% | AIRBNB * HMDPFP
+   80.00% | TGTG xvfsg07dpf
+   80.00% | TGTG bb1dpfh2b1
+   80.00% | TGTG 7rdpf4gckd
+   80.00% | LIME*TRAJET DPF
+   80.00% | TGTG w4a96dpf7a
+   80.00% | DpFmWyZHorfJ
+   80.00% | dPF4hYoJyn3b
+   80.00% | AIRBNB * HMNDPF
+   80.00% | SARL DPF ORPI
+   80.00% | TGTG 82dpfm6wkd
+   80.00% | HOTEL SUEDPFALZ
+   80.00% | TGTG 76adpft1aa
+   80.00% | ryv2OkvIdPFT
+   80.00% | TGTG yrsdpffwas
+   80.00% | FACEBK *E4DPFP4
+   80.00% | TGTG epthgndpft
+   80.00% | KTM*46j5nsdpf2q
+   80.00% | TGTG dpfx7fy4tf
+   80.00% | Grab* A-7F3CDPF
+   80.00% | TGTG dpfa4s7m7f
+   80.00% | TGTG cadpfws0kd
+   80.00% | TGTG t8dpfpexkd
+   80.00% | CV.fr CUDpF6XX
+   80.00% | ABRITEL HASDPFY
+   80.00% | QCDPFBPHJQ D 8
+   80.00% | jwBj31FpdPFz
+   80.00% | dPfHhwsYjXYu
+   80.00% | TGTG gdpf7x80cp
+   80.00% | TGTG hdpf53nccp
+   80.00% | fYDFjmYDpfOY
+   80.00% | o7DPFUs2EBLB
+   80.00% | PONY SA* DPFA8Q
+   80.00% | TGTG edad6dpfaa
+   80.00% | AIRBNB * HMDPFQ
+   80.00% | Etsy.com*CyDPFr
+   80.00% | GRAB* A-7DPF7BU
+   80.00% | wtfs6z9DpFFD
+   80.00% | wcidHzR69dPF
+   80.00% | AIRBNB * HMYDPF
+   80.00% | PONY SA* HDDPFW
+   80.00% | TGTG 85dpfksnjd
+   80.00% | TGTG e4fst7rdpf
+   80.00% | JiAHHvdPFbHm
+   80.00% | TGTG dfzdpfqdaz
+   80.00% | OUiyydpfTOgN ti
+   80.00% | TGTG 2dpfx35ccp
+   80.00% | qbNwMidpfKnj
+   80.00% | Oehn3M3uDPfe
+   80.00% | 4II5MDPFMRWR ht
+   80.00% | AIRBNB * HM2DPF
+   80.00% | VUELING AIRLDPF
+   80.00% | TGTG bv13dpfj01
+   80.00% | TGTG 2fjptdpfkj
+   80.00% | 7odPFPnxcZZX
+   80.00% | Qko6WgiNDpFf
+   80.00% | TGTG ttdpfjw1jd
+   80.00% | TGTG sejh0qdpfj
+   80.00% | TGTG 10fsahfdpf
+   80.00% | TOPZ0Y4DPF57 ht
+   80.00% | TGTG r4pbdpf28p
+   80.00% | ASSO MASTER DPF
+   80.00% | cul5jhGtDPfz
+   80.00% | TGTG c1fs066dpf
+   80.00% | MUDpf450xvdf
+   80.00% | TGTG dpf0cbg3yf
+   80.00% | CLGHP43PAYDPFIN
+   80.00% | TGTG nrhhazdpfh
+   80.00% | TGTG yqdpfxzhkd
+   80.00% | TGTG ssdpfydvkd
+   80.00% | TGTG wdpf7wmfcp
+   80.00% | P4Nqr0DpficP
+   80.00% | TGTG ma6vdpfzr6
+   80.00% | TGTG gyt9bdpf6t
+   80.00% | JHrDPFLgmmso
+   80.00% | dPFZm6ukAw0K ti
+   80.00% | TGTG 72w5dpf73w
+   80.00% | TGTG exdpftzjjd
+   80.00% | hCaQPZSSdpf5
+   80.00% | CV.fr DpFj3kvC
+   80.00% | FACEBK *YPUDPFL
+   80.00% | TGTG mjfsnd3dpf
+   80.00% | DpFSrSsHnqpK
+   80.00% | TGTG k78dpfdna8
+   80.00% | mOdPFNgc0zWx
+   80.00% | ifinSiBrODpf
+   80.00% | TGTG xrr70dpf4r
+   80.00% | PTLZDPFOZG D 8
+   80.00% | TGTG b4135dpf01
+   80.00% | qoeDpFQDj0vo
+   80.00% | yKrMsndPFoZi
+   80.00% | WsvJ5HpFDPf4
+   80.00% | 2oyJeDPfDzPm
+   80.00% | TGTG gfxjjtdpfx
+   80.00% | TGTG 196esdpfb6
+   80.00% | TGTG 0cfsr7cdpf
+   80.00% | IREINE.FR* XDPF
+   80.00% | TGTG pr1dpf8ra1
+   80.00% | Suedpfalz Therm
+   80.00% | TGTG 91dpfdk4kd
+   80.00% | TGTG dh61dpfry6
+   80.00% | TGTG edpfxwjecp
+   80.00% | TGTG w7ekdpf9ge
+   80.00% | DPF SERVICES
+   80.00% | TGTG zwfdpfhgaf
+   80.00% | AIRBNB * HM5DPF
+   80.00% | FACEBK *FEDPFNC
+   80.00% | TGTG zswj35dpfw
+   80.00% | 33lYNrdPFOQz
+   80.00% | 40Tdpfktduej
+   80.00% | Y1gdAELdpFrk
+   80.00% | AIRBNB * HMDPFB
+   80.00% | TGTG mdpfkcepdp
+   80.00% | TGTG 6zytdpfyqy
+   80.00% | OCULUS *HKDPFPL
+   80.00% | fg.mkdpfw.com
+   80.00% | h6qdfv1HdPfM
+   80.00% | heKiPcDPFWR6
+   80.00% | TGTG dcytdpfbqy
+   80.00% | TGTG pdpfp4w2cp
+   80.00% | METAPAY*FMUDPFG
+   80.00% | P2W8DpFoIl2c ti
+   80.00% | TGTG 03frab5dpf
+   80.00% | FACEBK *UDPF9Q8
+   80.00% | TGTG 9ysjardpfs
+   80.00% | TGTG tk0p9dpfk0
+   80.00% | EMq7VU974Dpf
+   80.00% | AIRBNB * HMDPFF
+   80.00% | TGTG 5xfs3esdpf
+   80.00% | KTM*4lksjdpf2rl
+   80.00% | Etsy.com*3DPFpr
+   80.00% | TGTG px30dpf1x3
+   80.00% | TGTG dpf0nahcxf
+   80.00% | AdpF5Y5rUXOY
+   80.00% | PONY SA* ADPFF6
+   80.00% | AIRBNB * HMMDPF
+   80.00% | iFF8IDpfpzfH
+   80.00% | TGTG zr52dpfrz5
+   80.00% | TGTG p8fs8pndpf
+   80.00% | l6MDQ8ndpFdZ
+   80.00% | DEPIFI
+   80.00% | AIRBNB * HMDPFJ
+   80.00% | k5h1gDPfSBGR
+   80.00% | 3dPF0pZJAvrl
+   80.00% | TGTG n6yjz8dpfy
+   80.00% | WIZZ AIR DPF
+   80.00% | TGTG g8hj6pdpfh
+   80.00% | TGTG dpfw2t8xsf
+   80.00% | 4II5MDPFUCUB ww
+   80.00% | Suedpfalz-Jugen
+   80.00% | qdPF4aNBYuKx
+   80.00% | C8I61ZKDPFPS ww
+   80.00% | 3hLlVdPfNfpL
+   80.00% | dpflezr3nwHi
+   80.00% | AIRBNB * HMWDPF
+   80.00% | DPFCHIPTUNING
+   80.00% | TGTG jexjmjdpfx
+   80.00% | IvQdpF85wGUb
+   80.00% | w5SdmXMbKdpF
+   80.00% | TGTG cdpfznt2cp
+   80.00% | FACEBK *DPFGGK4
+   80.00% | OH9JOK2HXDPF ht
+   80.00% | DPF CLEANER
+   80.00% | KTM*0ydpf0de4m1
+   80.00% | TGTG xwc6dpf33c
+   80.00% | TGTG 8dpfshx5cp
+   80.00% | Grab* A-7PDPF9K
+   80.00% | TGTG 3vfrewcdpf
+   80.00% | TGTG mdpfaypqcp
+   80.00% | DPF LACHAL JULI
+   80.00% | AIRBNB * HMDPFE
+   80.00% | TGTG exgj6xdpfg
+   80.00% | TGTG err4edpf1r
+   80.00% | TGTG kbfsqz4dpf
+   80.00% | TGTG kggdpfhtag
+   80.00% | AIRBNB * HMKDPF
+   80.00% | AIRBNB * HM9DPF
+   80.00% | TGTG dvdpfby5kd
+   80.00% | TGTG k8pjcmdpfp
+   80.00% | FACEBK *EPJDPFL
+   80.00% | TGTG dpffk2nmcf
+   80.00% | TGTG sdpfd3drdp
+   80.00% | TGTG h6aj6tdpfa
+   80.00% | VR BANK SUEDPFA
+   80.00% | TGTG 03fs8bsdpf
+   80.00% | TGTG ydpfr8tacp
+   80.00% | TGTG fdfsnxrdpf
+   80.00% | TGTG dpfp3gq0kf
+   80.00% | TGTG jpgp7dpfmg
+   80.00% | TGTG p8cq6dpfmc
+   80.00% | TGTG vvfs4n7dpf
+   80.00% | TGTG n8rdpf0mar
+   80.00% | Grab* A-7DL9DPF
+   80.00% | TGTG 36rj06dpfr
+   80.00% | AIRBNB * HM3DPF
+   80.00% | TGTG dpfx6tmmvf
+   80.00% | PONY SA* ALUDPF
+   80.00% | TGTG dpfhazbbef
+   80.00% | TGTG dpf5ay863f
+   80.00% | TGTG 0dpfxwcjcp
+   80.00% | BEST - DPF - Av
+   80.00% | WJ8bDjRdpFds
+   80.00% | TGTG wzfrcn1dpf
+   80.00% | TGTG qxqpfdpfmq
+   80.00% | TGTG dqddpfcyad
+   80.00% | TGTG jydpf7t1kd
+   80.00% | DPfIhNNZ1lsu
+   80.00% | PAYPAL *DPF FRA
+   80.00% | AIRBNB * HMCDPF
+   80.00% | TGTG 1dpfemnbdp
+   80.00% | TGTG 4b9dpf5wb9
+   80.00% | DPF AUTOMOBILES
+   80.00% | BAUMUNDPFERDGAR
+   80.00% | AIRBNB * HMTDPF
+   80.00% | CO8W5FHDPFY9 ww
+   80.00% | AIRBNB * HMRDPF
+   80.00% | TGTG dpfadz9z8f
+   80.00% | TGTG cdpfw3sfcp
+   80.00% | TGTG j5nm0dpfhn
+   80.00% | PONY SA* DPF7HT
+   80.00% | CuExdpF4GEDQ
+   80.00% | DpfW8HxcxCVb
+   80.00% | TGTG dcszmdpfws
+   80.00% | DpFfnsFdXJpz ti
+   80.00% | TGTG 6g2dpf9bb2
+   80.00% | zBXM7uDPFOIM
+   80.00% | 45F4c5iwdpfG
+   80.00% | TGTG dpffc9mqcf
+   80.00% | M2RdPfQDIpDR
+   80.00% | ADPFCLmZQ3fj
+   80.00% | TGTG yxc4dpf50c
+   80.00% | WNRVD9Z5ZDPF ww
+   80.00% | TGTG sa2dpf45b2
+   80.00% | TGTG ahsj8edpfs
+   80.00% | TGTG ydpf3g0ycp
+   80.00% | TGTG c4fsv7fdpf
+   80.00% | AIRBNB * HMDDPF
+   80.00% | TGTG 32fdpfj8af
+   80.00% | METAPAY*DPFGYHG
+   80.00% | ps5gkiGNUDpF
+   80.00% | QDPFOWHISA WWW.
+   80.00% | PONY SA* SDPFWX
+   80.00% | TGTG r6nxbdpftn
+   80.00% | 9ksMzAl2TDPF
+   80.00% | Mol*Islandpferd
+   80.00% | AIRBNB * HMDPF9
+   80.00% | LIME*PASS DPFW
+   80.00% | oldPDpfqJaFn
+   80.00% | PBAEHDPFJR D 8
+   80.00% | TGTG 5cjhfddpfj
+   80.00% | Jfz7K2DpFmt7
+   80.00% | TGTG brpdpfjaap
+   80.00% | TGTG 6dpfmgdvcp
+   80.00% | TGTG jqfsvycdpf
+   80.00% | Udpfw3yz4JUN
+   80.00% | PONY SA* JLDPFA
+   80.00% | TGTG qdpfahtncp
+   80.00% | SUEDPFALZ APOTH
+   80.00% | WWW.HOTELWILDPF
+   80.00% | Z6dpFBVtTQNp
+   80.00% | TGTG dpfgy5z4df
+   80.00% | TGTG 25frwb6dpf
+   80.00% | dPfkOSbCpkeo
+   80.00% | C40kw2DPFoHw
+   80.00% | TGTG x9jdpf7taj
+   80.00% | TGTG g0dpfy6ekd
+   80.00% | TGTG 4dydpfg6ay
+   80.00% | TGTG 4pfracjdpf
+   80.00% | GRNAADPFTHG3 ww
+   80.00% | NYX*FredPfennin
+   80.00% | U9f3DpFGX84g
+   80.00% | sdpFJ2Dvh0eN
+   80.00% | tFcXdRldPfPx
+   80.00% | TGTG hdpfm24edp
+   80.00% | TGTG dpf61x433f
+   80.00% | TGTG sdpfxj7hcp
+   80.00% | hyC1dpFqJs8L
+   80.00% | Etsy.com*DPFact
+   80.00% | TGTG 7wpj92dpfp
+   80.00% | AQdqDPFu6653
+   80.00% | TGTG dpf10hwwzf
+   80.00% | 96t6NJv7ZDPf
+   80.00% | TGTG xdpfxaahcp
+   80.00% | TGTG vdpfcgytcp
+   80.00% | asso.adpfàdisci
+   80.00% | kCGdpft4NDJC
+   80.00% | TGTG 88dpf633kd
+   80.00% | uxx0DpfudpIF
+   80.00% | gZfDpFyYJr1L
+   80.00% | TGTG dpf22ypw0f
+   80.00% | dpF7UiO7Vwuv
+   80.00% | AIRBNB * HMDPF3
+   80.00% | TGTG ccwkdpfbgw
+   80.00% | TGTG dpfmtymahf
+   80.00% | TGTG gqfsr9mdpf
+   80.00% | TGTG r3fsrhhdpf
+   80.00% | TGTG 790dpfwxb0
+   80.00% | TGTG y8fr5fkdpf
+   80.00% | TGTG ybfs0s1dpf
+   80.00% | TGTG 7crdpfzwar
+   80.00% | RYANAIR DPF
+   80.00% | PONY SA* PDPFQK
+   80.00% | TGTG 3sdpf7nekd
+   80.00% | AIRBNB * HMDPFN
+   80.00% | TGTG vaxmhdpfjx
+   80.00% | TGTG 3vahtdpfea
+   80.00% | 8DDpfjnmxC5n
+   80.00% | 3KZFtrw2GDpf
+   80.00% | TGTG dpf6cfx23f
+   80.00% | TGTG txrbdpf49r
+   80.00% | MP68dpf9FSIB
+   80.00% | b0TmgkDpf4eA
+   80.00% | TGTG gczcsdpfaz
+   80.00% | FACEBK *AHDPFQC
+   80.00% | 6DPF9BWCF0i4
+   80.00% | TGTG 8b1xedpft1
+   80.00% | TGTG q3ajfvdpfa
+   80.00% | SCDQmHdpfNrs
+   80.00% | AIRBNB * HMDPFW
+   80.00% | TGTG k12hzcdpf2
+   80.00% | TOXTHDPFNF6K ht
+   80.00% | FrilJDPFcLol
+   80.00% | RODPFpXq2bjN
+   80.00% | 4PDBdpf4pubR
+   80.00% | 0gpDPfoMTGm0
+   80.00% | TGTG ytfryxedpf
+   80.00% | QXUDXVDPFZ D 8
+   80.00% | TGTG wy6jnndpf6
+   80.00% | SUMUP *ADPFU
+   80.00% | FACEBK *6KRDPFU
+   80.00% | TGTG 9dpfxabycp
+   80.00% | ohWexBnoTDpF
+   80.00% | TGTG 8s2dpfh8a2
+   80.00% | PONY SA* DPF7SK
+   80.00% | 8D8rjDpfKXp1
+   80.00% | TGTG rxfr99mdpf
+   80.00% | Grab* A-7DPFLTU
+   80.00% | TGTG 6g0hdpfmf0
+   80.00% | TGTG 0yfr6m7dpf
+   80.00% | AIRBNB * HMDPFT
+   80.00% | TGTG 92fr41cdpf
+   80.00% | TGTG 58dpf30qkd
+   80.00% | TGTG 6f90gdpfx9
+   80.00% | TGTG cdpf7sszdp
+   80.00% | qSqkSSvOdPFV
+   80.00% | TGTG 5zdpfd6ekd
+   80.00% | DPF SERVICES DI
+   80.00% | ibKDpFkuB9d5
+   80.00% | TOZT7DPFMKJP ht
+   80.00% | 5qEHIeMHbdPf ti
+   80.00% | PONY SA* TRSDPF
+   80.00% | FACEBK *XPDPFKL
+   80.00% | ieusG7pdpfYz
+   80.00% | DCH89TADPFMC ww
+   80.00% | TGTG 3hjrdpfenj
+   80.00% | NDS3YCkDPfz6
+   80.00% | PONY SA* EDPFNU
+   80.00% | TGTG 7eqvdpfesq
+   80.00% | RNkJK6JdPF0E
+   80.00% | TGTG xdpfwjwscp
+   80.00% | TGTG vn0dpfnca0
+   80.00% | AIRBNB * HMDPF8
+   80.00% | Vueling AirlDPF
+   80.00% | TGTG gpxdpfaqax
+   80.00% | TGTG 04qhnydpfq
+   80.00% | TGTG b8xxdpfmvx
+   80.00% | TGTG p5fskardpf
+   80.00% | TGTG 49fwkdpfsf
+   80.00% | y7Ozj21dpFl2
+   80.00% | TGTG wqg5dpfv2g
+   80.00% | TGTG cx0wmdpfs0
+   80.00% | TGTG dpft2mxnrf
+   80.00% | TGTG wdpfhc85dp
+   80.00% | TGTG r71jn9dpf1
+   80.00% | nFvDPf3UsyLM
+   80.00% | eIkq2xdpF1ag
+   80.00% | LjzWn6jDdPFw
+   80.00% | DDPFvDclk6Cx
+   80.00% | TGTG gdpf5jaxcp
+   80.00% | MMJqyFiDpFHg
+   80.00% | TGTG z4ndpf429n
+   80.00% | TGTG 78dpf3drkd
+   80.00% | TGTG 5s2jtedpf2
+   80.00% | Grab* A-7SDPFIE
+   80.00% | 3p0XdpFMBHdL
+   80.00% | SUMUP *CPDPFR7
+   80.00% | CV.fr opmEdPFg
+   80.00% | TGTG 05fs4trdpf
+   80.00% | TGTG 2w03sdpf10
+   80.00% | AIRBNB * HMDPFM
+   80.00% | dpfdPig7o1HC
+   80.00% | PPn8dkGJhdPf
+   80.00% | AIRBNB * HM4DPF
+   80.00% | PAYPAL *dpforal
+   80.00% | TGTG 31ajewdpfa
+   80.00% | 3H2DPFAvOihS
+   80.00% | TGTG wqadpf8yaa
+   80.00% | TGTG 87q6cdpf3q
+   80.00% | EDPF Villeneuve
+   80.00% | Grab* A-8WQ8DPF
+   80.00% | iqlEvCwDDPFd
+   80.00% | TGTG h5gdpfm3ag
+   80.00% | TGTG pdpfanc6cp
+   80.00% | TGTG se5dpfmaa5
+   80.00% | DPfGlCRhF8wN
+   80.00% | TGTG 5dpf8yfecp
+   80.00% | Wyjjkdpfy3Yh
+   80.00% | TGTG nrthfdpfft
+   80.00% | TGTG n9fhcmdpff
+   80.00% | PONY SA* DPFFKD
+   80.00% | 2lIhpzQDPFIl
+   80.00% | TGTG pjdpffpfkd
+   80.00% | 29dPfTHuGOGs
+   80.00% | nnk7DpFjIelS
+   80.00% | AUTO DPF SERVIC
+   80.00% | MDPFe0vx99XA
+   80.00% | easyJetK9CDPF6
+   80.00% | TGTG kgmqcdpfnm
+   80.00% | TGTG dpf858wf5f
+   80.00% | LdpFfnfotHEM
+   80.00% | TGTG pjhqjdpfmh
+   80.00% | DPf7FFNgDpC7
+   80.00% | 91DaDpfFD0lU
+   80.00% | 1dyiiXDPFazP
+   80.00% | FACEBK *FDPFEFQ
+   80.00% | ebVrdpFu1Vl2
+   80.00% | OCULUS *WDDPFPY
+   80.00% | TGTG jc0hqedpf0
+   80.00% | TGTG 5d0dpfema0
+   80.00% | TGTG p63pbdpfk3
+   80.00% | PONY SA* DPFV8W
+   80.00% | AIRBNB * HMDPFA
+   80.00% | TGTG bxgdpf7sag
+   80.00% | dpFQEZ1zO4B1
+   80.00% | TGTG 7gwzgdpfww
+   80.00% | TGTG ajdpf3a1kd
+   80.00% | 2mlDPFg2ByJw
+   80.00% | Etsy.com*DPFANS
+   80.00% | TGTG k21dpfrnb1
+   80.00% | AIRBNB * HMDPFY
+   80.00% | TGTG rqqctdpf9q
+   80.00% | FACEBK *379DPFL
+   80.00% | TGTG 98dpfna1kd
+   80.00% | TGTG xjdpf5mdkd
+   80.00% | PAYPAL *ORDPF
+   80.00% | TGTG 85y3rdpf1y
+   80.00% | TGTG vnns9dpfqn
+   80.00% | TGTG ndpfxa4vcp
+   80.00% | UvLdPfHlrjxp
+   80.00% | FACEBK *NGDPFRQ
+   80.00% | TGTG 0dpfp7t5cp
+   80.00% | QmUSOdpFHkc9 ti
+   80.00% | AIRBNB * HMDPFK
+   80.00% | A7oriddPF603
+   80.00% | AIRBNB * HMPDPF
+   80.00% | TGTG pdpfm3z2dp
+
+================================================================================
+KEYWORD 18/79: 'DUALPHA'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 6
+  After deduplication: 4 (2 duplicates removed)
+  Final results: 4
+  Processing time: 1m 12.9s
+
+Matches above 80.0% (Ensemble):
+   83.91% | DALUPHAR
+   82.20% | DUALA
+   81.68% | DUALTA
+   80.11% | ALPHA
+
+================================================================================
+KEYWORD 19/79: 'EDITIONS DES FURIEUX'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 1
+  After deduplication: 1 (0 duplicates removed)
+  Final results: 1
+  Processing time: 1m 10.1s
+
+Matches above 80.0% (Ensemble):
+   80.17% | EDITIONS DES GR
+
+================================================================================
+KEYWORD 20/79: 'EDITIONS KONTRE KULTURE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 12.0s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 21/79: 'KONTRE KULTURE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 3
+  After deduplication: 3 (0 duplicates removed)
+  Final results: 3
+  Processing time: 1m 11.0s
+
+Matches above 80.0% (Ensemble):
+   83.57% | KOFFEE KULTURE
+   82.13% | KONTRE KOURANT
+   80.43% | KOFFE KULTURE
+
+================================================================================
+KEYWORD 22/79: 'ECULTURE POUR TOUS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 1
+  After deduplication: 1 (0 duplicates removed)
+  Final results: 1
+  Processing time: 1m 11.2s
+
+Matches above 80.0% (Ensemble):
+   85.17% | CULTUREPOURTOUS
+
+================================================================================
+KEYWORD 23/79: 'EDITIONS MAGNUS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 114
+  After deduplication: 114 (0 duplicates removed)
+  Final results: 114
+  Processing time: 1m 11.3s
+
+Matches above 80.0% (Ensemble):
+   90.67% | EDITIONS MARIGN
+   87.38% | EDITIONS MAISNI
+   87.38% | EDITIONS MEGAST
+   86.93% | EDITIONS MORYAS
+   86.93% | EDITIONS PAULSE
+   86.93% | EDITIONS MANE H
+   86.93% | EDITIONS M* NOU
+   86.77% | EDITIONS SORMAN
+   86.72% | EDITIONS VAGUE
+   86.72% | EDITIONS MAGIC
+   86.72% | EDITIONS MUSIC
+   86.72% | EDITIONS MAGIE
+   86.27% | EDITIONS SANS S
+   86.27% | EDITIONS SIGNES
+   83.90% | EDITIONS NUAGE
+   83.60% | EDITIONS LANGLA
+   83.60% | EDITIONS ARS MA
+   83.60% | EDITIONS SEMENT
+   83.60% | EDITIONS NADEAU
+   83.60% | EDITIONS HASSAN
+   83.60% | EDITIONS NICAIS
+   83.60% | EDITIONS UPADES
+   83.60% | EDITIONS QUAE G
+   83.60% | EDITIONS GANACA
+   83.60% | EDITIONS LA SIN
+   83.60% | EDITIONS MONNAI
+   83.60% | EDITIONS GRASSE
+   83.60% | EDITIONS DU MAR
+   83.60% | EDITIONS LANGLO
+   83.60% | EDITIONS MESURE
+   83.60% | EDITIONS M* NAT
+   83.53% | EDITIONSQUANTUM
+   83.39% | EDITIONSMAG
+   83.37% | EDITIONS SIGNE
+   83.37% | EDITIONS NORMA
+   83.20% | EDITIONS MYSTER
+   83.20% | EDITIONS M* MIS
+   83.20% | EDITIONS LA LIN
+   83.20% | EDITIONS PHILMA
+   83.20% | EDITIONS PARENT
+   83.20% | EDITIONS FRANCO
+   83.20% | EDITIONS FORMAT
+   83.20% | EDITIONS KATANA
+   83.20% | EDITIONS MERGOI
+   83.20% | EDITIONS NUIT E
+   83.20% | EDITIONS PARTAG
+   83.20% | EDITIONS INVERS
+   83.20% | EDITIONS MAHAYA
+   83.20% | EDITIONS LEGISL
+   83.20% | EDITIONS NOUVEL
+   83.20% | EDITIONS PRAXIS
+   83.20% | EDITIONS MULTIM
+   83.20% | EDITIONS HEIMDA
+   83.20% | EDITIONS METAWA
+   83.20% | EDITIONS JOHANE
+   83.20% | EDITIONS MOUCHE
+   83.20% | EDITIONS NON ST
+   83.20% | EDITIONS JFA JU
+   83.20% | EDITIONS JEAN L
+   83.20% | EDITIONS LAGE D
+   83.20% | EDITIONS MODEST
+   83.20% | EDITIONS JUSTIC
+   83.20% | EDITIONS FEMENV
+   83.20% | EDITIONS PRIMAV
+   83.20% | EDITIONS PASSIF
+   83.20% | EDITIONS MARMOT
+   83.20% | EDITIONS PANTHE
+   83.20% | EDITIONS JEAN P
+   83.20% | EDITIONS EXCLUS
+   83.20% | EDITIONS F MARC
+   83.20% | EDITIONS FAUBOU
+   83.20% | EDITIONS FAUTED
+   83.20% | EDITIONS MISERI
+   83.20% | EDITIONS FABULE
+   83.20% | EDITIONS L'OASI
+   83.20% | EDITIONS VENTES
+   83.14% | EDITIONSMV* GUI
+   82.94% | EDITIONS FATON
+   82.94% | EDITIONS NIQUE
+   82.94% | EDITIONS PRANA
+   82.94% | EDITIONS LAPIN
+   82.94% | EDITIONS MIEUX
+   82.94% | EDITIONS PASSE
+   82.94% | EDITIONS ZADIG
+   82.94% | EDITIONS M* MA
+   82.94% | EDITIONS PARIS
+   82.94% | EDITIONS MARCO
+   82.93% | EDITIONSANIXIS.
+   82.93% | EDITIONSMAURICE
+   82.93% | EDITIONSMAGICIT
+   82.75% | EDITIONS MGMP
+   82.75% | EDITIONS MOLS
+   82.75% | EDITIONS MAIA
+   82.75% | EDITIONS EMSF
+   82.67% | EDITION TRANSME
+   82.66% | EDITIONS MA
+   82.65% | EDITIONS PMN
+   82.47% | EDITIONS LAMARQ
+   82.47% | EDITIONS S. MOR
+   82.47% | EDITIONS ST JEA
+   82.47% | EDITIONS FITAMA
+   82.47% | EDITIONS ST REM
+   82.47% | EDITIONS HARMAT
+   82.21% | EDITION SY* NOU
+   82.01% | EDITIONSMV* MIS
+   81.84% | EDITIONS-QUANTU
+   81.77% | EDITIONSMV* MA
+   81.07% | EDITNS OSE* MAN
+   80.93% | EDITIONS INTRAM
+   80.93% | EDITIONS SUTTON
+   80.53% | EDITIONS M* JEU
+   80.53% | EDITIONS LA GRA
+   80.53% | EDITIONS M* GOO
+   80.53% | EDITIONS M* ALI
+
+================================================================================
+KEYWORD 24/79: 'EPOCH TIMES'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 5
+  After deduplication: 5 (0 duplicates removed)
+  Final results: 5
+  Processing time: 1m 10.9s
+
+Matches above 80.0% (Ensemble):
+   97.82% | EPOCH TIMES
+   82.63% | THE EPOCH TIMES
+   82.63% | EPOCH TIMES CAN
+   81.67% | PHONE TIMES
+   80.55% | EPOCH FITNESS
+
+================================================================================
+KEYWORD 25/79: 'ESPRIT VIKING'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 15
+  After deduplication: 15 (0 duplicates removed)
+  Final results: 15
+  Processing time: 1m 11.4s
+
+Matches above 80.0% (Ensemble):
+   90.44% | L'ESPRIT VIKING
+   84.92% | ESPRIT DU VIN
+   84.50% | ESPRIT VIN
+   81.56% | ESPRIT EVASION
+   81.56% | ESPRIT VINCENT
+   80.74% | ESPACE VIKING
+   80.62% | ESPRIT MAISON
+   80.62% | ESPRIT VOYAGE
+   80.62% | ESPRIT JARDIN
+   80.29% | ESPRIT MARIN
+   80.29% | ESPRIT SAVON
+   80.29% | ESPRIT SOINS
+   80.29% | ESPRIT NUAGE
+   80.29% | ESPRIT MALIN
+   80.06% | ESPRIT PAIN
+
+================================================================================
+KEYWORD 26/79: 'ETAT PROFOND'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 11.6s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 27/79: 'EURO LIBERTES'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 11
+  After deduplication: 10 (1 duplicates removed)
+  Final results: 10
+  Processing time: 1m 12.6s
+
+Matches above 80.0% (Ensemble):
+   84.81% | EURO GALERIES
+   84.61% | EURO LITERIE
+   82.71% | EURO TAIBETTE
+   81.45% | AUTO LIBERTE
+   81.01% | EURO TEXTILES
+   80.77% | AUTOS LIBERTE
+   80.69% | EURO PLOMBERIE
+   80.43% | EURO SECURITE
+   80.43% | EURO SERVICES
+   80.16% | EURO LEATHER
+
+================================================================================
+KEYWORD 28/79: 'FRANCAIS RT'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 40
+  After deduplication: 35 (5 duplicates removed)
+  Final results: 35
+  Processing time: 1m 9.5s
+
+Matches above 80.0% (Ensemble):
+   85.18% | FRANCIS SPORT
+   84.46% | FRANCI SPORT
+   84.36% | LE FRANCAIS
+   84.03% | FRANCIS MARC
+   83.39% | FRANCISBATT
+   83.37% | FRANCAIS POUR T
+   83.27% | FRANCIS VPC
+   83.01% | FRANCAIS
+   82.95% | FRANCIS LAU
+   82.63% | FRANCAISE
+   82.45% | PRAT FRANCIS
+   82.44% | FRANCE MART
+   82.43% | FRANCOIS J
+   82.43% | FRANCOIS L
+   82.38% | FRANCOISE S
+   82.38% | FRANCOISE H
+   81.91% | FRANCIS JOBERT
+   81.91% | FRANCIS PERNOT
+   81.82% | FRANOIS R
+   81.45% | FRACASSPORT
+   81.44% | FRANCOIS PORET
+   81.44% | FRANCOIS SPORT
+   81.29% | FRANCOIS MARTY
+   81.24% | FRANCAS VAIRE
+   81.16% | FRANCIS STREET
+   81.09% | FRANCAS ARC
+   81.08% | ST FRANCOIS
+   80.72% | FRANCIS STUCK
+   80.72% | FRANCAS RUREY
+   80.72% | FRANCIS HOTEL
+   80.60% | EFRANCAIS.FR
+   80.48% | FRANCAS THISE
+   80.25% | FRANCOIS RUIZ
+   80.25% | FRANCOIS HERY
+   80.00% | FRANCOIS TAXI
+
+================================================================================
+KEYWORD 29/79: 'FRANCE SOIR'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 73
+  After deduplication: 70 (3 duplicates removed)
+  Final results: 70
+  Processing time: 1m 12.0s
+
+Matches above 80.0% (Ensemble):
+   94.18% | FRANCE-SOIR
+   88.63% | FRANCE STORE
+   88.63% | FRANCE SPORT
+   88.00% | FRANCE D OR
+   88.00% | FRANCE SURF
+   88.00% | FRANCE NOOR
+   88.00% | FRANCE SURV
+   87.75% | FRANCE OLI
+   87.75% | FRANCE KOI
+   87.67% | FRANCE OR
+   85.77% | FRANCE SOLAIRE
+   84.84% | FRANCE STORES
+   84.42% | FRANCOISE S
+   83.97% | FRANCEZAUSOR
+   83.88% | FRANCE JOINT
+   83.88% | FRANCE TONER
+   83.76% | FRANCESCO S
+   83.76% | FRANCESCO 1
+   83.68% | FRANCI SPORT
+   83.53% | FRANC SOPHIE
+   83.47% | FRANCE ROOM
+   83.18% | FRANCE PRO
+   83.01% | FRANCEOR
+   83.01% | FRANCE ROGER
+   82.91% | FRANCE TREC
+   82.91% | FRANCE PIZZ
+   82.91% | FRANCE VETO
+   82.91% | FRANCE MART
+   82.91% | FRANCE JUDO
+   82.91% | FRANCE PREP
+   82.91% | FRANCE MAIA
+   82.91% | FRANCE RAMA
+   82.91% | FRANCE LOUP
+   82.63% | FRANCESCO
+   82.63% | FRANCESIN
+   82.56% | FRANCE SUD
+   82.56% | FRANCE LOG
+   82.55% | FRANCESUDPI
+   82.55% | FRANCESCINI
+   82.55% | FRANCESINHA
+   82.49% | FRANCESINH
+   82.49% | FRANCESCHI
+   82.49% | FRANCESHOP
+   82.49% | FRANCESCOS
+   82.49% | FRANCESTON
+   82.36% | FRANCE IA
+   82.36% | FRANCE II
+   82.36% | FRANCE VO
+   82.10% | FRANCE LOISIRS
+   82.01% | FRANC OR
+   81.82% | FRANCE* O
+   81.70% | FRANCESIO 73
+   81.57% | FRANCE SHAOLIN
+   81.57% | FRANCE SECOURS
+   81.57% | FRANCE SCOOTER
+   81.57% | FRANCE TOITURE
+   81.57% | FRANCE VOLIERE
+   81.38% | FRANK SONIA
+   81.35% | FRANKIE SHO
+   80.89% | FRANCE ORIENT
+   80.82% | FRANCE INSIDER
+   80.82% | FRANCE RESTORE
+   80.82% | FRANCE TERROIR
+   80.78% | FRANCOISE H
+   80.78% | FRANCOISE B
+   80.70% | FRANCIS SPORT
+   80.38% | FRANCE LAFORA
+   80.38% | FRANCE SAVEUR
+   80.38% | FRANCE PINARD
+   80.24% | FRANCESCOVINI
+
+================================================================================
+KEYWORD 30/79: 'FRONTIERES'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 23
+  After deduplication: 22 (1 duplicates removed)
+  Final results: 22
+  Processing time: 1m 11.6s
+
+Matches above 80.0% (Ensemble):
+  100.00% | FRONTIERES
+   89.43% | 3 FRONTIERES
+   88.27% | FRONTEIRAS
+   87.57% | FRONTIER
+   87.25% | FRONTIERA
+   87.20% | FRONTLINES
+   87.20% | FRONTEMARE
+   84.84% | MONTIERES
+   84.80% | FURONNIERE
+   84.80% | FONTANIERE
+   83.55% | FRONTIER AI
+   83.28% | LA FRONTIERE
+   82.80% | NOUV FRONTIERES
+   82.51% | FRONTIER TEXAS
+   81.58% | FRONTIERS RUL
+   81.41% | FRONT RIVER
+   81.14% | FROMENTERIE
+   81.07% | CRV*FRONTIERES
+   80.85% | FRONTERA
+   80.71% | FRONTLINE
+   80.71% | FRONTDESK
+   80.02% | FRITERIES
+
+================================================================================
+KEYWORD 31/79: 'GAM ANTIQUES'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 4
+  After deduplication: 4 (0 duplicates removed)
+  Final results: 4
+  Processing time: 1m 12.4s
+
+Matches above 80.0% (Ensemble):
+   86.67% | V&A ANTIQUES
+   86.11% | AROM ANTIQUE
+   83.90% | CAMBS ANTIQUES
+   82.53% | REAL ANTIQUES
+
+================================================================================
+KEYWORD 32/79: 'GOLDOFAF'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 1
+  After deduplication: 1 (0 duplicates removed)
+  Final results: 1
+  Processing time: 1m 11.7s
+
+Matches above 80.0% (Ensemble):
+   81.00% | GLADKOFF
+
+================================================================================
+KEYWORD 33/79: 'INSTITUT ILIADE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 346
+  After deduplication: 344 (2 duplicates removed)
+  Final results: 344
+  Processing time: 1m 12.8s
+
+Matches above 80.0% (Ensemble):
+   98.13% | INSTITUT ILIADE
+   90.67% | INSTITUT HILDEG
+   90.44% | INSTITUT ILAE
+   89.44% | INSTITUT EMILIE
+   87.92% | INSTITUT ELODIA
+   87.92% | INSTITUT IDELIN
+   87.92% | INSTITUT ADELAI
+   87.38% | INSTITUT AUDINE
+   87.38% | INSTITUT DIVINE
+   87.38% | INSTITUT CALICE
+   87.38% | INSTITUT HELIAN
+   87.38% | INSTITUT FELINA
+   87.38% | INSTITUT EUCLID
+   87.38% | INSTITUT CALINE
+   87.38% | INSTITUT ELLINA
+   87.38% | INSTITUT ELODIE
+   87.38% | INSTITUT ALEXIA
+   87.38% | INSTITUT CLAIRE
+   87.20% | INSTITUT ALICE
+   87.20% | INSTITUT ALIZE
+   87.20% | INSTITUT CELIA
+   86.94% | INSTITUTO GILDA
+   86.94% | INSTITUTDES ILE
+   86.93% | INSTITUT AUDREY
+   86.93% | INSTITUT BY ILD
+   86.93% | INSTITUT GARDEN
+   86.93% | INSTITUT ILI* O
+   86.93% | INSTITUT FLAMEN
+   86.93% | INSTITUT BARDET
+   86.93% | INSTITUT ANDREA
+   86.93% | INSTITUT FIBULE
+   86.93% | INSTITUT AMANDE
+   86.93% | INSTITUT FILLIO
+   86.77% | INSTITUT AMELIE
+   86.77% | INSTITUT DAHLIA
+   86.77% | INSTITUT ABELIA
+   86.77% | INSTITUT CLAUDI
+   86.72% | INSTITUT ILLIS
+   86.72% | INSTITUT ADENA
+   86.60% | INSTITUT D ALI
+   86.60% | INSTITUT IDET
+   86.49% | INSTITUTO HIGIE
+   86.49% | INSTITUTO ANDRE
+   86.29% | INSTITUTO ILHA
+   86.27% | INSTITUT CAPILA
+   86.27% | INSTITUT ELIE W
+   86.27% | INSTITUT CECILE
+   86.27% | INSTITUT CELINE
+   86.27% | INSTITUT ALAMEE
+   86.27% | INSTITUT DRYADE
+   86.27% | INSTITUT ELIZEN
+   86.27% | INSTITUT CLIN D
+   86.07% | INSTITUT ELISE
+   86.07% | INSTITUT INAIA
+   85.96% | INSTITUT ELAE
+   84.72% | INSTITUT ELIXIR
+   84.72% | INSTITUT BALDIN
+   84.72% | INSTITUT GERALD
+   84.72% | INSTITUT ELODIN
+   84.72% | INSTITUT CALLEI
+   84.72% | INSTITUT FEIBAI
+   84.10% | INSTITUT AUDITI
+   84.10% | INSTITUT DELATT
+   84.10% | INSTITUT ANSELI
+   84.10% | INSTITUT ALFRED
+   84.10% | INSTITUT ANGELI
+   84.10% | INSTITUT AURELI
+   84.10% | INSTITUT CAPELI
+   84.10% | INSTITUT AMBELI
+   83.60% | INSTITUT IMAGIN
+   83.60% | INSTITUT BELEZA
+   83.60% | INSTITUT ANALGE
+   83.60% | INSTITUT DES PI
+   83.60% | INSTITUT FIRDAW
+   83.60% | INSTITUT ESTELI
+   83.60% | INSTITUT IBN AL
+   83.60% | INSTITUT BORDEL
+   83.60% | INSTITUT BIENAS
+   83.60% | INSTITUT BELLIS
+   83.60% | INSTITUT DOMINI
+   83.60% | INSTITUT HELITY
+   83.60% | INSTITUT BALEAR
+   83.60% | INSTITUT CALYCE
+   83.60% | INSTITUT FIGARI
+   83.60% | INSTITUT BAIN D
+   83.60% | INSTITUT DES HA
+   83.60% | INSTITUT DAVINA
+   83.60% | INSTITUT CORALI
+   83.60% | INSTITUT DANERO
+   83.60% | INSTITUT EPHELI
+   83.60% | INSTITUT DES LY
+   83.60% | INSTITUT GALESP
+   83.60% | INSTITUT D ILON
+   83.60% | INSTITUT CLEF D
+   83.60% | INSTITUT ELEGAN
+   83.60% | INSTITUT ESCALE
+   83.60% | INSTITUT CAROLI
+   83.60% | INSTITUT CHARLE
+   83.60% | INSTITUT N DAME
+   83.60% | INSTITUT ALISSO
+   83.60% | INSTITUT ALEXAN
+   83.60% | INSTITUT CORAIL
+   83.60% | INSTITUT DIETET
+   83.60% | INSTITUT CANNEL
+   83.60% | INSTITUT CARLIN
+   83.60% | INSTITUT DAPHNE
+   83.60% | INSTITUT CAMILL
+   83.60% | INSTITUT CAPILL
+   83.60% | INSTITUT ELOVAN
+   83.60% | INSTITUT DES JA
+   83.60% | INSTITUT AMANDI
+   83.60% | INSTITUT GRAVIL
+   83.60% | INSTITUT AL IHS
+   83.60% | INSTITUT FEMINA
+   83.60% | INSTITUT EFFARD
+   83.60% | INSTITUT AURELY
+   83.60% | INSTITUT CARDIO
+   83.60% | INSTITUT P* IDL
+   83.60% | INSTITUT DORIAN
+   83.60% | INSTITUT DUTREI
+   83.60% | INSTITUT D IMAG
+   83.60% | INSTITUT CLEOPA
+   83.60% | INSTITUT ARTLIN
+   83.60% | INSTITUT D BEAU
+   83.60% | INSTITUT ANSELL
+   83.60% | INSTITUT ABISSE
+   83.60% | INSTITUT ALPILL
+   83.60% | INSTITUT BELLAT
+   83.60% | INSTITUT AXEL M
+   83.60% | INSTITUT D'ADDI
+   83.47% | INSTITUTDU CHIE
+   83.37% | INSTITUT CAPIL
+   83.37% | INSTITUT BELLA
+   83.37% | INSTITUT DIANA
+   83.37% | INSTITUT ELONA
+   83.37% | INSTITUT ELENA
+   83.37% | INSTITUT CLAIR
+   83.37% | INSTITUT GALEA
+   83.37% | INSTITUT DIVAS
+   83.37% | INSTITUT IDUNA
+   83.37% | INSTITUT DONIA
+   83.37% | INSTITUT ALEXY
+   83.37% | INSTITUT DELPH
+   83.37% | INSTITUT DYANE
+   83.25% | ISTITUTO FIGLIE
+   83.21% | INSTITUT ALEX
+   83.21% | INSTITUT DIVA
+   83.21% | INSTITUT FELI
+   83.20% | INSTITUT CRISTI
+   83.20% | INSTITUT DUNE D
+   83.20% | INSTITUT GLAMOU
+   83.20% | INSTITUT DEMOUR
+   83.20% | INSTITUT ARBORE
+   83.20% | INSTITUT DERMOB
+   83.20% | INSTITUT DES TH
+   83.20% | INSTITUT INNOVA
+   83.20% | INSTITUT DEESSE
+   83.20% | INSTITUT FIBONA
+   83.20% | INSTITUT ATHENA
+   83.20% | INSTITUT D EDUC
+   83.20% | INSTITUT CLLARA
+   83.20% | INSTITUT DES ME
+   83.20% | INSTITUT CHLOEV
+   83.20% | INSTITUT BLANCH
+   83.20% | INSTITUT F* IFA
+   83.20% | INSTITUT CANCER
+   83.20% | INSTITUT BRIN D
+   83.20% | INSTITUT AURORE
+   83.20% | INSTITUT BLEU C
+   83.20% | INSTITUT APPARE
+   83.20% | INSTITUT FRANCE
+   83.20% | INSTITUT CYLENE
+   83.20% | INSTITUT DES ON
+   83.20% | INSTITUT BLUE T
+   83.20% | INSTITUT DOUCEU
+   83.20% | INSTITUT BRIGIT
+   83.20% | INSTITUT AERONA
+   83.20% | INSTITUT BIOGEN
+   83.20% | INSTITUT BSTAEN
+   83.20% | INSTITUT CHARME
+   83.20% | INSTITUT AGATEA
+   83.20% | INSTITUT DES GO
+   83.20% | INSTITUT DU DER
+   83.20% | INSTITUT IMAM M
+   83.20% | INSTITUT DERTOS
+   83.20% | INSTITUT CATHER
+   83.20% | INSTITUT CRISTA
+   83.20% | INSTITUT CONFID
+   83.20% | INSTITUT CARMEN
+   83.20% | INSTITUT D'OSTE
+   83.20% | INSTITUT AGATHE
+   83.20% | INSTITUT CARAME
+   83.20% | INSTITUT DUCRUE
+   83.20% | INSTITUT BIKINI
+   83.20% | INSTITUT CHLO'E
+   83.20% | INSTITUT APHROD
+   83.20% | INSTITUT ANNE G
+   83.20% | INSTITUT BIEN E
+   83.20% | INSTITUT D ESTU
+   83.20% | INSTITUT FLOREN
+   83.20% | INSTITUT BY CLA
+   83.20% | INSTITUT DES SO
+   83.20% | INSTITUT AQUARE
+   83.16% | INSTITUTO ALEMA
+   83.16% | INSTITUTO DENTA
+   83.16% | INSTITUTO BALEA
+   83.16% | INSTITUTO DEL P
+   83.16% | INSTITUTO CLARI
+   83.16% | INSTITUTO APLIC
+   83.16% | INSTITUTO CLINI
+   83.16% | INSTITUTO DEL V
+   83.16% | INSTITUTO ARELU
+   83.16% | INSTITUTO FERIA
+   83.16% | INSTITUT* AUREL
+   83.14% | INSTITUTION DES
+   82.94% | INSTITUT CURIE
+   82.94% | INSTITUT AMBRE
+   82.94% | INSTITUT FLEUR
+   82.94% | INSTITUT BOITE
+   82.94% | INSTITUT DES 5
+   82.94% | INSTITUT INSAN
+   82.94% | INSTITUT CLEOP
+   82.94% | INSTITUT FABRE
+   82.94% | INSTITUT ARMES
+   82.94% | INSTITUT AROME
+   82.94% | INSTITUT DEBBY
+   82.94% | INSTITUT CANDY
+   82.94% | INSTITUT BICHE
+   82.94% | INSTITUT CHLOE
+   82.94% | INSTITUT ANAME
+   82.94% | INSTITUT BULLE
+   82.94% | INSTITUT AMAND
+   82.94% | INSTITUT DOUCE
+   82.93% | INSTITUD DEL TE
+   82.76% | INSTITUT* INSTI
+   82.76% | INSTITUTO CACHE
+   82.76% | INSTITUTO GINEC
+   82.76% | INSTITUTS GUIRA
+   82.75% | INSTITUT BIEN
+   82.75% | INSTITUT CLEM
+   82.75% | INSTITUT CLOE
+   82.75% | INSTITUT INES
+   82.75% | INSTITUT BL D
+   82.75% | INSTITUT BLEU
+   82.75% | INSTITUT CYLA
+   82.75% | INSTITUT CLEO
+   82.74% | INSTITUTE BELLE
+   82.66% | INSTITUT IA
+   82.65% | INSTITUT DES
+   82.65% | INSTITUT ILC
+   82.65% | INSTITUT ADN
+   82.65% | INSTITUT IDS
+   82.50% | INSTITUTO IGIN
+   82.50% | INSTITUTO IESU
+   82.50% | INSTITUT* BIEN
+   82.47% | INSTITUT DURAND
+   82.47% | INSTITUT ACACIA
+   82.47% | INSTITUT CARLAN
+   82.47% | INSTITUT D ARTO
+   82.47% | INSTITUT DU CAR
+   82.47% | INSTITUT CELEST
+   82.47% | INSTITUT DU CAP
+   82.47% | INSTITUT HELENE
+   82.47% | INSTITUT FLORIL
+   82.47% | INSTITUT ALBATR
+   82.47% | INSTITUT BEAUTE
+   82.47% | INSTITUT ARSLAN
+   82.47% | INSTITUT ELLE E
+   82.47% | INSTITUT ESPACE
+   82.47% | INSTITUT FREDER
+   82.47% | INSTITUT GALLAN
+   82.47% | INSTITUT BELLEZ
+   82.47% | INSTITUT CYBELE
+   82.47% | INSTITUT ARIANN
+   82.47% | INSTITUT ALYONA
+   82.47% | INSTITUT DU CHA
+   82.47% | INSTITUT CARITA
+   82.47% | INSTITUT D AMAN
+   82.47% | INSTITUT BELLES
+   82.23% | INSTITUT AURIA
+   82.23% | INSTITUT ELLES
+   82.23% | INSTITUT BELLE
+   82.23% | INSTITUT BAHIA
+   82.23% | INSTITUT BLISS
+   82.23% | INSTITUT ELECL
+   82.23% | INSTITUT AMCIA
+   82.05% | INSTITUT ELLE
+   82.05% | INSTITUT EDEN
+   82.05% | INSTITUT FAIA
+   82.05% | INSTITUT ALMA
+   82.05% | INSTITUT AIX LE
+   82.03% | INSTITUTO BELEZ
+   82.03% | INSTITUTO DR. A
+   81.94% | INSTIT ELISABET
+   81.60% | INSTITUT BIO LA
+   81.32% | INSTITUT LA FE
+   81.20% | INSTITUTE OF DI
+   81.02% | L INSTITUT D EL
+   80.93% | INSTITUT LE GAL
+   80.93% | INSTITUT LES CI
+   80.93% | INSTITUT ESTUDI
+   80.93% | INSTITUT SELF A
+   80.93% | INSTITUT LA BIC
+   80.93% | INSTITUT DU MAL
+   80.93% | INSTITUT LM BEA
+   80.93% | INSTITUT DU LAS
+   80.93% | INSTITUT EVASIO
+   80.93% | INSTITUT EN LIG
+   80.93% | INSTITUT AUR LI
+   80.93% | INSTITUT PEAU D
+   80.93% | INSTITUT BENEDI
+   80.93% | INSTITUT BOREAL
+   80.93% | INSTITUT DAUPHI
+   80.93% | INSTITUT RIVE D
+   80.93% | INSTITUT DU SEI
+   80.93% | INSTITUT EL PED
+   80.93% | INSTITUT JEAN D
+   80.93% | INSTITUT GWENDA
+   80.80% | INSTITUTDE BEAU
+   80.66% | INSTITUT VAL D
+   80.66% | INSTITUT EDITH
+   80.53% | INSTITUT L.M BE
+   80.53% | INSTITUT DU CHE
+   80.53% | INSTITUT DU VEN
+   80.53% | INSTITUT LA CAN
+   80.53% | INSTITUT DU VER
+   80.53% | INSTITUT DU PRE
+   80.53% | INSTITUT D ORFE
+   80.53% | INSTITUT SA BEA
+   80.53% | INSTITUT LE BRE
+   80.53% | INSTITUT DU REV
+   80.53% | INSTITUT DU TEM
+   80.47% | INSTITUT DANI
+   80.40% | INSTIT LING ADE
+   80.36% | L INSTITUT D EM
+   80.36% | L INSTITUT D HE
+   80.36% | L INSTITUT INES
+   80.23% | INSTITUT I* DO
+   80.23% | INSTITUT B L D
+   80.09% | INSTITUTO ORL D
+   80.07% | INSTITUTE OF AR
+   80.07% | INSTITUTE FOR D
+   80.07% | INSTITUTE FOR A
+   80.07% | INSTITUTE OF AP
+
+================================================================================
+KEYWORD 34/79: 'INTEGRALISME ORGANIQUE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 13.0s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 35/79: 'JO LE RITAL'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 1
+  After deduplication: 1 (0 duplicates removed)
+  Final results: 1
+  Processing time: 1m 11.3s
+
+Matches above 80.0% (Ensemble):
+   81.87% | JO LE TAXI
+
+================================================================================
+KEYWORD 36/79: 'JSVP.CH'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 11.7s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 37/79: 'KALOS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 194
+  After deduplication: 190 (4 duplicates removed)
+  Final results: 190
+  Processing time: 1m 51.3s
+
+Matches above 80.0% (Ensemble):
+   95.00% | HOTELRTE KARLOS
+   95.00% | KARLOS EXCURSIO
+   95.00% | KNYGYNAS KALBOS
+   95.00% | KARLOS GEORGIOS
+   95.00% | KALLOS
+   95.00% | KALMOS
+   95.00% | KALEOS
+   95.00% | KALLOS SP GIANN
+   95.00% | TI KALMOS KAFE
+   95.00% | KALEOS PAYGOLD
+   95.00% | KALIOS
+   94.29% | KALOZIS DIMITRI
+   94.29% | KALOCSA U:ZEMAN
+   93.33% | DR KALFOUS
+   93.33% | BAR KALATOS
+   93.33% | SABRINE KALBOUS
+   93.33% | KALAMOS
+   93.33% | KLARNA* KALICOS
+   93.33% | KALEGOS
+   92.50% | KALOUDIS GEO
+   92.50% | N KALOUDIS KAI
+   92.50% | KALOUDIS MARINO
+   92.50% | KALOUDIS GEORGI
+   92.50% | KALOUSIS IRAKLI
+   92.50% | N A KALOUDIS
+   92.50% | KALOUDIS ALEXAN
+   92.50% | KALOPSIA
+   92.50% | KALOUDIS LEONID
+   92.50% | KALOUDIS SOKRAT
+   92.50% | KALOUDIS NIKOLA
+   92.50% | KALORIAS COIMBR
+   92.50% | KALOUDIS THEODO
+   92.50% | KALOUDIS P
+   92.50% | KALOUDIS KONSTA
+   92.50% | KALOUSIS CHRIST
+   92.50% | ELIN KALOUDIS V
+   92.50% | KALOUDIS SPIRID
+   92.50% | KALOUTAS
+   92.50% | KALOIDAS GEORGI
+   92.50% | N S KALOUDIS
+   92.38% | SARL KAPELOS
+   92.38% | EXXON KAVALOS P
+   92.38% | KAVALOS
+   91.43% | KEFALOS
+   91.43% | KEFALOS BEACH T
+   91.43% | KEFALOS IOANNIS
+   91.43% | KEFALOS SUPERMA
+   91.43% | KEFALOS - KOS
+   91.25% | KALAVROS IOANNI
+   91.25% | KALLINOS CAFE
+   91.25% | DELIJN KALK0OSK
+   91.25% | KALLINOS COFFEE
+   91.25% | KALEIDOS CAFE
+   91.25% | KALIMNOS GOURME
+   91.25% | KALYMNOS
+   91.25% | KALEVROS I.K.E.
+   91.25% | CRV*DR KALINOWS
+   91.25% | ACS KALYMNOS
+   91.25% | KALLENOS G.M.
+   91.25% | KALATHOS
+   91.25% | KALYMNOS CAT PR
+   91.25% | KALIMNOS KALIMN
+   91.25% | KALEIDOS
+   91.25% | KALIORAS SOTIRI
+   91.25% | CAFE KALLINOS
+   91.25% | KALLINOS BOUTIQ
+   91.25% | KALEIDOS COSMET
+   91.11% | K KALOUTSIS KAI
+   90.48% | OKYALOS
+   90.48% | OKYALOS SIFNOS
+   90.48% | PAYPAL *KALEOS
+   90.48% | OKYALOS ERETRIA
+   85.00% | PAGKALOS CHRIS
+   85.00% | KALOS
+   85.00% | SP KALOSIQUE
+   85.00% | KABELLOS
+   85.00% | PAGKALOS AGELOS
+   85.00% | WWW.KALOSFIT.CO
+   85.00% | PAGKALOS GEORGI
+   85.00% | Mastrokalos Nik
+   85.00% | IN-KALOS
+   85.00% | KALOS UBUD MBL
+   85.00% | KALOS IAKOVOS
+   85.00% | KALOUSTIAN ALEX
+   85.00% | KALOSYNAKIS ZAC
+   85.00% | G D TSAKALOS
+   85.00% | KALOS PAESTUM D
+   85.00% | Klarna KALOS
+   85.00% | KALOSSFAT
+   85.00% | PAGKALOS EMMANO
+   85.00% | GOOGLE *Kalos T
+   85.00% | HOTEL KALOS
+   85.00% | Klarna kalos
+   85.00% | PAYPAL *kalosse
+   85.00% | ILIAS KANELLOS
+   85.00% | KALOS IOANNIS
+   85.00% | KALOSTRAPE
+   85.00% | SP KALOS
+   85.00% | KALOSTOUS
+   85.00% | KAPRALOS THEODO
+   85.00% | Etsy.com*KALOSt
+   85.00% | KALOS FRANC
+   85.00% | KALOS OF MYKONO
+   85.00% | KALOS SNACK PUB
+   85.00% | WWW.KALIKALOS.C
+   85.00% | KALOS RESTAURAN
+   85.00% | ZOKALOS
+   85.00% | KANELLOS GEORGI
+   85.00% | PAGKALOS KON NO
+   85.00% | BAR KALOS E NIK
+   85.00% | KOKALOS
+   85.00% | KWD* KAMLOOPS W
+   85.00% | Klarna*kalos
+   85.00% | KAVVALOS IOANNI
+   85.00% | Klarna*KALOS
+   85.00% | KALOS BALI
+   85.00% | KANELLOS IKE
+   85.00% | GEORGIOS KALOSI
+   85.00% | REMA KALOS
+   85.00% | KALOSHI PETROL
+   85.00% | TSAKALOS ASIMAK
+   85.00% | KALOPERASI
+   85.00% | KAMILIOS THEODO
+   85.00% | KARAKALOS GEORG
+   85.00% | MAKALOST HEMINR
+   85.00% | KALOSTOYS
+   85.00% | KPay*KALOS BLOC
+   85.00% | KALOSKAMIS I
+   85.00% | SUMUP *KALOS T
+   85.00% | SUMUP *KALOS S
+   85.00% | kalostv
+   85.00% | KAVVALOS GEORGI
+   85.00% | KAPRALOS KON/NO
+   85.00% | NPAGKALOSIPOLIT
+   85.00% | PAYPAL *KALOS F
+   85.00% | LIOKALOS GEORGI
+   85.00% | TSIAMPOKALOS KO
+   85.00% | KANELLOS PANAGI
+   85.00% | O KALOS GIALOS
+   85.00% | IZI*PIKALOS
+   85.00% | PAGKALOS NIKOLA
+   85.00% | Google Kalos TV
+   85.00% | PAYPAL *INKALOS
+   84.63% | KALYOTIS* LABOR
+   84.63% | KALABOOST
+   84.63% | KALFOUSSE OLIVI
+   84.09% | KALOUTSIDIS IOA
+   84.09% | KALOUTSIANI IOA
+   83.75% | KHALBOUS IRENE
+   83.33% | EURO KALEJDOSKO
+   83.33% | KALIFORMS* STAR
+   83.33% | DR KALINOWSKI
+   83.33% | KALOFPOPOSFI ww
+   83.33% | KALINOWSKI
+   83.33% | KALOFPOPPSWQ ww
+   83.15% | SHELL KARLOVSKO
+   82.50% | PAYPAL *KALOUES
+   82.50% | SUMUP *KALAMOS
+   82.50% | PAYPAL *KARLJOS
+   82.50% | SUMUP *KALOPSI
+   82.50% | SKIVALOS EMMANO
+   82.50% | PAYPAL *KALOUSA
+   82.50% | PAYPAL *KALOPSI
+   82.50% | SUMUP *KALEEOS
+   82.50% | GOPAY *KRALOVS
+   82.50% | SUMUP *KALICOS
+   82.27% | KALEIDOSKOP
+   82.27% | KALEJDOSKOP
+   82.05% | KAROLOS ALEKO
+   81.67% | KRALOVSKA KOLEG
+   81.67% | KALOCHRISTIANAK
+   81.67% | REST KAMILOS333
+   81.67% | FN KRALOVSKE VI
+   81.67% | KRALOVSKE OPLAT
+   81.67% | KAPALOUEST
+   81.67% | RIV KAPALOUEST
+   81.67% | FH* KAPALOUEST
+   81.67% | ELTA KARLOBASIO
+   81.39% | KALEIDOSCOPE VI
+   81.39% | KALEIDOSCOPE
+   81.39% | KALIDOSKOPIO AL
+   81.39% | KALEIDOSCAFE
+   81.39% | KALIDOSKOPIO
+   80.45% | KARLOVARSKE OPL
+   80.19% | MYKALIOS* O 30
+   80.19% | MYKALIOS* O 28
+   80.19% | MYKALIOS* O 29
+   80.19% | MYKALIOS* O 31
+   80.00% | BEST KVALOYSLET
+   80.00% | KALATOZISHVILI
+
+================================================================================
+KEYWORD 38/79: 'KONTRAKULTUR'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 13.2s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 39/79: 'KROC BLANC'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 5
+  After deduplication: 5 (0 duplicates removed)
+  Final results: 5
+  Processing time: 1m 13.6s
+
+Matches above 80.0% (Ensemble):
+   97.60% | KROC BLANC
+   92.83% | ROC BLANC
+   89.81% | CROC BLANC
+   82.15% | ROCA BLANCA
+   81.25% | COCO BLANC
+
+================================================================================
+KEYWORD 40/79: 'LA CONTRE REVOLUTION'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 1
+  After deduplication: 1 (0 duplicates removed)
+  Final results: 1
+  Processing time: 1m 13.6s
+
+Matches above 80.0% (Ensemble):
+   82.59% | CONTREREVOLUTIO
+
+================================================================================
+KEYWORD 41/79: 'ACTION FRANCAISE 2000'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 13.6s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 42/79: 'EKAISTOS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 8
+  After deduplication: 8 (0 duplicates removed)
+  Final results: 8
+  Processing time: 1m 13.4s
+
+Matches above 80.0% (Ensemble):
+  100.00% | EKAISTOS
+   83.13% | KALLISTOS
+   81.50% | EL KAITO
+   80.99% | KANISOS
+   80.99% | ARISTOS
+   80.99% | KALISTO
+   80.00% | KALLISTO
+   80.00% | MAISTROS
+
+================================================================================
+KEYWORD 43/79: 'LA FURIA'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 84
+  After deduplication: 68 (16 duplicates removed)
+  Final results: 68
+  Processing time: 1m 13.9s
+
+Matches above 80.0% (Ensemble):
+   91.25% | LA FURIE
+   91.25% | LA FERIA
+   91.25% | LA FRITA
+   91.25% | LA FRIDA
+   85.85% | LA FRUITA
+   84.78% | LA FUCINA
+   84.78% | LA FORGIA
+   84.78% | LA FLORIA
+   84.78% | LA FUTURA
+   84.78% | LA FORNIA
+   84.78% | LA FOURMI
+   84.78% | LA FOURNI
+   84.05% | LA FARI
+   84.05% | LA FRAI
+   84.05% | LA FIRA
+   83.58% | LA FRA
+   83.57% | LA FIRMA
+   83.40% | LA FARINA
+   83.40% | LA FARCIA
+   82.92% | LA GUIRA
+   82.84% | LA FRAS
+   82.84% | LA FRIT
+   82.84% | LA FLIA
+   82.84% | LA FUGA
+   82.50% | LA FIGAL
+   82.50% | LA FEUIL
+   82.50% | LA FLORA
+   82.50% | LA FERLA
+   82.50% | LA FRITE
+   82.50% | LA FLEUR
+   82.50% | LA FUCHA
+   82.50% | LA FOURC
+   82.50% | LA FROMA
+   82.50% | LA FINKA
+   82.50% | LA FUSTA
+   82.50% | LA FIACA
+   82.50% | LA FORMA
+   82.50% | LA FULLA
+   82.50% | LA FINCA
+   82.50% | LA FURGO
+   82.50% | LA FRIPE
+   82.50% | LA FEIXA
+   82.21% | LA CURA
+   82.21% | LA DURA
+   82.21% | LA BURA
+   82.07% | LA FUSTERIA
+   81.98% | O FAURIA
+   81.67% | LA CURVA
+   81.67% | LA CUINA
+   81.67% | LA GUGIA
+   81.67% | LA JULIA
+   81.67% | LA BORIA
+   81.67% | LA BRISA
+   81.67% | LA DURAN
+   81.67% | LA BURLA
+   81.67% | LA GUINA
+   81.67% | LA CURDA
+   81.67% | LA BRIZA
+   81.67% | LA DOUIA
+   81.67% | LA CRINA
+   81.25% | LA BIFUR
+   80.92% | LA FRUTERIA
+   80.83% | LA FALUA
+   80.83% | LA FABIA
+   80.83% | LA FARGA
+   80.64% | LA JAURIA
+   80.50% | LA FIGUERA
+   80.00% | LE FRIDA
+
+================================================================================
+KEYWORD 44/79: 'LAGDLT'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 29
+  After deduplication: 29 (0 duplicates removed)
+  Final results: 29
+  Processing time: 1m 53.7s
+
+Matches above 80.0% (Ensemble):
+   85.00% | LAGDLT
+   85.00% | LAGDLT* C43B143
+   85.00% | LAGDLT* BEA0829
+   85.00% | LAGDLT* 0147A14
+   85.00% | LAGDLT* F66A627
+   85.00% | LAGDLT* 4D34A4A
+   85.00% | LAGDLT* 8C491D2
+   85.00% | LAGDLT* DC44C79
+   85.00% | LAGDLT* 2CC5FAC
+   85.00% | LAGDLT* 4F4F312
+   85.00% | LAGDLT* 988DB9F
+   85.00% | LAGDLT* A14371A
+   85.00% | LAGDLT* 7AA13D9
+   85.00% | LAGDLT* 44230D3
+   85.00% | LAGDLT* 2717E60
+   85.00% | LAGDLT* DF1267B
+   85.00% | LAGDLT* CA2115D
+   85.00% | LAGDLT* 8E87065
+   85.00% | LAGDLT* 2E42998
+   85.00% | LAGDLT* 830ECF7
+   85.00% | LAGDLT* 5F8E0A4
+   85.00% | LAGDLT* EA7AC59
+   85.00% | LAGDLT* 4102CA0
+   85.00% | LAGDLT* B915F0E
+   85.00% | LAGDLT* 6B3893D
+   85.00% | LAGDLT* B3F1B68
+   85.00% | LAGDLT* C4BEE90
+   85.00% | LAGDLT* 169AA12
+   85.00% | LAGDLT* 3E02747
+
+================================================================================
+KEYWORD 45/79: 'LAGOGE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 15
+  After deduplication: 14 (1 duplicates removed)
+  Final results: 14
+  Processing time: 1m 52.1s
+
+Matches above 80.0% (Ensemble):
+   95.00% | DR ANNE LAGOGUE
+   95.00% | L'AGOGE GYM
+   95.00% | M LAGOUGE
+   95.00% | LAGOUGE VANESSA
+   95.00% | KINE LAGOGUEY
+   95.00% | LAGOUGE ANTOINE
+   93.33% | LANGOGNE OPTIQU
+   93.33% | LANGOGNE PIECES
+   93.33% | LANGOGNE EXT
+   93.33% | LANGOGNE
+   93.33% | CIC LANGOGNE
+   93.33% | LANGOGNE DISTRI
+   93.33% | LYC P LAGOURGUE
+   91.11% | PAYU LA*GOOGLE
+
+================================================================================
+KEYWORD 46/79: 'AGOGE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 41
+  After deduplication: 40 (1 duplicates removed)
+  Final results: 40
+  Processing time: 1m 51.0s
+
+Matches above 80.0% (Ensemble):
+   95.00% | AGOGUE ARTHUR
+   95.00% | DOCTEUR AGOGUE
+   93.33% | AGOUGUE DO VALE
+   92.38% | AGROGEX
+   90.48% | LUC VAGOGNE
+   90.48% | DR ANNE LAGOGUE
+   90.48% | M LAGOUGE
+   90.48% | LAGOUGE VANESSA
+   90.48% | LAGOUGE ANTOINE
+   85.00% | FAGOGENI EYGENI
+   85.00% | SINAGOGE MIKVE
+   85.00% | nyagogeOePbY
+   85.00% | AGOGE COFFEE
+   85.00% | GS25 HWAGOGEUDD
+   85.00% | PAYPAL *tiagoge
+   85.00% | L'AGOGE GYM
+   85.00% | AGROGIBE
+   85.00% | YDRAGOGEIO BAR
+   83.75% | CHEV D ARGOUGES
+   83.75% | CVENT* ANGIOGEN
+   83.75% | HOTEL ARGOUGES
+   83.75% | LYCEE ARGOUGES
+   82.50% | MAGSOUGE
+   82.50% | MARGOGNE
+   82.50% | PAYPAL *ARGOUGE
+   82.50% | LANGOGNE OPTIQU
+   82.50% | LANGOGNE PIECES
+   82.50% | SARL MAGSOUGE
+   82.50% | LANGOGNE EXT
+   82.50% | 040048 VALGORGE
+   82.50% | LANGOGNE
+   82.50% | KINE LAGOGUEY
+   82.50% | CIC LANGOGNE
+   82.50% | LANGOGNE DISTRI
+   82.50% | PAYPAL *APGOUGE
+   82.50% | PAYPAL *AGONGER
+   81.67% | GRAB* A-7GOGWEK
+   81.67% | AGROVOSGES
+   81.67% | AGROBIGELI
+   80.45% | AGROGUIMERA LD
+
+================================================================================
+KEYWORD 47/79: 'LAURENT OBERTONE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 14
+  After deduplication: 14 (0 duplicates removed)
+  Final results: 14
+  Processing time: 1m 12.1s
+
+Matches above 80.0% (Ensemble):
+   85.77% | LAURENT ROBERT
+   83.80% | LAURENT LORENE
+   83.80% | LAURENT VERNET
+   83.52% | LAURENT PERRINE
+   82.87% | LAURENT POIMBOE
+   82.21% | LAURENT RONDEAU
+   82.08% | LAURENT NOCTON
+   81.23% | LAURENT REOLON
+   80.69% | ROBERT LAURENT
+   80.34% | LAURENT MONESTI
+   80.15% | LAURENT SELNET
+   80.15% | LAURENT MOTORS
+   80.15% | LAURENT STORES
+   80.04% | LAURENT OSTEO
+
+================================================================================
+KEYWORD 48/79: 'LECTURES FRANCAISES'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 13.1s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 49/79: 'LEINAD'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 10
+  After deduplication: 10 (0 duplicates removed)
+  Final results: 10
+  Processing time: 1m 52.4s
+
+Matches above 80.0% (Ensemble):
+   93.33% | DR LEPINARD
+   91.67% | PAYPAL *LEIINAD
+   90.67% | DR LEIGNADIER
+   85.00% | BANDCAMP LEINAD
+   85.00% | LEINAD COMERCIO
+   85.00% | LEINAD FLOR
+   85.00% | PAYPAL *leinadb
+   84.33% | LEPINAYPOD
+   81.67% | SP LECOINGADGET
+   81.36% | L'ESQUINADE
+
+================================================================================
+KEYWORD 50/79: 'LE LIBRE PENSEUR'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 2
+  After deduplication: 2 (0 duplicates removed)
+  Final results: 2
+  Processing time: 1m 12.1s
+
+Matches above 80.0% (Ensemble):
+   82.37% | LE LIBRE SENS
+   81.81% | LE LIBRE SERVIC
+
+================================================================================
+KEYWORD 51/79: 'LE MEDIA POUR TOUS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 1
+  After deduplication: 1 (0 duplicates removed)
+  Final results: 1
+  Processing time: 1m 13.6s
+
+Matches above 80.0% (Ensemble):
+   89.01% | LEMEDIAPOURTOUS
+
+================================================================================
+KEYWORD 52/79: 'LE SALON BEIGE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 89
+  After deduplication: 87 (2 duplicates removed)
+  Final results: 87
+  Processing time: 1m 12.6s
+
+Matches above 80.0% (Ensemble):
+  100.00% | LE SALON BEIGE
+   86.19% | LE SALON BEAUTE
+   86.19% | LE SALON BEAUTI
+   86.19% | LE SALON BYCELI
+   86.19% | LE SALON BLEU E
+   85.50% | LE SALON BIS
+   85.50% | LE SALON BIO
+   85.50% | LE SALON BGN
+   85.38% | LE SALON DU BIE
+   85.19% | LE SALON BLEU
+   85.19% | LE SALON ELLE
+   85.00% | LE SALON DENIZ
+   85.00% | LE SALON BEAUT
+   85.00% | LE SALON BY LE
+   84.59% | LE LION BELGE
+   84.30% | LE SALON IODE
+   82.00% | LE SALON GREGOI
+   81.46% | LE SALON BY KIM
+   81.46% | LE SALON D'EDEN
+   81.46% | LE SALON D'EMIL
+   81.46% | LE SALON BY JES
+   81.46% | LE SALON D INGR
+   81.46% | LE SALON DARTIG
+   81.46% | LE SALON BY BRE
+   81.46% | LE SALON DES GR
+   81.46% | LE SALON ELLE L
+   81.46% | LE SALON BRIOCH
+   81.46% | LE SALON BY CIN
+   81.46% | LE SALON BY CEL
+   81.46% | LE SALON D'ABEL
+   81.46% | LE SALON D ESTE
+   81.46% | LE SALON BY LAE
+   81.46% | LE SALON BY JEN
+   81.46% | LE SALON D HELE
+   81.46% | LE SALON D'HELE
+   81.46% | LE SALON ERIC V
+   81.46% | LE SALON HEDGAR
+   81.46% | LE SALON D'ELIS
+   81.46% | LE SALON BY CEC
+   81.46% | LE SALON BY ELO
+   81.46% | LE SALON DALEXI
+   81.46% | LE SALON D'ESTE
+   81.46% | LE SALON D EMIL
+   80.69% | LE SALON ET
+   80.69% | LE SALON II
+   80.69% | LE SALON BY
+   80.57% | LE SALON ST GEO
+   80.57% | LE SALON D HIBI
+   80.57% | LE SALON D ANGE
+   80.57% | LE SALON COIFFE
+   80.57% | LE SALON GREGOR
+   80.57% | LE SALON D'ILLE
+   80.57% | LE SALON D'ANGE
+   80.52% | LE SALON LUCIE
+   80.34% | LE SALON CLE
+   80.34% | LE SALON DES
+   80.12% | LE SALON BY C
+   80.12% | LE SALON BY K
+   80.12% | LE SALON DORE
+   80.12% | LE SALON BOHO
+   80.12% | LE SALON BY S
+   80.12% | LE SALON JB C
+   80.12% | LE SALON BY M
+   80.00% | LE SALON BY MC
+   80.00% | LE SALON BY RJ
+   80.00% | LE SALON K EST
+   80.00% | LE SALON D'ELO
+   80.00% | LE SALON D'EMY
+   80.00% | LE SALON BY JM
+   80.00% | LE SALON D EMY
+   80.00% | LE SALON BY MA
+   80.00% | LE SALON D ELO
+   80.00% | LE SALON BLANC
+   80.00% | LE SALON DAOME
+   80.00% | LE SALON GRAND
+   80.00% | LE SALON D'SEV
+   80.00% | LE SALON ANAIS
+   80.00% | LE SALON DALEX
+   80.00% | LE SALON HOMME
+   80.00% | LE SALON DES P
+   80.00% | LE SALON D'EVA
+   80.00% | LE SAVONN EURE
+   80.00% | LE SALON DERMO
+   80.00% | LE SALON D ISA
+   80.00% | LE SALON D'ISA
+   80.00% | LE SALON D'ENA
+   80.00% | LE SALON D'ELA
+
+================================================================================
+KEYWORD 53/79: 'LE SAVOIR PERDU DES ANCIENS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 13.2s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 54/79: 'LES SEPT COULEURS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 3
+  After deduplication: 3 (0 duplicates removed)
+  Final results: 3
+  Processing time: 1m 11.9s
+
+Matches above 80.0% (Ensemble):
+   83.86% | LES COULEURS SO
+   83.64% | LE SPA COULEURS
+   80.31% | LES COUVREURS T
+
+================================================================================
+KEYWORD 55/79: 'LIVRE NOIR'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 6
+  After deduplication: 6 (0 duplicates removed)
+  Final results: 6
+  Processing time: 1m 11.2s
+
+Matches above 80.0% (Ensemble):
+   98.00% | LIVRE NOIR
+   81.38% | LOLIVE NOIRE
+   81.03% | LIVREPROVIR
+   80.80% | LIVREMANIA
+   80.57% | LIVRE RL
+   80.43% | LIVRESENLOIRE
+
+================================================================================
+KEYWORD 56/79: 'MARTELENTETE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 2
+  After deduplication: 2 (0 duplicates removed)
+  Final results: 2
+  Processing time: 1m 11.6s
+
+Matches above 80.0% (Ensemble):
+   87.57% | MARTELENTETE.CO
+   81.00% | MARTIN TETE
+
+================================================================================
+KEYWORD 57/79: 'MISSION ISMERIE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 14
+  After deduplication: 14 (0 duplicates removed)
+  Final results: 14
+  Processing time: 1m 11.1s
+
+Matches above 80.0% (Ensemble):
+   97.87% | MISSION ISMERIE
+   86.67% | MISSION ISLAMIQ
+   86.67% | MISSION LIBERTE
+   84.56% | MISION MISERICO
+   83.33% | MISSION CHINESE
+   83.33% | MISSION CHRETIE
+   82.93% | MISSION MERCHAN
+   82.93% | MISSION MERCADO
+   82.93% | MISSION BUILDER
+   82.93% | MISSION ETRANGE
+   82.49% | MISSION LASER
+   82.21% | MISSION ENGINEE
+   82.21% | MISSION ET ENTR
+   81.96% | MISSION MARKET
+
+================================================================================
+KEYWORD 58/79: 'NOUVEAU MONDE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 38
+  After deduplication: 37 (1 duplicates removed)
+  Final results: 37
+  Processing time: 1m 11.5s
+
+Matches above 80.0% (Ensemble):
+   98.15% | NOUVEAU MONDE
+   90.46% | NOUVEAU MONDE B
+   90.46% | NOUVEAU MONDE R
+   90.46% | NOUVEAU MONDE V
+   89.98% | NOUVEAUX MONDES
+   86.62% | NOUVEAU MONASTE
+   85.43% | NOUVEAUX CODES
+   85.23% | NOUVEAU MUSEE
+   85.21% | NOUVEAU MEKNES
+   84.43% | NOUVEAU GENRE
+   84.38% | NOUVEAU DOMAINE
+   82.77% | NOUVEAU BONHEUR
+   82.77% | NOUVEAU CONCEPT
+   82.77% | NOUVEAU CAMBODG
+   82.32% | NOUVELLE MODE
+   82.31% | NOUVEAU DRAGON
+   82.07% | NOUVEAU ANTOINE
+   81.86% | NOUVEAU MARCHE
+   81.86% | NOUVEAU DEPART
+   81.86% | NOUVEAU DELICE
+   81.86% | NOUVEAU CANADA
+   81.37% | NOUVEAUX JASON
+   81.35% | NOUVEAU DOCKS
+   81.13% | LE NOUVEAU MOND
+   81.08% | NOUVEAU COMPTO
+   80.94% | NOUVEAUTE ANNE
+   80.93% | UN NOUVEAU MOND
+   80.93% | AU NOUVEAU MOND
+   80.92% | NOUVEAU LYCEE
+   80.92% | NOUVEAU DAKAR
+   80.59% | NOUVEAU LOOK
+   80.59% | NOUVEAU JOUR
+   80.42% | NOUVEAUX JEUX
+   80.35% | NOUVEAU JEU
+   80.35% | NOUVEAU KIM
+   80.25% | NOUVEN MODIAN
+   80.10% | NOUVEAUX JEU
+
+================================================================================
+KEYWORD 59/79: 'OJIM'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 70
+  After deduplication: 70 (0 duplicates removed)
+  Final results: 70
+  Processing time: 1m 50.0s
+
+Matches above 80.0% (Ensemble):
+   94.67% | LIBRAIRIE OJEIM
+   85.00% | tWdj2EoJiMEE
+   85.00% | qXrJOjiMmGcJ
+   85.00% | kojimam
+   85.00% | KOJIMON
+   85.00% | KOJIMA MASK
+   85.00% | KOJIMA TAXI
+   85.00% | SP OBOJIMA
+   85.00% | HASENOJIMA
+   85.00% | KOJIMA
+   85.00% | WWW.OJIM.FR
+   85.00% | R6QAw1bBoJIM
+   85.00% | PAYPAL *OJIM
+   85.00% | 1O2UioJimNkS
+   85.00% | xdk8b6XcoJim
+   85.00% | NOJIMA
+   81.67% | OJ_FILMZ
+   80.00% | SHUTOKO MUKOJIM
+   80.00% | SUSHIMARU KOJIM
+   80.00% | SP KOJIMA PRODU
+   80.00% | MIYAKOJIMA JIDO
+   80.00% | SHIMOJIMASINSAI
+   80.00% | PAYPAL *NEOJIM.
+   80.00% | KOJIMA RYOGOKU
+   80.00% | KIYOKEN OJIMA
+   80.00% | KOJIMACHIYATEN
+   80.00% | OJimKa1dqaVR ti
+   80.00% | GO-RUDOJIMU NIS
+   80.00% | aifuguojimaoyis
+   80.00% | MIYAKOJIMA-KU
+   80.00% | EOTROOJIM DABSI
+   80.00% | BANDCAMPYOJIMBO
+   80.00% | KPay*KOJIMAYA C
+   80.00% | SHIMOJIMA ASAKU
+   80.00% | NOJIMA-LALAPORT
+   80.00% | ALP*qingdaojima
+   80.00% | SHIMOJIMA BAKUR
+   80.00% | KASHIKOJIMAHOUJ
+   80.00% | F&F KOJIMACHI
+   80.00% | SUMUP *PROJIMM
+   80.00% | Etsy.com*mojimo
+   80.00% | PAYPAL *BOJIMOY
+   80.00% | SANDAIME OKAJIM
+   80.00% | asakusa ojima s
+   80.00% | KIRINDOKAMOJIMA
+   80.00% | NOJIMA AEONMALL
+   80.00% | BAMSOOJIMAINDEU
+   80.00% | MKG4YJ*STOJIMKG
+   80.00% | COTEDORMIYKOJIM
+   80.00% | MIYAKOJIMASHIDE
+   80.00% | SUMUP *KOJIMAM
+   80.00% | SETOUCHI KOJIMA
+   80.00% | LAIPIOJIMO CENT
+   80.00% | KOHIKAN DOJIMAB
+   80.00% | WWW.MOJIMEEEHOU
+   80.00% | KOJIMAYASOUHONT
+   80.00% | KUHOGANGOJIMAET
+   80.00% | GO-RUDOJIMUSHIN
+   80.00% | MYB OJIMA1CHOME
+   80.00% | OSAKA DOJIMAHAM
+   80.00% | SHOJIMOUNTHOTEL
+   80.00% | SHIYUHARI DOJIM
+   80.00% | 02LAIDOJIMOPASL
+   80.00% | 01LAIDOJIMOPASL
+   80.00% | ALP*shiliguojim
+   80.00% | YAMAYADOJIMAPUR
+   80.00% | SAWADEEKOJIMACH
+   80.00% | SQ*SUSHI KOJIMA
+   80.00% | PAYPAL *yojimbo
+   80.00% | KOJIMAHANATEN
+
+================================================================================
+KEYWORD 60/79: 'PANAMZA'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 42
+  After deduplication: 32 (10 duplicates removed)
+  Final results: 32
+  Processing time: 1m 12.4s
+
+Matches above 80.0% (Ensemble):
+  100.00% | PANAMZA
+   91.13% | PANAMA
+   90.86% | PANAMAR
+   84.98% | PANAMA 1
+   84.98% | PANAMA S
+   84.01% | PANAMERA
+   84.01% | PANAMEDA
+   83.26% | PANORAMA
+   82.96% | O PANAMA
+   82.24% | PANGZAA
+   82.20% | PANAM
+   81.74% | PLANAMAR
+   81.71% | PANAMIR
+   81.71% | PANAREA
+   81.71% | PANABAR
+   81.71% | PANARIA
+   81.71% | PANACEA
+   81.71% | PANASIA
+   81.71% | PANAMOR
+   81.68% | PANADA
+   81.68% | PANAME
+   81.68% | PANAHA
+   81.68% | PANACA
+   81.33% | PARANZA
+   81.33% | PARAMAZ
+   80.99% | O'PANAMA
+   80.99% | *PRANAMA
+   80.57% | PANIZZA
+   80.57% | PANNANA
+   80.57% | PANGALA
+   80.57% | PANJAAB
+   80.11% | ANAMA
+
+================================================================================
+KEYWORD 61/79: 'PATRIOTE PRODUCTIONS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 12.6s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 62/79: 'PAYSAN SAVOYARD'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 2
+  After deduplication: 2 (0 duplicates removed)
+  Final results: 2
+  Processing time: 1m 12.6s
+
+Matches above 80.0% (Ensemble):
+   81.94% | MAISON SAVOYARD
+   80.22% | PANIER SAVOYARD
+
+================================================================================
+KEYWORD 63/79: 'PRIVATA SECURITE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 5
+  After deduplication: 5 (0 duplicates removed)
+  Final results: 5
+  Processing time: 1m 12.1s
+
+Matches above 80.0% (Ensemble):
+   86.01% | PROMAT SECURITE
+   85.84% | PRIVAT24 SECURI
+   83.93% | PRIVATE SUITE S
+   81.10% | ATTA SECURITE
+   80.19% | PRIVATE SELECTI
+
+================================================================================
+KEYWORD 64/79: 'PRIVATA'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 32
+  After deduplication: 24 (8 duplicates removed)
+  Final results: 24
+  Processing time: 1m 11.7s
+
+Matches above 80.0% (Ensemble):
+   91.13% | PRIVAT
+   90.86% | PRIVATE
+   88.57% | RIVATAS
+   84.01% | PRIVALIA
+   84.01% | PRIVATIF
+   83.26% | PRISVART
+   82.50% | PREMIATA
+   82.50% | PREVALTA
+   82.20% | PRIVA
+   81.71% | PRIVLTY
+   81.71% | PRIVACY
+   81.71% | PRIVADO
+   81.71% | PRIVCAR
+   81.68% | PRIVAS
+   81.55% | PIRATA
+   81.35% | PRIVATE TA
+   81.33% | PRALIVA
+   81.15% | PRATA
+   80.99% | *PRIVADA
+   80.95% | PRATA L
+   80.63% | PIATA
+   80.57% | PRIMATE
+   80.43% | PIRATAS
+   80.11% | RIVAT
+
+================================================================================
+KEYWORD 65/79: 'QACTUS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 51.1s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 66/79: 'RADIO COURTOISIE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 2
+  After deduplication: 2 (0 duplicates removed)
+  Final results: 2
+  Processing time: 1m 12.4s
+
+Matches above 80.0% (Ensemble):
+   93.67% | RADIO COURTOISI
+   82.23% | RADIO CROISETTE
+
+================================================================================
+KEYWORD 67/79: 'REVUE ELEMENTS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 3
+  After deduplication: 3 (0 duplicates removed)
+  Final results: 3
+  Processing time: 1m 11.9s
+
+Matches above 80.0% (Ensemble):
+   97.43% | REVUE ELEMENTS
+   81.60% | REVUE DEFENSE
+   80.65% | RITUEL ELEMENTS
+
+================================================================================
+KEYWORD 68/79: 'RIPOSTE LAIQUE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 12.3s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 69/79: 'RESISTANCE AUTHENTIQUE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 13.1s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 70/79: 'RT NEWS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 8
+  After deduplication: 8 (0 duplicates removed)
+  Final results: 8
+  Processing time: 1m 11.7s
+
+Matches above 80.0% (Ensemble):
+   81.90% | Sport News
+   81.35% | RT PNEUS
+   80.95% | RAJ NEWS
+   80.95% | RAM NEWS
+   80.95% | ROS NEWS
+   80.95% | R K NEWS
+   80.32% | TOP NEWS
+   80.18% | RESORT NEWS
+
+================================================================================
+KEYWORD 71/79: 'SOTT'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 756
+  After deduplication: 741 (15 duplicates removed)
+  Final results: 741
+  Processing time: 1m 51.8s
+
+Matches above 80.0% (Ensemble):
+   95.00% | AGODA.COM SOTET
+   94.67% | THE SOHTT COLLE
+   94.67% | SOHTT
+   94.00% | SAMBAR DI SCOTT
+   94.00% | STEVE SCOTT GOL
+   94.00% | LUMEPIC - SPOTT
+   94.00% | CHEZ SCOTT
+   94.00% | DAVID SCOTT
+   94.00% | SCOTT M THOMPSO
+   94.00% | T SCOTT JER
+   94.00% | SP J. SCOTT CAM
+   94.00% | 903 SCOTT ST. W
+   94.00% | SCOTT LEGGO PTY
+   94.00% | AKERSHUS SLOTT
+   94.00% | G & S SCOTT STR
+   94.00% | EXXON SCOTT SUB
+   94.00% | SCOTT & CO
+   94.00% | ROSENDALS SLOTT
+   94.00% | SCOTT AVE
+   94.00% | LYLE & SCOTT
+   94.00% | SQ *28 SCOTT VI
+   94.00% | LACY SCOTT AND
+   94.00% | SCOTT ALMA
+   94.00% | BAR SCOTT
+   94.00% | ORENAS SLOTT HO
+   94.00% | HOT SHOTT
+   94.00% | NEW DAVID SCOTT
+   94.00% | SCOTT ORIGINALS
+   94.00% | SP SCOTT FRASER
+   94.00% | SCOTT BAR
+   94.00% | GOHAN ON SCOTT
+   94.00% | SCOTT RACING MO
+   94.00% | SCOTT DUFF
+   94.00% | JOHN SCOTT S
+   94.00% | KALMAR SLOTT
+   94.00% | SOUFRIERE SCOTT
+   94.00% | RAY AND SCOTT L
+   94.00% | SCOTT S DONUTS
+   94.00% | KINA SLOTT 24
+   94.00% | EPICERIE SCOTT
+   94.00% | SCOTT MILLER ST
+   94.00% | KEVIN SCOTT
+   94.00% | ONCLE SCOTT S
+   94.00% | THOMAS SCOTT
+   94.00% | SPOTT
+   94.00% | SQ *99 SCOTT ST
+   94.00% | JONAH SCOTT
+   94.00% | PAMELA SCOTT NE
+   94.00% | NASBY SLOTT
+   94.00% | *DERRY & SCOTT
+   94.00% | SP ANTONY SCOTT
+   94.00% | MARY SCOTT SKIN
+   94.00% | SCOTT CURRIE
+   94.00% | ONCLE SCOTT
+   94.00% | SALUMERIA SCOTT
+   94.00% | HELEN SCOTT OPT
+   94.00% | RICK SCOTT UNIP
+   94.00% | SCOTT LITTLE
+   94.00% | LE SCOTT
+   94.00% | AAPEN SLOTT - S
+   94.00% | BUVETTE SCOTT I
+   94.00% | SCOTT ITALIA S.
+   94.00% | SCOTT RITTER U.
+   94.00% | CLARY SCOTT PAR
+   94.00% | SCOTT RD CENTEX
+   94.00% | JOHN SCOTT
+   94.00% | KENDRA SCOTT 26
+   94.00% | SP TRAVIS SCOTT
+   94.00% | MAXWELL SCOTT B
+   94.00% | NICHOLAS SCOTT
+   94.00% | SCOTT BROS
+   94.00% | DRH SLOTT ENTRE
+   94.00% | SARL SCOTT
+   94.00% | SCOTT SPORTS
+   94.00% | EMILY SCOTT FOO
+   94.00% | BARRY SCOTT
+   94.00% | MITCHELLS SCOTT
+   94.00% | SCOTT BROTHERS
+   94.00% | PADMA SPA SCOTT
+   94.00% | SCOTT RUNNING
+   94.00% | SCOTT STEVENSON
+   94.00% | SCOTT RITTER EX
+   94.00% | BORGHOLMS SLOTT
+   94.00% | SCOTT LUTHERIE
+   94.00% | SCOTT ST. PARKI
+   94.00% | SP CALUM SCOTT
+   94.00% | SCOTT
+   94.00% | LYLE & SCOTT LT
+   94.00% | DOENER SPOTT 21
+   94.00% | SCOTT LABS CANA
+   94.00% | SCOTT MAIN STOR
+   94.00% | SQ *ANN SCOTT A
+   94.00% | CRV*ONCLE SCOTT
+   94.00% | SCOTT FRISOR
+   94.00% | LULULEMON SCOTT
+   94.00% | TST*154 SCOTT
+   94.00% | SP LYLE SCOTT E
+   94.00% | LEJONDALS SLOTT
+   94.00% | SCOTT FUTR
+   94.00% | SQ *99 SCOTT
+   94.00% | HILTON VC SCOTT
+   94.00% | ESSO SCOTT HALL
+   94.00% | SCOTT PREMIUM
+   94.00% | SCOTT PROPERTIE
+   94.00% | FREDERICK SCOTT
+   94.00% | DESCAMPS SCOTT
+   94.00% | SOLLIDENS SLOTT
+   94.00% | PAMELA SCOTT DO
+   94.00% | SCOTT HOME DELI
+   94.00% | PAMELA SCOTT WE
+   94.00% | OREBRO SLOTT
+   94.00% | NAGS HEAD SCOTT
+   94.00% | SQ *FORT SCOTT
+   94.00% | SCOTT JEHL
+   94.00% | 401 SCOTT ST
+   94.00% | SCOTT COIFFURE
+   92.22% | HACIENDA SOTUTA
+   92.22% | SUPERW SOTUTA V
+   92.22% | SOTITO S BAR
+   92.22% | SOTRET AMANDINE
+   91.11% | KFC BDR SOETTA
+   91.11% | SONTOT GAZ
+   91.11% | ANKER SOETTA TE
+   91.11% | KF SOETTA TERMI
+   91.11% | KFC SST SOETTA
+   91.11% | SP SOULTT
+   85.00% | SOTTO SOPRA
+   85.00% | SOTTOCOSTA
+   85.00% | SOTTO STJ
+   85.00% | SOTTA
+   85.00% | EGLISOTTES
+   85.00% | BAR SPOTTI
+   85.00% | PINSOTTI
+   85.00% | La Coussotte
+   85.00% | SOTTEJEAU
+   85.00% | SOTTGODIS
+   85.00% | LE RISOTTO
+   85.00% | SOTT & SALT
+   85.00% | SCOTTS PUB
+   85.00% | SOTTOBOSCO
+   85.00% | SOTTO PIZZA
+   85.00% | UGO SCOTTI
+   85.00% | JOSUE SOTT
+   85.00% | Sotto Zero
+   85.00% | IPER VISOTTO
+   85.00% | SottoZero
+   85.00% | MUSSOTTE
+   85.00% | MASOTTA
+   85.00% | SOTTOSALE
+   85.00% | SCOTTS HOTEL
+   85.00% | ISOTTA
+   85.00% | 3 RISOTTI
+   85.00% | SOTTOSCALA
+   85.00% | SNC SCOTTE
+   85.00% | SCHOTT STORE
+   85.00% | IL CASOTTO
+   85.00% | DR SCHOTT
+   85.00% | SCOTET JEAN
+   85.00% | LA CASSOTTE
+   85.00% | LEASY SKOOTT
+   85.00% | GGhSottqUB8S
+   85.00% | BORSOTTI
+   85.00% | OPTIC SCHOTT
+   85.00% | SOTTOCAPO
+   85.00% | SPOTTO
+   85.00% | DR HOSOTTE
+   85.00% | LUCIE SOTTY
+   85.00% | M SOTT
+   85.00% | Sotto Turku
+   85.00% | TAPASOTTO
+   85.00% | SALON SCOTTO
+   85.00% | ETS MUSSOTTE
+   85.00% | SOTTO PORTA
+   85.00% | BARSOTTI
+   85.00% | SCOTTO
+   85.00% | SGOTTE
+   85.00% | SOTTOCASA
+   85.00% | SOTKATT
+   85.00% | CriZhsOttlp7
+   85.00% | SCOTTY
+   85.00% | SOTTOSOPRA
+   85.00% | SOTTILE
+   85.00% | MASOTTINA
+   85.00% | ISOTTA NFC
+   85.00% | SPOTTO WA
+   85.00% | RISOTTOMANIA
+   85.00% | ISOTTANO
+   85.00% | SOTTOZERO
+   85.00% | SCOTTI
+   85.00% | CASA SOTTO
+   85.00% | Sottiles
+   85.00% | SCOTTA LA
+   85.00% | SOTTON PERE
+   85.00% | SQ *SOTTO
+   85.00% | SOTTOPIAZZA
+   85.00% | IPERVISOTTO
+   85.00% | HxlSE0SoTtp4
+   85.00% | Sotto Sotto
+   85.00% | SCHOTT
+   85.00% | SPOTTY DOT
+   85.00% | LECKO SSLOTT
+   85.00% | SOTTO SOTTO
+   85.00% | Sottozero
+   85.00% | SOTTOBANCO
+   85.00% | SOTTO
+   85.00% | RASOTT
+   85.00% | CASOTTO
+   85.00% | EIRL SCOTTA
+   85.00% | SOTTO CASA
+   85.00% | qsOTtbbtKCY1
+   85.00% | QUELLO SOTTO
+   85.00% | SottoSopra
+   85.00% | SOTTOLCAVOLO
+   85.00% | Risottogo
+   85.00% | SOTTANA
+   85.00% | SOTTON
+   85.00% | L'ACQUASOTTO
+   85.00% | MC SOTTORIPA
+   85.00% | ASSOTTLCM
+   85.00% | SPOTTO VIC
+   85.00% | SOTTOM L&N
+   85.00% | SOTTOVENTO
+   85.00% | SOTTY LORENE
+   85.00% | SCHOTT NYC
+   85.00% | SCOTTS
+   85.00% | SOTTO Pizza
+   85.00% | RISOTTO
+   85.00% | SPOTTO NSW
+   85.00% | SASSOTTICA
+   85.00% | JOHN SCOTTS
+   85.00% | DI SOTTO
+   85.00% | SOTTOCOSTO
+   85.00% | Sotto
+   85.00% | SCOTTS BAR
+   85.00% | SCHOTT LYON
+   85.00% | SOTTOVOCE
+   85.00% | Casottel
+   85.00% | SPOTTO QLD
+   85.00% | SOTTOCOPERTA
+   85.00% | SOTTO VENTO
+   85.00% | ROFE SOTTO
+   85.00% | DANIEL SOTTY
+   85.00% | SARL SCOTTO
+   85.00% | SCOTTS CAFE
+   85.00% | CA' SOTTANE
+   85.00% | SOTTOFONDO
+   85.00% | SCOTTA
+   85.00% | SARL SOTTANA
+   85.00% | SCOTTY PINK
+   85.00% | OSOTTOOSOPRA
+   85.00% | MPOS RISOTTO
+   85.00% | TST*SOTTO 13
+   85.00% | DR POINSOTTE
+   83.89% | SUMUP *SCOTT
+   83.89% | ASCOTT MACAU
+   83.89% | SQ *SCOTT
+   83.89% | BT *SCOTT C
+   83.89% | ASCOTT
+   82.14% | SLOTIT.
+   82.14% | SALOTTO
+   82.14% | SLOTTET
+   82.14% | SPOTTER
+   82.14% | JOHN SCOTT'S
+   82.14% | DR SINOTTE
+   82.14% | J B SCHOTTE
+   82.14% | ILY SALOTTO
+   82.14% | SALOTTO 42
+   82.14% | SCOTTER
+   82.14% | IL SALOTTO
+   82.14% | DR SAROTTE
+   82.14% | NEW SCHOTTY
+   82.14% | SCOTTYS
+   82.04% | SOTOMATOR
+   81.67% | LA SOFFITTA
+   81.67% | LA SOUPETTE
+   81.67% | SOCKETTI
+   81.67% | SOGGETTI
+   81.67% | IL SORBETTO
+   81.67% | SOKHITTA
+   81.67% | LA SONNETTE
+   81.67% | SOFTBITE
+   81.67% | SOLNETTE
+   80.71% | -SOETTA TER
+   80.19% | SP SOLETTOTM
+   80.19% | SOFTITECK
+   80.19% | SORNETTES
+   80.19% | SOVTATION
+   80.00% | Yoco *Sotto R
+   80.00% | SOTTO CASTELLO
+   80.00% | SOTTANIS EMANUE
+   80.00% | SCOTTE FUNINGAN
+   80.00% | SOTTIAUX JEAN-C
+   80.00% | SUMUP *SOTTERR
+   80.00% | BOULANG SCOTTE
+   80.00% | RENAULT SOTTEVA
+   80.00% | SOTTOZERO CAFE
+   80.00% | MME CONTESSOTTO
+   80.00% | Caffe Bassotto
+   80.00% | FH* SCOTTS PIZZ
+   80.00% | SOTTEJEAU MOTOC
+   80.00% | SOTTOTONO CONCA
+   80.00% | PASOTTI STORE S
+   80.00% | SOTTOM ET FILS
+   80.00% | SOTTOCULTURA LA
+   80.00% | BENIHANA SCOTTS
+   80.00% | SOTTO CASA CAFF
+   80.00% | SPORTITY
+   80.00% | SEFI SOTTEVILLE
+   80.00% | SOTETSU ROSEN
+   80.00% | OSTERIA SOTTOSO
+   80.00% | Sotto Il Ponte
+   80.00% | PAGLIASSOTTO AL
+   80.00% | SOTTOZERO MARSA
+   80.00% | PAYPAL *SOTTOBE
+   80.00% | PINSERIA SOTTO
+   80.00% | PARISOTTO FABIO
+   80.00% | SUMUP *SOTTOVE
+   80.00% | SP SPORTTNE
+   80.00% | GARAGE TASSOTTO
+   80.00% | LOGEAL AG SOTTE
+   80.00% | POGGIO DI SOTTO
+   80.00% | PALAZZO SCOTTO
+   80.00% | SOTTOVENTO TOUR
+   80.00% | ANNA SOTTILOTTA
+   80.00% | PIZZERIA RISOTT
+   80.00% | SP RISOTTOSTUDI
+   80.00% | RISOTTERIA MELO
+   80.00% | PAYPAL *SOTTIAU
+   80.00% | GRASSOTTI E ROS
+   80.00% | OSTERIA SOTTOVE
+   80.00% | THIERRY MOSSOTT
+   80.00% | PIZZERIA SOTTO
+   80.00% | SOTTO LA TORRE
+   80.00% | ZETTLE_*IE SOTT
+   80.00% | SOTTO SOTTO DI
+   80.00% | SCOTTS FOOD TRU
+   80.00% | TCHIP SOTTEVILL
+   80.00% | AL CASOTTO ROSS
+   80.00% | FREDERIC SOTTER
+   80.00% | SOTTOFONDO GUST
+   80.00% | BASSOTTI VALERI
+   80.00% | WWW.TASSOTTI.IT
+   80.00% | SOTTOCASTELLO
+   80.00% | SCOTTS - MAYFAI
+   80.00% | SCOTTI TIZIANA
+   80.00% | GARAGE SCHOTT
+   80.00% | RISOTTERIA PORT
+   80.00% | TRISTAN HOSOTTE
+   80.00% | SINNOTTS BAR
+   80.00% | SOTETSU GRAND F
+   80.00% | SOTTO SOTTO RIS
+   80.00% | BARSOTTI LUCA
+   80.00% | FANTASIE SOTTO
+   80.00% | SUMUP *SOTTO S
+   80.00% | LOUNGE BAR SOTT
+   80.00% | PALACIO SOTTO M
+   80.00% | SP PASOTTO ANGE
+   80.00% | ISOTTA PARFUMS
+   80.00% | SUMUP *BISOTTO
+   80.00% | SCOTT.FR
+   80.00% | SOTTO IL VULCAN
+   80.00% | SOTTOSOPRA BOLG
+   80.00% | CIC SOTTEVILLE
+   80.00% | ENSEMBLE SOTTOV
+   80.00% | SP SCOTTI SORRE
+   80.00% | TRULLO SOTTERRA
+   80.00% | ALMA SCHOTT 4 S
+   80.00% | OSTERIA SOTTOCO
+   80.00% | SOTT OCH SALT
+   80.00% | ALMA SOTTEVILLE
+   80.00% | ALMA SCHOTT 2 S
+   80.00% | ALMA SCHOTT 3 S
+   80.00% | ZETTLE_*SOTTOFF
+   80.00% | HOSTARIA OSOTTO
+   80.00% | LA SCOTTONA
+   80.00% | OUTLET SOTTOCAS
+   80.00% | SAS EGLISOTTES
+   80.00% | SOTT OCH SALT M
+   80.00% | SOTTERO PIERLUI
+   80.00% | SOTTOZERO RETAI
+   80.00% | RUSSOTTI FRANCE
+   80.00% | DI SOTTO GIANLU
+   80.00% | GARAGE SOTTEVIL
+   80.00% | Docteur SOTTO
+   80.00% | AI PIANI SOTT
+   80.00% | RONNIE SCOTTS C
+   80.00% | PARK CASSA SOTT
+   80.00% | JOHN SCOTTS AVE
+   80.00% | PEPPE SOTT'O'PO
+   80.00% | SP SCOTTERS
+   80.00% | SOTTOSOPRA DI S
+   80.00% | SOTTOZERO DI BO
+   80.00% | TABACCHI SCOTTI
+   80.00% | SOTTOCOSTO DI A
+   80.00% | SCOTTISH
+   80.00% | GIARDINO SOTTOS
+   80.00% | SOTTO SOPRA HEI
+   80.00% | SPOONERY SLOTTS
+   80.00% | CIRCOLO SOTT.LI
+   80.00% | FOISSOTTE JIM
+   80.00% | RISOTTERIA ALLA
+   80.00% | SOTTOCASA HARLE
+   80.00% | SCHOTT CATHERIN
+   80.00% | MOIZO E SCOTTI
+   80.00% | SOTTOVOCE CAFE
+   80.00% | BERGAMO SOTTOS
+   80.00% | CHIOSO DI SOTTO
+   80.00% | SCOTTE ANTHONY
+   80.00% | CAFFE' SCOTTO
+   80.00% | LE P'TIT SOTTER
+   80.00% | SOTTOCASA BROOK
+   80.00% | SCOTTI LUCA D.I
+   80.00% | MLLE SCOTTE HEL
+   80.00% | PIZZERIA SOTTOS
+   80.00% | RUSSOTTO LUCIA
+   80.00% | SCOTTO MUSIQUE
+   80.00% | SCHOTTEN
+   80.00% | DR BARSOTTI F
+   80.00% | MME BARS SCOTET
+   80.00% | CASSOTTI CECILE
+   80.00% | RISOTTERIA FRAT
+   80.00% | SOTTO (69) SOPR
+   80.00% | PINSOTTO DI V.
+   80.00% | 45410 OSIO SOTT
+   80.00% | SOTTEVILLE LES
+   80.00% | IL SOTTOCOSTO D
+   80.00% | SCOTTI DISTRIBU
+   80.00% | OTTICA LISOTTI
+   80.00% | CAFFE' SOTTOSOP
+   80.00% | OSTERIA SOTTO L
+   80.00% | NATI SOTTO IL C
+   80.00% | LARIVIERE SOTTE
+   80.00% | HOTEL SOTTOVENT
+   80.00% | OSTERIA SOTTOBA
+   80.00% | La p'tite Sotte
+   80.00% | SCOTTY + PAUL H
+   80.00% | OPTIQUE SCHOTT
+   80.00% | SCHOTT JONATHAN
+   80.00% | SAS SOTT'ACQUA
+   80.00% | LES EGLISOTTES
+   80.00% | PAYPAL *SOTTILE
+   80.00% | PAYPAL *jcsotto
+   80.00% | AG. SOTTOMARINA
+   80.00% | SCOTTS OF SOUTH
+   80.00% | SOTTO SOPRO PIZ
+   80.00% | PAYPAL *sottond
+   80.00% | EPICERIE SCOTTO
+   80.00% | EREDI DI PASOTT
+   80.00% | BARSOTTI ALESSI
+   80.00% | QUANAH SCHOTT
+   80.00% | DOCTEUR SCHOTT
+   80.00% | JUWELIER SCHOTT
+   80.00% | OMAI SOTTOPIAZZ
+   80.00% | SCOTTS FOR TOOL
+   80.00% | SCHOTT NYC (NEW
+   80.00% | IL CASOTTO SOCI
+   80.00% | FARMACIA SOTTIL
+   80.00% | R Candido Sotto
+   80.00% | IL BAR SOTTO IL
+   80.00% | SumUp *Pasotti
+   80.00% | TST*ROSSOTTIS A
+   80.00% | LA RECRE SOTTTE
+   80.00% | PARISOTTO PAOLA
+   80.00% | SOTTOBICCHIERE
+   80.00% | FRATELLI MASOTT
+   80.00% | FRISOTTI LUCA
+   80.00% | EMMANUEL SCOTET
+   80.00% | SOTETSU FRESA I
+   80.00% | EUROPCAR SOTTEV
+   80.00% | SOTTOLARCO CAS
+   80.00% | RA SUSHI SCOTTS
+   80.00% | SOTTO PIZZA III
+   80.00% | SOTTOTONO FORUM
+   80.00% | SOTTO SALE OSTE
+   80.00% | DMTP SOTTEVILLE
+   80.00% | TST*SOTTO & BAR
+   80.00% | SOTTILI MAURIZI
+   80.00% | PAYPAL *PASOTTI
+   80.00% | H & J-M SOTTO P
+   80.00% | BAR SOTTOVENTO
+   80.00% | SOTTOSOPRA EASY
+   80.00% | SOTTUNGA GESTHA
+   80.00% | Osteria Sottove
+   80.00% | PAYPAL *biasott
+   80.00% | SOTTOSOPRA STOR
+   80.00% | DR SCHOTT FLORE
+   80.00% | SCOTTO ROSITA S
+   80.00% | VACQUIER-SOTTY
+   80.00% | OBOGSOTTTOUGUNG
+   80.00% | SOTTTOUGUNGDARK
+   80.00% | SHOP.ISOTTA-SRL
+   80.00% | DISCORD* SHOTOT
+   80.00% | VAD SCOTTO MUSI
+   80.00% | Sottozero Birgu
+   80.00% | LOCAKASE SOTTEV
+   80.00% | MR ISOTTON THOM
+   80.00% | AMD TH SOTTEVIL
+   80.00% | L'UMBRIA SOTTO
+   80.00% | HELADERIA SOTTO
+   80.00% | SOTTO IL SANTO
+   80.00% | KIWI 203 SKOTTE
+   80.00% | SCOTTS KITCHEN
+   80.00% | SCHOTT STEPHANE
+   80.00% | SOTTO LA LUNA
+   80.00% | CB CHA_SOTTEVI
+   80.00% | SOTETSU G-FRESA
+   80.00% | FARMACIA CASOTT
+   80.00% | SOTTO SOPRA STO
+   80.00% | SCOTTS BIKE EXC
+   80.00% | SP MAIK SCHOTT
+   80.00% | SCOTTO MASSIMO
+   80.00% | HOTELS * SSROTT
+   80.00% | MANG. SOTTO LE
+   80.00% | SCOTTISH MR
+   80.00% | SCHOTT CHRISTOP
+   80.00% | EDEKA LASSOTTA
+   80.00% | NOTAI SPOTTI E
+   80.00% | CIRC.SOTTUFF .M
+   80.00% | MASOTTI LORENZO
+   80.00% | THE SCOTTY HOTE
+   80.00% | CREMERIE SOTTON
+   80.00% | GUIDOLINE SOTT
+   80.00% | RESTAURANT SOTT
+   80.00% | TUTTI SOTTO LA
+   80.00% | DR CISOTTO JACQ
+   80.00% | PIZZERIA SOTTOM
+   80.00% | SELASU BORSOTTI
+   80.00% | ISOTTA ABBIGLIA
+   80.00% | SOTTOCASA RISTO
+   80.00% | SEENOTTY
+   80.00% | RECARD SCHOTT P
+   80.00% | SAULSOTTE ALSH
+   80.00% | SOTTO SOPRA DI
+   80.00% | PASOTTI GROUP
+   80.00% | MASOTTI GIULIAN
+   80.00% | LA FRISOTTERIE
+   80.00% | Zettle_*SOTTA F
+   80.00% | BRED SOTTEVILLE
+   80.00% | SUMUP *BARSOTT
+   80.00% | SKAFE AL CASOTT
+   80.00% | SUMUP *SOTTU A
+   80.00% | SOTTOZERO CERNO
+   80.00% | RISTORANTE SOTT
+   80.00% | TRATTORIA ISOTT
+   80.00% | SAULSOTTECANTIN
+   80.00% | TRAITEUR SOTTON
+   80.00% | OSTERIA SOTTORI
+   80.00% | EDITIONS SCOTTY
+   80.00% | STAN SCOTT* QK4
+   80.00% | SCOTTI MASSIMO
+   80.00% | SUPERCONV SOTTI
+   80.00% | IL BASSOTTO GEL
+   80.00% | SOTTOPELLE TATT
+   80.00% | FOISSOTTE RENOV
+   80.00% | DR SCOTTA LOUIS
+   80.00% | PRESOTTO PAOLA
+   80.00% | BIRRERIA SOTTO
+   80.00% | CIRC.SOTTUFF.M.
+   80.00% | SOTTOPASSO SMN
+   80.00% | R D Elsa Sotto
+   80.00% | BIASOTTO MARIAN
+   80.00% | MICOL DI PASOTT
+   80.00% | CARRO.SOTTEVILL
+   80.00% | SCOTTAGE
+   80.00% | RTE SOTTOVOCE
+   80.00% | PAYPAL *sosotte
+   80.00% | SOTTOZERO ICE C
+   80.00% | PHARM. SOTTILE
+   80.00% | SAULSOTTE TITRE
+   80.00% | MME PRESOTTO NA
+   80.00% | STAN SCOTT* XD3
+   80.00% | BAR SOTTO LOMBE
+   80.00% | EDI PERESSOTTI
+   80.00% | GEORGES HOSOTTE
+   80.00% | SP SCOTTS COLLE
+   80.00% | SOTETSU HOTELS
+   80.00% | ALMA SCHOTT 1 S
+   80.00% | La P'tite Sotte
+   80.00% | SOTTOTONO VULCA
+   80.00% | JOHN SCOTTS MAL
+   80.00% | LS SottoPiano
+   80.00% | PINSOTTO PRETAP
+   80.00% | CRV*LE RISOTTO
+   80.00% | EDICOLA SCOTTO
+   80.00% | SUMUP *SOTTOES
+   80.00% | SCHOTT BOULANGE
+   80.00% | SUMUP *PASOTTI
+   80.00% | DR SCHOTT PHILI
+   80.00% | SOTKATT ALICANT
+   80.00% | TRATTORIA SOTTO
+   80.00% | BISTRO SOTIATE
+   80.00% | Sotto Pizza 3 B
+   80.00% | SCOTTS - RICHMO
+   80.00% | 3 RISOTTI DI GA
+   80.00% | SOTTOBOSCO DI S
+   80.00% | GTP DI BARSOTTI
+   80.00% | Sikkens Sottevi
+   80.00% | SOTTOSOPRA ROOM
+   80.00% | ALMA SCOTTO MUS
+   80.00% | Pasotti Matteo
+   80.00% | DOCTEUR MOSSOTT
+   80.00% | ZETTLE_*SOTTA F
+   80.00% | BONTA' SOTTO L
+   80.00% | Sottozero Eis
+   80.00% | ISOTTO CIG KOFT
+   80.00% | SUMUP *SOTTOCA
+   80.00% | ETS FOISSOTTE
+   80.00% | THE SPOTTY BAG
+   80.00% | PAYPAL *SOTTY J
+   80.00% | IND SOTTY PHILI
+   80.00% | PERESSOTTI PATR
+   80.00% | BAR SOTTOCOPERT
+   80.00% | HOSOTTE GEORGES
+   80.00% | HOTEL BARSOTTI
+   80.00% | ISETAN - SCOTTS
+   80.00% | SCOTTI GIOCATTO
+   80.00% | SOTKATT ATLANTI
+   80.00% | SOTETSU INTERNA
+   80.00% | SOTTOZERO MAGIO
+   80.00% | SOTTO SAN PIETR
+   80.00% | SARL SOTTIEAUX
+   80.00% | LAPLASSOTTE FRA
+   80.00% | SOTTOSOPRA (FUT
+   80.00% | ANDREA SCOTTI
+   80.00% | PULCINELLA SOTT
+   80.00% | SUMUP *SOTTOSO
+   80.00% | PASOTTI LAURENC
+   80.00% | PAILLE SOTTEVIL
+   80.00% | THE SCOTTISH
+   80.00% | HOSOTTE MAXIME
+   80.00% | SOTTOTETTO URBA
+   80.00% | SOTTOM YANNICK
+   80.00% | BARSOTTI G. BEL
+   80.00% | SCOTTO VALENTIN
+   80.00% | SOTTO MARE OYST
+   80.00% | EPI SOTTEVILLAI
+   80.00% | SOTTO SHOCK GIN
+   80.00% | LA RISOTTERIA
+   80.00% | LOCANDA SOTTO I
+   80.00% | Zettle_*SOTTOFF
+   80.00% | PASOTTO DAVIDE
+   80.00% | VISOTTO SUPERME
+   80.00% | LIBEROSOTTILE S
+   80.00% | SOTT HUS KONDIT
+   80.00% | PAYFIP SOTTEVIL
+   80.00% | VICO DEI SOTTER
+   80.00% | PAYPAL *sottani
+   80.00% | NEGOZIO SOTTO C
+   80.00% | SPORTTIA
+   80.00% | Zettle_*IE SOTT
+   80.00% | SOTTO ZERO HELA
+   80.00% | SCOTTO STEPHAN
+   80.00% | BAR SOTTOZERO S
+   80.00% | CICLATERA SOTTO
+   80.00% | SOTTOSOPRA SRLS
+   80.00% | MARKET SOTTOCAS
+   80.00% | BANDABASSOTTI
+   80.00% | Alma SOTTEVILLE
+   80.00% | SOTTOTONO LE BO
+   80.00% | SCOTTS SUBSTACK
+   80.00% | SOTTEVAST MAIRI
+   80.00% | BIASOTTO GABRIE
+   80.00% | GELATERIA SOTTO
+   80.00% | BAR DI SOTTO BI
+   80.00% | BOTTEGA SOTTO L
+   80.00% | Sotto Enoteca a
+   80.00% | PISSOTTE ROLE
+   80.00% | JOHN SCOTTS PUB
+   80.00% | SUMUP *LE SOTT
+   80.00% | SOTTOLIO ZAANDA
+   80.00% | BORSOTTO YVON J
+   80.00% | CIVICO SOTTO LE
+   80.00% | SUMUP *SOTTOBO
+   80.00% | SOTTOCASA DI FE
+   80.00% | SUMUP *SANSOTT
+   80.00% | PASOTTI OMBRELL
+   80.00% | BOWLING SOTTOSO
+   80.00% | SCOTTS XL AGHAG
+   80.00% | LOEVEN SCOTTY
+   80.00% | TIGELLA SOTTORI
+   80.00% | SOTTO SCALA CAF
+   80.00% | SOTTIL GIOVANNI
+   80.00% | ISOTTA S N C DI
+   80.00% | SOTTO LE CUMMER
+   80.00% | DI SOTTO TAXI
+   80.00% | BARSOTTI FLEURS
+   80.00% | SOTTOZERO E NON
+   80.00% | SOTTOVENTO S.R.
+   80.00% | LBMR SOTTEVILLE
+   80.00% | SOTTOVOCE LIBER
+   80.00% | PAYPAL *rossott
+   80.00% | BOUCHERIE SOTTO
+   80.00% | SOTKATT PLAYA D
+   80.00% | IPERMERC.VISOTT
+   80.00% | SCHOTT PERFORMA
+   80.00% | SUMUP *SOTTOBI
+   80.00% | ORTO SOTTO CASA
+   80.00% | 76 - SCOTTS VAL
+   80.00% | KUNGLIGA SLOTTE
+   80.00% | DR MUSSOTTE F
+   80.00% | DR RONDEAU SOTT
+   80.00% | SOTTO LE LOGGE
+   80.00% | SOTTO CASA DI K
+   80.00% | SCOTTO DI SANTO
+   80.00% | SOTTEVILLE JARD
+   80.00% | SC SCOTTO MUSIQ
+   80.00% | EAU TH SOTTEVIL
+   80.00% | SOTTILI MOTORI
+   80.00% | SCHOTT CUISINES
+   80.00% | RUSSOTTO PIZZER
+   80.00% | RISOTTERIA PIZZ
+   80.00% | SOTTOSOPRA DI C
+   80.00% | SCOTTA MOTRIL
+   80.00% | FARMACIA ISOTTI
+   80.00% | SOTTO I PORTICI
+   80.00% | DI SOTTO BENEDE
+   80.00% | SOTTO LE STELLE
+   80.00% | POULET SCOTTO
+   80.00% | BONTA SOTTO L
+   80.00% | FIORI SOTTO LA
+   80.00% | SOTT E NCOPPA 6
+   80.00% | TABACCHI SOTTIL
+   80.00% | PIZZERIA SOTTOC
+   80.00% | SCHOTT MUSIC LT
+   80.00% | SOTKATT LORCA
+   80.00% | IT'SUGAR SCOTTS
+   80.00% | DELIZIE SOTTO Z
+   80.00% | SOTTEVAST PAYFI
+   80.00% | CRV*Risottogo
+   80.00% | LittlesOtters
+   80.00% | SCOTTS SUPERMAR
+   80.00% | TVM-SIENA SOTTO
+   80.00% | SOTTOZERO GELAT
+   80.00% | DR SCOTTO DI VE
+   80.00% | SCOTTO DI CESAR
+   80.00% | SCOTTO DI PERTA
+   80.00% | LIDO SOTTOVENTO
+   80.00% | SOTTOCOPERTA SR
+   80.00% | SUMUP *SOTTO L
+   80.00% | GARAGE SOTTIEZ
+   80.00% | SOTTEVILLE SPL
+
+================================================================================
+KEYWORD 72/79: 'SYTI'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 52
+  After deduplication: 52 (0 duplicates removed)
+  Final results: 52
+  Processing time: 1m 49.2s
+
+Matches above 80.0% (Ensemble):
+   94.00% | M FRANCK SEYTI
+   94.00% | IKIDA SHYTI P.F
+   94.00% | TOYTOULIS SPYTI
+   94.00% | SHYTI PETROL
+   91.11% | PHIE SYNTIA THO
+   91.11% | BANDCAMP SYSTAI
+   91.11% | BANDCAMP SYNTHI
+   91.11% | DROUOT SYNTIA
+   85.00% | SP EASYTILES
+   85.00% | uXHSYTiD0C6f
+   85.00% | MEP*easytip
+   85.00% | RP*EASYTIP
+   85.00% | SANYTI
+   85.00% | POISYTIF
+   85.00% | yaBtPKSYTiHW
+   85.00% | EASYTICKET
+   85.00% | PPG*EASYTIS
+   85.00% | SP SASSYTIP
+   85.00% | SYTING
+   85.00% | jPdYCImsyTi2
+   83.57% | SYNTIOS
+   82.14% | SKYTIME
+   81.67% | SYMPATIF
+   81.67% | LE SYNTHOIS
+   81.67% | LE SYMPATIC
+   81.67% | SYSTONIC
+   81.67% | SYUNTHIA
+   81.67% | SYNASTIE
+   81.67% | SYCOTHIC SH
+   81.67% | LA SYMETRIE
+   81.67% | SYSTEMIO
+   81.67% | SYMETRIX
+   81.67% | SYCOPTIC
+   80.19% | SYMPATIFF
+   80.19% | LA SYNTHOISE
+   80.19% | LE SYKATRISO
+   80.19% | SYST'AIME D
+   80.19% | SYNTHLIFE
+   80.19% | SYMPATIFS
+   80.00% | PAYPAL *MISSYTI
+   80.00% | DSPMsYTIU4kz ti
+   80.00% | CRV*PPG*EASYTIS
+   80.00% | SQY.TIPI
+   80.00% | BANDCAMPEASYTIG
+   80.00% | Tips via EasyTi
+   80.00% | 5EV4BZP5SYTI ht
+   80.00% | HAN00097 SYTIST
+   80.00% | PAYPAL *EASYTIC
+   80.00% | Etsy.com*EasyTi
+   80.00% | SUMUP *KASYTI
+   80.00% | WWW.EASYTICKET.
+   80.00% | PAYPAL *daisyti
+
+================================================================================
+KEYWORD 73/79: 'TERRE ET PEUPLE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 16
+  After deduplication: 16 (0 duplicates removed)
+  Final results: 16
+  Processing time: 1m 8.5s
+
+Matches above 80.0% (Ensemble):
+   82.80% | TERRE ET SENTEU
+   82.80% | TERRE ET LUMIER
+   82.80% | TERRE ET FLEURS
+   82.44% | TERRE ET LUNE
+   82.40% | TERRE ET SAVEUR
+   82.15% | TERRE ET METAL
+   82.13% | TERRE DES TEMPL
+   81.98% | TERRE ET MERE
+   81.73% | TERRES EN EQUIL
+   81.67% | TERRE ET SOLEIL
+   81.67% | TERRE ET NATURE
+   81.67% | TERRE ET LEVAIN
+   81.67% | TERRE DES HUILE
+   80.28% | TERRES TEMPLIER
+   80.13% | TERRE DELL ETRU
+   80.13% | TERRE ET CEPAGE
+
+================================================================================
+KEYWORD 74/79: 'THE REDBEAR'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 39
+  After deduplication: 33 (6 duplicates removed)
+  Final results: 33
+  Processing time: 1m 2.1s
+
+Matches above 80.0% (Ensemble):
+   82.64% | THE BEARDED
+   82.64% | THE DREAMER
+   82.64% | THE BARBERE
+   82.64% | THE BRADERY
+   81.90% | THE BREWERS
+   81.90% | THE EDGWARE
+   81.90% | THE BREWERY
+   81.90% | THE BEAR SR
+   81.90% | THE SIDEBAR
+   81.90% | THE HOARDER
+   81.90% | THE RETREAT
+   81.90% | THE GRABBER
+   81.90% | THE GRENARE
+   81.65% | THE REAPER
+   81.33% | THE GOODBAR
+   81.33% | THE CREATOR
+   81.33% | THE REDZONE
+   81.33% | THE REBELLO
+   81.33% | THE LEDBURY
+   81.33% | THE REBIRTH
+   81.01% | THE BARBERS
+   81.01% | THE BEARD F
+   80.78% | THE DEALER
+   80.78% | THE BARBER
+   80.78% | THE BEAVER
+   80.61% | THE RED BAR
+   80.33% | THE NORBERT
+   80.33% | THE SANDBAR
+   80.33% | THE RIDDLER
+   80.33% | THE BARBARY
+   80.06% | THE RIDERS
+   80.06% | THE ARBERN
+   80.06% | THE RIDERY
+
+================================================================================
+KEYWORD 75/79: 'TV LIBERTÉ'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 1.2s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 76/79: 'TV LIBERTÉS'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 0.8s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 77/79: 'TV NOVOSTI'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 0.3s
+
+No matches found above 80.0% threshold
+
+================================================================================
+KEYWORD 78/79: 'ZEITUNGIDEE'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 1
+  After deduplication: 1 (0 duplicates removed)
+  Final results: 1
+  Processing time: 1m 0.9s
+
+Matches above 80.0% (Ensemble):
+   80.24% | ZEITUNGSLADEN
+
+================================================================================
+KEYWORD 79/79: 'ZENTROMAG'
+================================================================================
+Statistics:
+  Total businesses tested: 13037407
+  Matches above 80.0%: 0
+  After deduplication: 0 (0 duplicates removed)
+  Final results: 0
+  Processing time: 1m 1.8s
+
+No matches found above 80.0% threshold
+
+================================================================================
+BATCH PROCESSING SUMMARY
+================================================================================
+Overall Statistics:
+  Total keywords tested: 79
+  Total algorithm combinations: 1029955153
+  Total matches above 80.0%: 3447
+
+================================================================================
+
+================================================================================
+COMPREHENSIVE EXECUTION TIME BREAKDOWN
+================================================================================
+Data Loading Phase:
+  CSV loading time: 8.86s
+  CSV loading throughput: 1470.9k items/sec
+  Normalization time: 6m 8.5s
+  Normalization throughput: 35.4k items/sec
+  Total loading time: 6m 17.5s
+
+Fuzzy Matching Phase:
+  Processing time: 30m 11.8s
+  Memory usage: 254.2MB
+  Average time per keyword: 22.93s
+
+Overall:
+  Total execution time: 30m 11.8s
+  Overhead time: 0.0ms
+
