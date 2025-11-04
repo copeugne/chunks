@@ -1,0 +1,1027 @@
+keywords:
+  ACADEMIA CHRISTIANA:
+    name: Academia Christiana
+    location: NATIONAL
+    size: <500
+    family_names:
+      - Catholique
+
+  ACTION FRANÇAISE:
+    name: Action française
+    location: NATIONAL
+    size: ≈1000
+    family_names:
+      - Monarchiste
+
+  ACTIVE CLUB:
+    name: Active club
+    location: NATIONAL
+    size: ≈100
+    family_names:
+      - Nationaliste
+      - Catholique
+      - Monarchiste
+      - Confusionniste
+      - Identitaire
+
+  ALERION:
+    name: Alerion
+    location: THIONVILLE
+    size: <10
+    family_names:
+      - Nationaliste
+
+  ALLOBROGES BOURGOIN:
+    name: Allobroges Bourgoin
+    location: BOURGOIN-JALLIEU
+    size: <10
+    family_names:
+      - Nationaliste
+
+  AN TOUR-TAN:
+    name: An Tour-Tan
+    location: VANNES
+    size: ≈20
+    family_names:
+      - Nationaliste
+      - Identitaire
+
+  ANIMUS FORTIS:
+    name: Animus fortis
+    location: BOURGES
+    size: 10-15
+    family_names:
+      - Nationaliste
+
+  AQUILA POPULARIS:
+    name: Aquila popularis
+    location: NICE
+    size: ≈20
+    family_names:
+      - Nationaliste
+
+  ARGOS:
+    name: Argos
+    location: NATIONAL
+    size: 50-60
+    family_names:
+      - Identitaire
+
+  ARLÉ:
+    name: Arlé
+    location: ARLES
+    size: 5-10
+    family_names:
+      - Nationaliste
+
+  ASLA:
+    name: ASLA
+    location: INTERNET
+    size: <10
+    family_names:
+      - Identitaire
+
+  AUCTORUM:
+    name: Auctorum
+    location: VERSAILLES
+    size: 20-30
+    family_names:
+      - Nationaliste
+
+  AURELIANORUM CORDA:
+    name: Aurelianorum corda
+    location: ORLÉANS
+    size: ≈10
+    family_names:
+      - Nationaliste
+
+  AURORA LORRAINE:
+    name: Aurora Lorraine
+    location: METZ, NANCY
+    size: ≈15
+    family_names:
+      - Identitaire
+
+  AURÉE:
+    name: Aurée
+    location: MONTARGIS, LA ROCHE-SUR-YON, NIORT, BORDEAUX
+    size: ≈10
+    family_names:
+      - Identitaire
+
+  BAROUDEURS:
+    name: Baroudeurs
+    location: PARIS
+    size: 20-30
+    family_names:
+      - Nationaliste
+
+  BERRY NATIONALISTE:
+    name: Berry nationaliste
+    location: CHÂTEAUROUX
+    size: <10
+    family_names:
+      - Nationaliste
+
+  BLOC MONTPELLIÉRAIN:
+    name: Bloc Montpelliérain
+    location: MONTPELLIER
+    size: 10-20
+    family_names:
+      - Nationaliste
+
+  BORDEAUX ROYALISTE:
+    name: Bordeaux royaliste
+    location: BORDEAUX
+    size: <100
+    family_names:
+      - Monarchiste
+
+  BOURG-EN-BRESSE NATIONALISTE:
+    name: Bourg-en-Bresse nationaliste
+    location: BOURG-EN-BRESSE
+    size: <10
+    family_names:
+      - Nationaliste
+
+  BOURGOIN DEFENDERS:
+    name: Bourgoin defenders
+    location: BOURGOIN-JALLIEU
+    size: <10
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  BRIGADE PUAUD:
+    name: Brigade Puaud
+    location: ORLÉANS
+    size: <10
+    family_names:
+      - Nationaliste
+
+  BRIZAK:
+    name: Brizak
+    location: NANCY
+    size: ≈15
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  C18:
+    name: C18
+    location: CHERBOURG
+    size: <10
+    family_names:
+      - Nationaliste
+
+  CAFÉ DES LIBERTÉS:
+    name: Café des Libertés
+    location: FORCALQUIER, INTERNET
+    size: 20-30
+    family_names:
+      - Confusionniste
+
+  CAMSIDE TOLOSA:
+    name: Camside Tolosa
+    location: TOULOUSE
+    size: 15-30
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  CERCLE ACTION LEGITIMISTE:
+    name: Cercle action légitimiste
+    location: INTERNET, PARIS, REIMS
+    size: <100
+    family_names:
+      - Monarchiste
+
+  CERVUS PICARDAE:
+    name: Cervus Picardae
+    location: SENLIS
+    size: <5
+    family_names:
+      - Nationaliste
+
+  CIVITAS:
+    name: Civitas
+    location: QUIMPER, PARIS
+    size: ">500"
+    family_names:
+      - Catholique
+
+  COMITE LIAISON:
+    name: CLAN
+    location: INTERNET
+    size: <10
+    family_names:
+      - Nationaliste
+
+  CLERMONT NON-CONFORME:
+    name: Clermont non-conforme
+    location: CLERMONT-FERRAND
+    size: 30-40
+    family_names:
+      - Nationaliste
+
+  COCARDE:
+    name: Cocarde
+    location: NATIONAL
+    size: 200-300
+    family_names:
+      - Identitaire
+
+  COLLECTIF EROS:
+    name: Collectif Eros
+    location: PARIS, NICE
+    size: 5-15
+    family_names:
+      - Identitaire
+
+  COLLECTIF JUSTICE ET SÉCURITÉ:
+    name: Collectif justice et sécurité
+    location: INTERNET
+    size: 10-20
+    family_names:
+      - Confusionniste
+      - Identitaire
+
+  COLUMNA:
+    name: Columna
+    location: VILLEFRANCHE-SUR-SAÔNE
+    size: ≈10
+    family_names:
+      - Nationaliste
+
+  COMMUNAUTÉ ATLANTE:
+    name: Communauté Atlante
+    location: NANTES, LA ROCHE-SUR-YON
+    size: ≈1.000
+    family_names:
+      - Identitaire
+
+  COMMUNAUTÉ DU VENTOUX:
+    name: Communauté du Ventoux
+    location: AVIGNON
+    size: ≈1.000
+    family_names:
+      - Identitaire
+
+  DES TOURS ET DES LYS:
+    name: Des Tours et des Lys
+    location: TOURS
+    size: 20-30
+    family_names:
+      - Nationaliste
+
+  DIVISION ARYENNE FRANÇAISE:
+    name: Division aryenne française
+    location: INTERNET
+    size: <30
+    family_names:
+      - Nationaliste
+
+  DIVISION LANGUEDOC:
+    name: Division Languedoc
+    location: MENDE
+    size: "?"
+    family_names:
+      - Nationaliste
+      - Catholique
+      - Identitaire
+      - Monarchiste
+
+  DÉFENDS MARSEILLE:
+    name: Défends Marseille
+    location: MARSEILLE
+    size: ≈10
+    family_names:
+      - Identitaire
+
+  EDELWEISS PAYS-DE-SAVOIE:
+    name: Edelweiss pays-de-Savoie
+    location: CHAMBÉRY
+    size: ≈20
+    family_names:
+      - Nationaliste
+
+  EGALITÉ & RÉCONCILIATION:
+    name: Egalité & Réconciliation
+    location: NATIONAL
+    size: <4.000
+    family_names:
+      - Confusionniste
+
+  EQUIPE COMMUNAUTAIRE PARIS:
+    name: Equipe communautaire Paris
+    location: PARIS
+    size: ≈1.000
+    family_names:
+      - Nationaliste
+
+  ERMINIG ROAZHON:
+    name: Erminig Roazhon
+    location: RENNES
+    size: <10
+    family_names:
+      - Identitaire
+      - Catholique
+
+  ESPRIT DE CORPS:
+    name: Esprit de corps
+    location: LYON, LAVAL
+    size: 10-20
+    family_names:
+      - Catholique
+
+  FOREZ FRONT:
+    name: Forez front
+    location: MONTBRISON
+    size: <10
+    family_names:
+      - Nationaliste
+
+  FRATERNITÉ COMTOISE:
+    name: Fraternité Comtoise
+    location: BESANÇON
+    size: <10
+    family_names:
+      - Identitaire
+
+  FRATERNITÉ SAINT-PIE X:
+    name: Fraternité Saint-Pie X
+    location: NATIONAL
+    size: ≈15.000
+    family_names:
+      - Catholique
+
+  FURIE FRANÇAISE:
+    name: Furie française
+    location: TOULOUSE
+    size: ≈20
+    family_names:
+      - Identitaire
+
+  GARDIENS DE MÉMOIRE:
+    name: Gardiens de mémoire
+    location: PARIS, INTERNET
+    size: ≈10
+    family_names:
+      - Identitaire
+
+  GARGOUILLES STRASBOURG:
+    name: Gargouilles Strasbourg
+    location: STRASBOURG
+    size: ≈10
+    family_names:
+      - Confusionniste
+      - Nationaliste
+
+  GEUZEBOND:
+    name: Geuzebond
+    location: DUNKERQUE
+    size: <10
+    family_names:
+      - Identitaire
+
+  GREMIUM:
+    name: Gremium
+    location: NATIONAL
+    size: <100
+    family_names:
+      - Nationaliste
+
+  GROUPE UNION DÉFENSE:
+    name: Groupe Union Défense
+    location: PARIS
+    size: 20-30
+    family_names:
+      - Nationaliste
+
+  HUSSARDS PARIS:
+    name: Hussards Paris
+    location: PARIS
+    size: ≈20
+    family_names:
+      - Nationaliste
+
+  HÉLIX DIJON:
+    name: Hélix Dijon
+    location: DIJON
+    size: ≈15
+    family_names:
+      - Nationaliste
+
+  HÉRA MASSILIA:
+    name: Héra Massilia
+    location: MARSEILLE
+    size: ≈10
+    family_names:
+      - Identitaire
+
+  INFRÉQUENTABLES DIJON:
+    name: Infréquentables Dijon
+    location: DIJON
+    size: ≈20
+    family_names:
+      - Nationaliste
+
+  INSTITUT ILIADE:
+    name: Institut Iliade
+    location: PARIS
+    size: 300-500
+    family_names:
+      - Identitaire
+
+  JEUNES D'OC:
+    name: Jeunes d'Oc
+    location: MONTPELLIER
+    size: 10-20
+    family_names:
+      - Identitaire
+
+  JEUNESSE BOULOGNE:
+    name: Jeunesse Boulogne
+    location: PARIS
+    size: 20-30
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  JEUNESSE PALOISE:
+    name: Jeunesse paloise
+    location: PAU
+    size: <10
+    family_names:
+      - Nationaliste
+
+  JUSTICE POUR LES NÔTRES:
+    name: Justice pour les nôtres
+    location: INTERNET
+    size: ≈10
+    family_names:
+      - Identitaire
+      - Nationaliste
+
+  KAEM CREW:
+    name: Kaem Crew
+    location: CAEN
+    size: ≈15
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  KORRIGANS SQUAD:
+    name: Korrigans squad
+    location: RENNES
+    size: 10-20
+    family_names:
+      - Nationaliste
+
+  KORSER:
+    name: Korser
+    location: NANTES
+    size: 10-20
+    family_names:
+      - Nationaliste
+      - Monarchiste
+
+  LA BASTIDE BORDELAISE:
+    name: La Bastide bordelaise
+    location: BORDEAUX
+    size: 20-40
+    family_names:
+      - Nationaliste
+
+  LA CAGOULE:
+    name: La Cagoule
+    location: TARBES
+    size: 5-10
+    family_names:
+      - Nationaliste
+
+  LA CHOURMO:
+    name: La Chourmo
+    location: PARIS, AIX, MARSEILLE
+    size: ≈1.000
+    family_names:
+      - Identitaire
+
+  LES BRAVES:
+    name: La Chourmo
+    location: PARIS, AIX, MARSEILLE
+    size: ≈1.000
+    family_names:
+      - Identitaire
+
+  LA CITADELLE:
+    name: La Citadelle
+    location: LILLE
+    size: ≈60
+    family_names:
+      - Identitaire
+
+  LA DIGUE:
+    name: La digue
+    location: LORIENT
+    size: ≈10
+    family_names:
+      - Monarchiste
+      - Nationaliste
+
+  LA DIVISION MARTEL:
+    name: La division Martel
+    location: ROUEN, PARIS
+    size: ≈20
+    family_names:
+      - Nationaliste
+
+  LE MAQUIS:
+    name: Le Maquis
+    location: TOULON, AVIGNON, AIX
+    size: 15-25
+    family_names:
+      - Identitaire
+
+  LEGIO ALPINA:
+    name: Legio Alpina
+    location: ANNECY
+    size: 5-10
+    family_names:
+      - Nationaliste
+
+  LES CARYATIDES:
+    name: Les Caryatides
+    location: INTERNET, CLERMONT-FERRAND, TOULOUSE
+    size: <10
+    family_names:
+      - Nationaliste
+
+  LES GREMLINS:
+    name: Les Gremlins
+    location: LILLE
+    size: ≈15
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  LES LANSQUENETS:
+    name: Les Lansquenets
+    location: STRASBOURG
+    size: 10-20
+    family_names:
+      - Nationaliste
+
+  LES NATIFS:
+    name: Les Natifs
+    location: PARIS
+    size: 20-30
+    family_names:
+      - Identitaire
+
+  LES NATIONALISTES:
+    name: Les Nationalistes
+    location: NATIONAL
+    size: <1000
+    family_names:
+      - Nationaliste
+
+  LES NORMAUX:
+    name: Les Normaux
+    location: ROUEN
+    size: ≈15
+    family_names:
+      - Identitaire
+
+  LES REMPARTS:
+    name: Les Remparts
+    location: LYON
+    size: 30-50
+    family_names:
+      - Identitaire
+
+  LES TÉMÉRAIRES:
+    name: Les Téméraires
+    location: DIJON
+    size: ≈1.000
+    family_names:
+      - Identitaire
+
+  LES VOUIVRES:
+    name: Les Vouivres
+    location: STRASBOURG, CRÉTEIL, DOUAI
+    size: ≈10
+    family_names:
+      - Nationaliste
+
+  LIGUE DU MIDI:
+    name: Ligue du Midi
+    location: NÎMES
+    size: ≈500
+    family_names:
+      - Identitaire
+
+  LIGUE LIGÉRIENNE:
+    name: Ligue Ligérienne
+    location: NANTES
+    size: 20-30
+    family_names:
+      - Nationaliste
+      - Identitaire
+
+  LILLE ROYALISTE:
+    name: Lille royaliste
+    location: LILLE
+    size: <100
+    family_names:
+      - Monarchiste
+
+  LOSC ARMY:
+    name: Losc Army
+    location: LILLE
+    size: 20-30
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  LUMINIS:
+    name: Luminis
+    location: PARIS
+    size: 20-30
+    family_names:
+      - Nationaliste
+
+  LYON POPULAIRE:
+    name: Lyon populaire
+    location: LYON
+    size: 30-40
+    family_names:
+      - Nationaliste
+
+  L'ALVARIUM:
+    name: L'Alvarium
+    location: ANGERS
+    size: ≈30
+    family_names:
+      - Nationaliste
+      - Catholique
+
+  MARCHE POUR LA VIE:
+    name: Marche pour la vie
+    location: LYON, PARIS
+    size: <100
+    family_names:
+      - Catholique
+
+  MEDUANA NOCTUA:
+    name: Meduana noctua
+    location: LAVAL
+    size: 10-20
+    family_names:
+      - Nationaliste
+
+  MEGAMACHINA:
+    name: Megamachina
+    location: INTERNET
+    size: <10
+    family_names:
+      - Nationaliste
+
+  MESOS:
+    name: MesOs
+    location: REIMS
+    size: 15-20
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  MEZZA LYON:
+    name: Mezza Lyon
+    location: LYON
+    size: ≈40
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  MOUVEMENT CHOUAN:
+    name: Mouvement chouan
+    location: ANGERS
+    size: ≈30
+    family_names:
+      - Nationaliste
+      - Catholique
+
+  NANCY ROYALISTE:
+    name: Nancy royaliste
+    location: NANCY
+    size: <100
+    family_names:
+      - Monarchiste
+
+  NEUER WANDERBUND:
+    name: Neuer Wanderbund
+    location: SARREBOURG, SAVERNE, COLMAR
+    size: 10-20
+    family_names:
+      - Identitaire
+
+  NOUVELLE DROITE:
+    name: Nouvelle droite
+    location: LILLE
+    size: ≈20
+    family_names:
+      - Identitaire
+
+  NOVELUM CARCASSONNE:
+    name: Novelum Carcassonne
+    location: CARCASSONNE
+    size: 15-30
+    family_names:
+      - Identitaire
+
+  NÉMÉSIS:
+    name: Némésis
+    location: NATIONAL
+    size: ">100"
+    family_names:
+      - Identitaire
+
+  ORLÉANS-BOURGES HOOLIGANS:
+    name: OBH - Orléans-Bourges hooligans
+    location: ORLÉANS, BOURGES
+    size: ≈15
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  ORIFLAMME:
+    name: Oriflamme
+    location: RENNES
+    size: 10-20
+    family_names:
+      - Nationaliste
+      - Monarchiste
+
+  PALATINU:
+    name: Palatinu
+    location: AJACCIO, BASTIA
+    size: ≈500
+    family_names:
+      - Identitaire
+
+  PARTI NATIONAL BRETON:
+    name: Parti national breton
+    location: SAINT-BRIEUC, NANTES, RENNES
+    size: ">30"
+    family_names:
+      - Identitaire
+      - Nationaliste
+
+  PATRIA ALBIGES:
+    name: Patria albiges
+    location: ALBI
+    size: ≈20
+    family_names:
+      - Identitaire
+
+  QUERCUS RODUMNAE:
+    name: Quercus Rodumnae
+    location: ROANNE
+    size: <10
+    family_names:
+      - Catholique
+
+  RED ANGERS:
+    name: RED Angers
+    location: ANGERS
+    size: 20-30
+    family_names:
+      - Nationaliste
+      - Catholique
+
+  REMES PATRIAM:
+    name: Remes patriam
+    location: REIMS
+    size: ≈15
+    family_names:
+      - Nationaliste
+      - Monarchiste
+
+  ROAZHON 1901:
+    name: Roazhon 1901
+    location: RENNES
+    size: ≈20
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  ROMULUS & RÉMUS:
+    name: Romulus & Rémus
+    location: PARIS
+    size: <10
+    family_names:
+      - Identitaire
+
+  RUTÈNES:
+    name: Rutènes
+    location: RODEZ
+    size: <10
+    family_names:
+      - Identitaire
+
+  RÉBELLION OSRE:
+    name: Rébellion OSRE
+    location: TOULOUSE, INTERNET
+    size: "?"
+    family_names:
+      - Confusionniste
+
+  RÉSEAU PYTHAGORE:
+    name: Réseau Pythagore
+    location: ANNECY, CHAMBÉRY, MULHOUSE
+    size: 10-20
+    family_names:
+      - Confusionniste
+
+  SOISSONS SOLIDAIRES:
+    name: Soissons solidaires
+    location: SOISSONS
+    size: <10
+    family_names:
+      - Nationaliste
+
+  SOLIDARITÉ ARMÉNIE:
+    name: Solidarité Arménie
+    location: INTERNET
+    size: <10
+    family_names:
+      - Nationaliste
+
+  SOPHIA POLIS:
+    name: Sophia Polis
+    location: DIJON, CLERMONT-FERRAND, LYON, PARIS
+    size: 30-100
+    family_names:
+      - Catholique
+
+  SOS CALVAIRES:
+    name: SOS calvaires
+    location: LE LION-D'ANGERS
+    size: <300
+    family_names:
+      - Catholique
+
+  SOUTH SIDE LYON:
+    name: South side Lyon
+    location: LYON
+    size: ≈100
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  SOUVENIR NORMAND:
+    name: Souvenir normand
+    location: ROUEN
+    size: ≈10
+    family_names:
+      - Identitaire
+
+  STRASBOURG OFFENDER:
+    name: Strasbourg Offender
+    location: STRASBOURG
+    size: ≈15
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  STRASBOURG ROYALISTE:
+    name: Strasbourg royaliste
+    location: STRASBOURG
+    size: <100
+    family_names:
+      - Monarchiste
+
+  TALION BREST:
+    name: Talion Brest
+    location: BREST
+    size: ≈10
+    family_names:
+      - Nationaliste
+
+  TENESOUN:
+    name: Tenesoun
+    location: AIX, ORANGE
+    size: ≈40
+    family_names:
+      - Nationaliste
+
+  TOUCHE PAS À MA STATUE:
+    name: Touche pas à ma statue
+    location: LES SABLES-D'OLONNE
+    size: ≈10
+    family_names:
+      - Catholique
+
+  TURONE SQUAD:
+    name: Turone Squad
+    location: TOURS
+    size: 20-40
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  ULTIME REMPART:
+    name: Ultime rempart
+    location: LE MANS, ANGERS
+    size: 10-15
+    family_names:
+      - Catholique
+
+  UNITÉ SUD:
+    name: Unité sud
+    location: PERPIGNAN
+    size: 10-20
+    family_names:
+      - Nationaliste
+
+  UNVEZ NAONED:
+    name: Unvez Naoned
+    location: NANTES
+    size: ≈10
+    family_names:
+      - Nationaliste
+
+  URGENCES PANAFRICANISTES:
+    name: Urgences panafricanistes
+    location: INTERNET
+    size: /
+    family_names:
+      - Confusionniste
+
+  VALENCE PATRIOTE:
+    name: Valence patriote
+    location: VALENCE
+    size: ≈15
+    family_names:
+      - Identitaire
+      - Nationaliste
+      - Monarchiste
+
+  OBELIO:
+    name: Valence patriote
+    location: VALENCE
+    size: ≈15
+    family_names:
+      - Identitaire
+      - Nationaliste
+      - Monarchiste
+
+  VALYOR CHAMBÉRY:
+    name: Valyor Chambéry
+    location: CHAMBÉRY
+    size: 10-20
+    family_names:
+      - Nationaliste
+
+  VANDAL BESAK:
+    name: Vandal Besak
+    location: BESANÇON
+    size: ≈20
+    family_names:
+      - Nationaliste
+
+  VANNES ROYALISTE:
+    name: Vannes royaliste
+    location: VANNES
+    size: <100
+    family_names:
+      - Monarchiste
+
+  VECTOS:
+    name: Vectos
+    location: INTERNET
+    size: <10
+    family_names:
+      - Nationaliste
+
+  VIRIDO GALIA:
+    name: Virido Galia
+    location: LA ROCHE-SUR-YON
+    size: ≈10
+    family_names:
+      - Nationaliste
+
+  YSCR:
+    name: YSCR
+    location: ROUEN
+    size: 15-35
+    family_names:
+      - Nationaliste
+      - Hooligan
+
+  À FLEUR DE MUR:
+    name: À fleur de mur
+    location: PARIS
+    size: 10-20
+    family_names:
+      - Catholique
