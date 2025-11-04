@@ -1,0 +1,4261 @@
+keywords:
+  ACALA SWAP:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Acala Swap
+    trust_score_rank: 956
+    url: "https://apps.acala.network/swap"
+    year_established: 2022
+
+  AFTERMATH FINANCE:
+    country: Panama
+    description: |
+      Aftermath Finance is building a full-suite of onchain DeFi products in the Sui ecosystem, ranging from a Spot AMM,
+      liquid staking, DEX aggregator to orderbook-based perpetuals.
+    exchange_type: CEX
+    name: Aftermath Finance
+    trust_score_rank: 918
+    url: "https://aftermath.finance"
+    year_established: 2023
+
+  ALCOR:
+    country: Cayman Islands
+    description: |
+      Alcor is an Antelope(EOS, WAX, TELOS) based DEX, supported multiple defi tools: Orderbook(limit/market orders),
+      concentrated liquidity AMM, Bridge, Stable Conis, Yield Farming, OTC, Wallet. No listing verefication, create orderbook
+      markets in one click, trade whatever you want.
+    exchange_type: CEX
+    name: Alcor
+    trust_score: 5
+    trust_score_rank: 454
+    url: "https://alcor.exchange/"
+    year_established: 2019
+
+  ALEXGO:
+    country: Panama
+    description: ''
+    exchange_type: CEX
+    name: ALEX
+    trust_score: 5
+    trust_score_rank: 447
+    url: "https://www.alexlab.co/"
+    year_established: 2022
+
+  ALTCOINTRADER:
+    country: South Africa
+    description: ''
+    exchange_type: CEX
+    name: AltcoinTrader
+    trust_score_rank: 931
+    url: "https://www.altcointrader.co.za/"
+    year_established: 2015
+
+  APEX PRO:
+    country: Singapore
+    description: |
+      Apex Pro is a decentralized cryptocurrency exchange established in 2022. ApeX Protocol's newest product offering, ApeX
+      Pro is a permissionless and non-custodial DEX, powered by StarkWare's Layer 2 scalability engine StarkEx. It operates
+      on an orderbook model and delivers cross-margined perpetual contracts to its community under a new framework. It is
+      primed to deliver limitless access to the perpetual swaps market, as it remains committed to the promises of not just
+      speed and efficiency, but also security with transparency on traders' preferred derivatives trading assets. ApeX
+      Protocol is a multichain decentralized derivatives protocol, designed to address flaws in existing decentralized
+      exchanges (DEXs) such as high gas fees and poor order execution, and is dedicated to realizing the Web 3.0 vision —
+      shaping a free and open ecosystem for all users to grow their wealth in a safe and trusted environment. The protocol is
+      incubated and supported by Davion Labs (a crypto impact incubator founded by Bybit) and backed by prominent global
+      investors such as Dragonfly Capital, Jump Trading, Kronos, M77 Ventures, Mirana Ventures, Tiger Global, Cobo, and
+      CyberX.
+    exchange_type: CEX
+    name: ApeX Pro
+    url: "https://apex.exchange/"
+    year_established: 2022
+
+  AQUARIUS:
+    country: Saint Vincent and the Grenadines
+    description: |
+      Aquarius is one of the biggest existing DeFi protocols on Stellar. It offers an AMM with volatile and stable pools, and
+      an array of liquidity management features that provide additional incentives to Stellar liquidity providers backed by
+      AQUA token.
+    exchange_type: CEX
+    name: Aquarius
+    trust_score_rank: 930
+    url: "https://aqua.network/"
+    year_established: 2021
+
+  ARKHAM:
+    country: Dominican Republic
+    description: Trade with Intelligence
+    exchange_type: CEX
+    name: Arkham
+    trust_score: 8
+    trust_score_rank: 48
+    url: "https://arkm.com/"
+    year_established: 2024
+
+  ASTER-SPOT:
+    country: Seychelles
+    description: |
+      Aster is a next-generation decentralized exchange offering both Perpetual and Spot trading, designed as a one-stop
+      onchain venue for global crypto traders. It features MEV-free, one-click execution in Simple Mode. Pro Mode adds 24/7
+      stock perpetuals, Hidden Orders, and grid trading, available across BNB Chain, Ethereum, Solana, and Arbitrum. Its
+      unique edge lies in the ability to offer liquid-staking tokens (asBNB) or yield-generating stablecoins (USDF) as
+      collateral, unlocking unparalleled capital efficiency. Powered by Aster Chain, a high-performance and privacy-focused
+      L1, and backed by YZi Labs, Aster is building the future of DeFi: fast, flexible, and community-first.
+    exchange_type: CEX
+    name: Aster
+    trust_score: 6
+    trust_score_rank: 106
+    url: "https://www.asterdex.com/en/spot/CDLUSD1"
+    year_established: 2025
+
+  ASTROPORT NEUTRON:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Astroport (Neutron)
+    trust_score: 4
+    trust_score_rank: 625
+    url: "https://astroport.fi/"
+    year_established: 2023
+
+  ASTROPORT V2:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Astroport (Terra)
+    trust_score: 5
+    trust_score_rank: 355
+    url: "https://app.astroport.fi"
+    year_established: 2024
+
+  ASTROVAULT:
+    country: Unknown or Invalid Region
+    description: DeFi, Sustainably.
+    exchange_type: CEX
+    name: Astrovault
+    trust_score_rank: 967
+    url: "https://astrovault.io"
+    year_established: 2023
+
+  AZBIT:
+    country: Seychelles
+    description: |
+      Azbit is a new generation exchange offering the most in-demand services on the market. Spot exchange, margin trading,
+      crypto-backed loans.
+    exchange_type: CEX
+    name: Azbit
+    trust_score: 6
+    trust_score_rank: 87
+    url: "https://azbit.com/"
+    year_established: 2018
+
+  BACKPACK EXCHANGE:
+    country: British Virgin Islands
+    description: A next-gen cryptocurrency exchange.
+    exchange_type: CEX
+    name: Backpack Exchange
+    trust_score: 9
+    trust_score_rank: 18
+    url: "https://backpack.exchange/"
+    year_established: 2023
+
+  BALANCED NETWORK:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Balanced
+    trust_score: 5
+    trust_score_rank: 396
+    url: "https://balanced.network/"
+    year_established: 2022
+
+  BALANCER:
+    country: ''
+    description: |
+      Balancer is a non-custodial portfolio manager, liquidity provider, and price sensor protocol. Balancer V2 offers a
+      generalized protocol for automated market makers.
+    exchange_type: CEX
+    name: Balancer V2
+    trust_score: 6
+    trust_score_rank: 167
+    url: "https://balancer.fi/"
+    year_established: 2020
+
+  BANCOR:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Bancor (V2)
+    trust_score: 5
+    trust_score_rank: 375
+    url: "https://www.bancor.network"
+    year_established: 2017
+
+  BANCOR V3:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Bancor (V3)
+    trust_score: 4
+    trust_score_rank: 633
+    url: "https://try.bancor.network/"
+    year_established: 2022
+
+  BASIN-ARBITRUM-ONE:
+    country: Unknown or Invalid Region
+    description: A Composable EVM-Native DEX
+    exchange_type: CEX
+    name: Basin
+    trust_score_rank: 987
+    url: "https://basin.exchange/"
+    year_established: 2023
+
+  BCEX:
+    country: Hong Kong
+    description: ''
+    exchange_type: CEX
+    name: BCEX
+    trust_score: 2
+    trust_score_rank: 869
+    url: "https://www.bcex.kr/"
+    year_established: 2017
+
+  BEETHOVENX:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Beethoven X
+    trust_score: 4
+    trust_score_rank: 681
+    url: "https://app.beets.fi/#/trade"
+    year_established: 2021
+
+  BEEZEE-DEX:
+    country: Romania
+    description: |
+      BeeZee DEX is a decentralized order-book exchange facilitating P2P trading directly on BeeZee blockchain. It supports
+      IBC tokens and native BZE tokens
+    exchange_type: CEX
+    name: BeeZee DEX
+    trust_score: 2
+    trust_score_rank: 893
+    url: "https://getbze.com"
+    year_established: 2024
+
+  BEFILABS:
+    country: Saint Vincent and the Grenadines
+    description: Trade Runes, BRC20, Ordinals and Bitcoin Assets
+    exchange_type: CEX
+    name: BeFi Labs
+    trust_score_rank: 963
+    url: "https://befilabs.com/"
+    year_established: 2024
+
+  BICONOMY:
+    country: British Virgin Islands
+    description: |
+      Biconomy.com is a cryptocurrency trading and investment platform where users can easily buy, sell, exchange, and store
+      cryptocurrencies. The platform is intuitive and beginner-friendly, supporting basic crypto transactions, digital
+      wallets, and payments such as SEPA, SWIFT, etc. Established in October 2019, Biconomy.com currently serves over 1
+      million users and institutions globally, offering access to a wide range of assets and contracts across Spot and crypto
+      derivatives like Futures and Options. The platform also includes features like Demo and Copy Trading, Launchpad
+      projects, Earn and Kickstarter products, an NFT Marketplace, and more.
+    exchange_type: CEX
+    name: Biconomy.com
+    trust_score: 7
+    trust_score_rank: 54
+    url: "https://www.biconomy.com/en"
+    year_established: 2019
+
+  BIFROST SWAP:
+    country: Singapore
+    description: |
+      Bifrost Stable provides dedicated LSD-related price curve, highly increasing liquidity efficiency between Token and
+      vToken swap.
+    exchange_type: CEX
+    name: Bifrost Swap
+    trust_score_rank: 969
+    url: "https://bifrost.app/swap?tab=swap"
+    year_established: 2023
+
+  BIGONE:
+    country: Seychelles
+    description: |
+      BigONE is a global cryptocurrency exchange, offering a platform for trading various cryptocurrencies with a focus on
+      security and user experience.
+    exchange_type: CEX
+    name: BigONE
+    trust_score: 6
+    trust_score_rank: 91
+    url: "https://bigone.com"
+    year_established: 2017
+
+  BILAXY:
+    country: Seychelles
+    description: ''
+    exchange_type: CEX
+    name: Bilaxy
+    trust_score: 5
+    trust_score_rank: 242
+    url: "https://bilaxy.com/"
+    year_established: 2018
+
+  BINANCE:
+    country: Cayman Islands
+    description: |
+      One of the world’s largest cryptocurrency exchanges by trading volume, offering a wide range of services including
+      spot, futures, and staking options.
+    exchange_type: CEX
+    name: Binance
+    trust_score: 10
+    trust_score_rank: 1
+    url: "https://www.binance.com/"
+    year_established: 2017
+
+  BINANCE US:
+    country: United States
+    description: |
+      Binance U.S. is the American branch of the world's largest cryptocurrency exchange, Binance, launched to comply with
+      U.S. regulations and offering over 100 cryptocurrencies with competitive trading fees.
+    exchange_type: CEX
+    name: Binance US
+    trust_score: 8
+    trust_score_rank: 45
+    url: "https://www.binance.us/"
+    year_established: 2019
+
+  BINGX:
+    country: British Virgin Islands
+    description: |
+      Founded in 2018, BingX is a leading crypto exchange, serving over 10 million users worldwide. BingX offers diversified
+      products and services, including spot, derivatives, copy trading, and asset management – all designed for the evolving
+      needs of users, from beginners to professionals. BingX is committed to providing a trustworthy platform that empowers
+      users with innovative tools and features to elevate their trading proficiency. In 2024, BingX proudly became Chelsea
+      FC's principal partner, marking an exciting debut in the world of sports.
+    exchange_type: CEX
+    name: BingX
+    trust_score: 9
+    trust_score_rank: 14
+    url: "https://bingx.com/"
+    year_established: 2018
+
+  BIRAKE:
+    country: Estonia
+    description: ''
+    exchange_type: CEX
+    name: Birake
+    trust_score_rank: 1037
+    url: "https://birake.com"
+    year_established: 2018
+
+  BIT COM:
+    country: Seychelles
+    description: ''
+    exchange_type: CEX
+    name: BIT
+    trust_score: 4
+    trust_score_rank: 596
+    url: "https://www.bit.com/"
+    year_established: 2020
+
+  BIT2C:
+    country: Israel
+    description: ''
+    exchange_type: CEX
+    name: Bit2c
+    trust_score: 4
+    trust_score_rank: 637
+    url: "https://bit2c.co.il/"
+    year_established: 2013
+
+  BIT2ME:
+    country: Spain
+    description: ''
+    exchange_type: CEX
+    name: Bit2Me
+    trust_score: 5
+    trust_score_rank: 234
+    url: "https://bit2me.com/"
+    year_established: 2014
+
+  BITAZZA:
+    country: Thailand
+    description: Bitazza is ASEAN's locally-based digital asset platform.
+    exchange_type: CEX
+    name: Bitazza
+    trust_score: 6
+    trust_score_rank: 141
+    url: "https://trade.bitazza.com/gl/exchange/"
+    year_established: 2021
+
+  BITBANK:
+    country: Japan
+    description: ''
+    exchange_type: CEX
+    name: Bitbank
+    trust_score: 8
+    trust_score_rank: 36
+    url: "https://bitbank.cc/"
+    year_established: 2016
+
+  BITBAY:
+    country: Estonia
+    description: |
+      zondacrypto is one of Europe’s leading cryptocurrency exchanges, trusted by over 1,35 million users. Founded in 2014,
+      the company operates under the supervision of the Estonian Financial Intelligence Unit (FIU) and adheres to rigorous
+      AML and KYC. The exchange supports trading in more than 70 cryptocurrencies, with pairs available in EUR, USD, PLN,
+      USDC, BTC, ETH and more. zondacrypto combines regulatory compliance with user-focused design, offering products such as
+      zondacrypto pay to bridge the gap between traditional finance and the digital asset economy. With a mission to
+      democratize access to crypto, zondacrypto is committed to building intuitive tools, educational resources, and a strong
+      regulatory framework that empowers users to buy, sell, and spend crypto with confidence. To learn more, visit
+      zondacrypto.com
+    exchange_type: CEX
+    name: zondacrypto
+    trust_score: 4
+    trust_score_rank: 608
+    url: "https://zondacrypto.com/en/home"
+    year_established: 2014
+
+  BITBEGIN:
+    country: Georgia
+    description: |
+      BitBegin Exchange, a centralized platform launched in March 2018, operates as a brand under British Capital LLC, a
+      financial company established in 2007 and licensed by the National Bank of Georgia (Register Number: 200232907).
+      Headquartered in Georgia with offices in London and Istanbul, BitBegin offers a range of products, including Spot and
+      Derivatives trading (USDT perpetual, USDC perps, inverse perps, futures, USDC options, leveraged tokens), an NFT
+      marketplace, BitBegin Earn, Buy Crypto, and Options. BitBegin is globally accessible except in restricted regions such
+      as Afghanistan, North Korea, Syria, and others. Who Are the BitBegin Founders? It was established by founder and CEO
+      Serkan Kaplan. After graduating from The University returned to work and found the British capital company in 2007,
+      after 11 years In 2018, he co-founded the BitBegin brand as a crypto exchange. When Did Bitbegin Launch? BitBegin was
+      launched in March 2018. Where Is BitBegin Located? The company is registered in Georgia as a British Capital LLC
+      established in 2007 with the National Bank of Georgia license as a Financial company Register Number:200232907 and is
+      headquartered in Georgia with offices in London and Istanbul. BitBegin Restricted Countries The global platform is
+      available to customers worldwide, except for countries with service restrictions such as Afghanistan, Central African
+      Republic, Congo-Brazzaville, Eritrea, Congo-Kinshasa, Guinea-Bissau, Cuba, Lebanon, Iran, Mali, Iraq, Namibia, Libya,
+      Somalia, North Korea, South Sudan, Syria, Sudan, and Yemen. What Coins Are Supported on BitBegin? BitBegin has over 32
+      crypto tokens and Coin listed and over 38 spot trading pairs, including major coins like BTC, ETH, TRX, SOL, BAT, SOL,
+      LTC, ADON, NEVA, DOGE, AVAX, MATIC, DOT, and more.
+    exchange_type: CEX
+    name: Bitbegin
+    trust_score: 2
+    trust_score_rank: 865
+    url: "https://bitbegin.io"
+    year_established: 2018
+
+  BITBNS:
+    country: Estonia
+    description: ''
+    exchange_type: CEX
+    name: BitBNS
+    trust_score: 4
+    trust_score_rank: 618
+    url: "https://ref.bitbns.com/"
+    year_established: 2017
+
+  BITCASTLE:
+    country: Lithuania
+    description: |
+      bitcastle is all in one global platform including crypto trading, FX trading and binary option trading first launched
+      in July 2019. In May 2022, bitcastle renewed it's platform with a brand new user interface, new features and token
+      listings. With offices in Singapore, Vietnam and Japan, bitcastle maximizes the strengths of the diverse team with
+      various experiences to deliver the best financial services for its users. Notable features of the platform include 0%
+      trading fee for major currency pairs and High & Low binary trading option. bitcastle High & Low option allows users to
+      see return on their investment in as little as 5 seconds, which is the fastest period in the world. bitcastle aims to
+      be a platform that can be enjoyed by both seasoned traders as well as beginners. CASTLE is bitcastle's native token.
+      CASTLE can be used to reduce transaction fees on the platform by up to 60%. At selected intervals, 20% of bitcastle's
+      profits will be used to buy back CASTLE tokens, and burn them. The bitcastle apps is now available for both android and
+      IOS, enabling users to access it's platform.
+    exchange_type: CEX
+    name: bitcastle
+    trust_score: 7
+    trust_score_rank: 73
+    url: "https://bitcastle.io/en"
+    year_established: 2019
+
+  BITCI:
+    country: Turkey
+    description: |
+      SAFEbit is a next-generation digital asset service provider that emerged from the restructuring of the digital asset
+      trading platform owned by Bitci Teknoloji A.Ş., originally established in 2018.In 2025, through a comprehensive
+      transformation process, the corporate structure, technological infrastructure, internal control systems, and regulatory
+      compliance framework were fully redesigned to enhance service quality under the SAFEbit brand.Background and
+      Transformation Process:Bitci Teknoloji A.Ş. has been one of the pioneering initiatives in Turkey’s crypto asset market
+      since 2018, reaching a significant user base over the years. Driven by industry developments, growing user volume,
+      evolving regulatory requirements, and the goal of improving financial service quality, a complete restructuring was
+      initiated. During this process: * The management team was reorganized, appointing experienced senior executives with
+      extensive public and private sector backgrounds. * Internal control, risk management, and compliance mechanisms were
+      enhanced in line with Turkish laws and international best practices. * Technological infrastructure was completely
+      renewed, implementing multi-layered security systems and independent audit processes to ensure the safety of user
+      assets. * The SAFEbit brand has been positioned to stand for transparency, reliability, and full regulatory compliance.
+      Regulatory Compliance: SAFEbit operates fully in accordance with the laws and secondary regulations of the Republic of
+      Turkey. Our KYC (Know Your Customer) and AML (Anti-Money Laundering) processes are structured in compliance with MASAK
+      regulations. * Customer asset protection processes are carefully designed to safeguard user rights. * Internal audit,
+      internal control, and compliance functions are organized as separate units with competent and experienced personnel. *
+      Monthly wallet reports are provided with a focus on transparency. * Platform systems are regularly monitored under the
+      supervision of independent audit firms. Banking Integrations: SAFEbit has direct integration with many banks operating
+      in Turkey for deposit and withdrawal operations. Users can perform Turkish Lira transactions quickly, securely, and in
+      full compliance with local regulations.Future Vision:SAFEbit is committed to continuously updating its technological
+      infrastructure, maintaining full regulatory compliance, and prioritizing user asset security. Our goal is to contribute
+      to the growth of Turkey’s digital asset markets on a secure, transparent, and auditable basis and to maintain
+      operations fully aligned with national regulatory frameworks.
+    exchange_type: CEX
+    name: SAFEbit
+    trust_score: 6
+    trust_score_rank: 108
+    url: "https://www.safebit.com.tr"
+    year_established: 2018
+
+  BITCOIN COM:
+    country: Bahamas
+    description: |
+      The mission of FMFW.io is to empower people from all over the world to trade cryptocurrencies with ease and confidence,
+      from first-time traders to advanced trading professionals. With high liquidity, 24/7 multilingual support and dozens of
+      trading pairs, complemented with a high level of security, we offer an attractive platform for trading any
+      cryptocurrency. Within one year since launch, on average, our exchange has been visited by more than 500K active
+      traders per month, and this number continues to grow as you read this sentence. Key Features: - Enjoy more than 130
+      available trading pairs - Cutting-edge matching engine technologies - Up 5x and 10x leverage for more than 29 markets -
+      Deep liquidity - User-friendly trading terminal - Tight spreads - Consistent trading competitions and giveaways
+    exchange_type: CEX
+    name: FMFW.io
+    trust_score: 6
+    trust_score_rank: 100
+    url: "https://fmfw.io/"
+    year_established: 2019
+
+  BITCOINTRY EXCHANGE:
+    country: Seychelles
+    description: |
+      Bitcointry is a next-generation hybrid exchange, owned by Devcode Technology, a company focused on developing
+      blockchain and cryptocurrency solutions. Providing services since 2023, Bitcointry combines the best of centralized
+      (CEX) and decentralized (DEX) trading. In 2025, it obtained its registration in Seychelles, ensuring a more secure,
+      globally recognized framework and greater regulatory clarity for its users. Bitcointry combines the best aspects of
+      centralized and decentralized platforms, offering users the freedom to choose how they interact with the exchange.
+      Connect via Web2 standard email login for a familiar, centralized experience, or opt for one-click Web3 wallet
+      connectivity, allowing seamless access and trading without KYC—just like a decentralized exchange, but with the
+      convenience and liquidity of a CEX. With multi-chain support, Bitcointry enables smooth trading and withdrawals across
+      multiple blockchains, powered by an efficient multi-chain bridge system for seamless asset transfers. The platform is
+      designed to adapt to all blockchain infrastructures, ensuring broad compatibility across networks and chains. Users
+      also benefit from fiat on-ramp services, making it easy to purchase crypto directly. Built on a powerful Web3
+      foundation, Bitcointry is redefining the trading experience, bridging the gap between traditional finance and
+      decentralized innovation. Meanwhile, Devcode Technology continues to develop cutting-edge blockchain and cryptocurrency
+      solutions, further expanding the ecosystem for the future of decentralized finance.
+    exchange_type: CEX
+    name: Bitcointry
+    trust_score: 8
+    trust_score_rank: 47
+    url: "https://bitcointry.com"
+    year_established: 2023
+
+  BITDELTA:
+    country: Vanuatu
+    description: |
+      BitDelta is a global trading platform servicing in 120+ countries with a mission to revolutionize the financial
+      landscape by empowering young individuals and ambitious investors to ignite their trading journey. The platform offers
+      a comprehensive trading experience through a range of innovative features, like Spot Trading, Card Crypto Purchases,
+      Token Launchpad Services and more. Along with these features, BitDelta users are able to diversify their portfolios
+      into a variety of assets, all while using a highly secure asset custodian. With a steadfast commitment to making
+      trading accessible for all, BitDelta aims to create a sophisticated and engaging trading experience where every trade
+      counts.
+    exchange_type: CEX
+    name: BitDelta
+    trust_score: 7
+    trust_score_rank: 62
+    url: "https://bitdelta.com/"
+    year_established: 2023
+
+  BITEXEN:
+    country: Turkey
+    description: ''
+    exchange_type: CEX
+    name: Bitexen
+    trust_score: 5
+    trust_score_rank: 288
+    url: "https://www.bitexen.com/"
+    year_established: 2018
+
+  BITEXLIVE:
+    country: Germany
+    description: Bitexlive is a centralized cryptocurrency exchange located in Kazakhstan.
+    exchange_type: CEX
+    name: Bitexlive
+    trust_score: 3
+    trust_score_rank: 734
+    url: "https://bitexlive.com/"
+    year_established: 2017
+
+  BITFINEX:
+    country: British Virgin Islands
+    description: |
+      Bitfinex, operated by iFinex Inc., is a prominent cryptocurrency exchange known for its advanced trading features,
+      including spot and derivatives markets, margin trading, and support.
+    exchange_type: CEX
+    name: Bitfinex
+    trust_score: 8
+    trust_score_rank: 33
+    url: "https://www.bitfinex.com"
+    year_established: 2012
+
+  BITFLOW:
+    country: Panama
+    description: |
+      For Bitcoin to win, transactions and liquidity must flow! Bitflow is a powerful DEX for Bitcoiners, with a friendly UX
+      and sustainable DeFi primitives for smart traders and capital deployers on Bitcoin. Fungible tokens on Bitcoin are new,
+      but essential for sustainable network activity and long term security. The premier DeFi experience around the asset
+      with the most institutional interest is powered by Bitflow Finance
+    exchange_type: CEX
+    name: Bitflow
+    trust_score_rank: 935
+    url: "https://bitflow.finance"
+    year_established: 2023
+
+  BITFLYER:
+    country: Japan
+    description: ''
+    exchange_type: CEX
+    name: bitFlyer
+    trust_score: 7
+    trust_score_rank: 71
+    url: "https://bitflyer.com/en-eu/"
+    year_established: 2014
+
+  BITGET:
+    country: Seychelles
+    description: |
+      Established in 2018, Bitget is the world's leading cryptocurrency exchange and Web3 company. Serving over 100 million
+      users in 150+ countries and regions, the Bitget exchange is committed to helping users trade smarter with its
+      pioneering copy trading feature and other trading solutions, while offering real-time access to Bitcoin price, Ethereum
+      price, and other cryptocurrency prices. Formerly known as BitKeep, Bitget Wallet is a world-class multi-chain crypto
+      wallet that offers an array of comprehensive Web3 solutions and features including wallet functionality, token swap,
+      NFT Marketplace, DApp browser, and more. Bitget is at the forefront of driving crypto adoption through strategic
+      partnerships, such as its role as the Official Crypto Partner of the World's Top Football League, LALIGA, in EASTERN,
+      SEA and LATAM market, as well as a global partner of Turkish National athletes Buse Tosun Çavuşoğlu (Wrestling world
+      champion), Samet Gümüş (Boxing gold medalist) and İlkin Aydın (Volleyball national team), to inspire the global
+      community to embrace the future of cryptocurrency.
+    exchange_type: CEX
+    name: Bitget
+    trust_score: 10
+    trust_score_rank: 4
+    url: "https://www.bitget.com/"
+    year_established: 2018
+
+  BITHUMB:
+    country: South Korea
+    description: |
+      Bithumb is one of South Korea's largest cryptocurrency exchanges, with a strong focus on security and compliance. With
+      high daily trading volumes and a user-friendly interface, it caters primarily to the South Korean market while
+      expanding its global reach.
+    exchange_type: CEX
+    name: Bithumb
+    trust_score: 7
+    trust_score_rank: 59
+    url: "https://www.bithumb.com/"
+    year_established: 2014
+
+  BITKAN:
+    country: British Virgin Islands
+    description: |
+      BitKan is a leading cryptocurrency broker exchange, partnering with over 7 major exchanges, including Binance and OKX.
+      Through BitKan, users can access the combined trading depth of thousands of crypto tokens across multiple platforms—all
+      with a single BitKan account. Established in 2012, BitKan officially launched its trading platform in 2019, supporting
+      millions of users worldwide in exploring and trading digital assets. Whether you’re new to cryptocurrency or an
+      experienced trader, we offer a comprehensive range of intuitive tools and services comprising Spot Trading, Futures
+      Trading, Bot Trading, and more. Our mission is to simplify the process of buying, selling, and managing crypto,
+      empowering users to trade with confidence. Security is our top priority at BitKan. We employ advanced technologies and
+      rigorous protocols to ensure a secure and trustworthy trading environment. We take pride in providing a platform where
+      users can trade safely, with security and trust as the cornerstones of our business. All of BitKan’s features are
+      available on both iOS and Android mobile apps, as well as on desktop, giving you access to the world of crypto anytime,
+      anywhere.
+    exchange_type: CEX
+    name: BitKan
+    trust_score: 7
+    trust_score_rank: 67
+    url: "https://www.bitkan.com"
+    year_established: 2012
+
+  BITKUB:
+    country: Thailand
+    description: |
+      Known for its user-friendly platform and regulatory compliance, Bitkub was one of the first exchanges to receive a
+      digital asset license from Thailand's Securities and Exchange Commission.
+    exchange_type: CEX
+    name: Bitkub
+    trust_score: 8
+    trust_score_rank: 37
+    url: "https://www.bitkub.com"
+    year_established: 2018
+
+  BITLO:
+    country: Turkey
+    description: ''
+    exchange_type: CEX
+    name: Bitlo
+    trust_score: 7
+    trust_score_rank: 83
+    url: "https://www.bitlo.com/"
+    year_established: 2018
+
+  BITMART:
+    country: Cayman Islands
+    description: |
+      BitMart is a global cryptocurrency exchange, offering a wide range of trading options, including spot and futures
+      trading. Known for its user-friendly interface and low trading fees, BitMart also provides various financial products
+      like staking and lending to enhance user engagement.
+    exchange_type: CEX
+    name: BitMart
+    trust_score: 8
+    trust_score_rank: 25
+    url: "https://www.bitmart.com/en"
+    year_established: 2017
+
+  BITMAX:
+    country: Singapore
+    description: |
+      AscendEX (formerly BitMax) is a leading global digital asset financial platform founded by a group of Wall Street
+      quantitative trading veterans in 2018, building on core value of “Efficiency, Resilience and Transparency.” Driven by
+      its continuous innovative product development and early-mover advantage in strategic alignment with the leading
+      projects from DeFi ecosystem, AscendEX offers trading services across over 200 trading pairs across cash, margin, and
+      futures products, in particular margin trading of over 50 tokens in cross-asset collateral mode and futures trading in
+      both cross-asset and isolated margin modes.
+    exchange_type: CEX
+    name: AscendEX (BitMax)
+    trust_score: 8
+    trust_score_rank: 31
+    url: "https://ascendex.com/en/global-digital-asset-platform"
+    year_established: 2018
+
+  BITMEX SPOT:
+    country: Seychelles
+    description: ''
+    exchange_type: CEX
+    name: BitMEX
+    trust_score: 7
+    trust_score_rank: 86
+    url: "https://www.bitmex.com/spot/"
+    year_established: 2022
+
+  BITOPRO:
+    country: Taiwan
+    description: |
+      BitoPro is a cryptocurrency exchange, offering a user-friendly platform for trading various digital assets with a focus
+      on security and regulatory compliance. It provides additional services like digital wallets and financial solutions,
+      catering to both individual and institutional users in the region.
+    exchange_type: CEX
+    name: BitoPro
+    trust_score: 7
+    trust_score_rank: 75
+    url: "https://www.bitopro.com/"
+    year_established: 2018
+
+  BITPANDA:
+    country: Italy
+    description: |
+      One Trading, formerly Bitpanda Pro, is a centralized cryptocurrency exchange established in 2019. One Trading holds a
+      Virtual Assets Service Provider (VASP) licence in Italy with the Italian regulator, Organismo degli Agenti e dei
+      Mediatori (OAM).
+    exchange_type: CEX
+    name: One Trading
+    trust_score: 7
+    trust_score_rank: 85
+    url: "https://exchange.onetrading.com/"
+    year_established: 2019
+
+  BITRUE:
+    country: Seychelles
+    description: ''
+    exchange_type: CEX
+    name: Bitrue
+    trust_score: 8
+    trust_score_rank: 32
+    url: "https://www.bitrue.com/"
+    year_established: 2018
+
+  BITSO:
+    country: Gibraltar
+    description: |
+      Bitso is a pioneering cryptocurrency exchange, recognized as the first platform to allow trading against the Mexican
+      peso. With a strong emphasis on security and regulatory compliance, Bitso aims to enhance financial inclusion by
+      providing accessible cryptocurrency services in Latin America.
+    exchange_type: CEX
+    name: Bitso
+    trust_score: 8
+    trust_score_rank: 42
+    url: "https://bitso.com"
+    year_established: 2014
+
+  BITSTAMP:
+    country: Luxembourg
+    description: |
+      Bitstamp is the world's longest-running cryptocurrency exchange, providing a secure platform for trading popular
+      cryptocurrencies like Bitcoin and Ethereum with a focus on transparency and customer service.
+    exchange_type: CEX
+    name: Bitstamp
+    trust_score: 9
+    trust_score_rank: 15
+    url: "https://links.bitstamp.net/c/2223866/1100037/14006"
+    year_established: 2011
+
+  BITSTORAGE:
+    country: Seychelles
+    description: ''
+    exchange_type: CEX
+    name: BitStorage
+    trust_score: 6
+    trust_score_rank: 121
+    url: "https://bitstorage.finance"
+    year_established: 2018
+
+  BITTIME:
+    country: Indonesia
+    description: Bittime is an Indonesian local exchange that is regulated by BAPPEBTI
+    exchange_type: CEX
+    name: Bittime
+    trust_score: 6
+    trust_score_rank: 151
+    url: "https://www.bittime.com/"
+    year_established: 2022
+
+  BITUNIX:
+    country: Saint Vincent and the Grenadines
+    description: |
+      Bitunix is a global cryptocurrency exchange, specializing in both spot and perpetual futures trading.
+    exchange_type: CEX
+    name: Bitunix
+    trust_score: 8
+    trust_score_rank: 30
+    url: "https://www.bitunix.com/"
+    year_established: 2021
+
+  BITVAVO:
+    country: Netherlands
+    description: ''
+    exchange_type: CEX
+    name: Bitvavo
+    trust_score: 7
+    trust_score_rank: 65
+    url: "https://bitvavo.com/en"
+    year_established: 2018
+
+  BITVENUS SPOT:
+    country: British Virgin Islands
+    description: |
+      Founded in May 2018, our exchange offers reliable and efficient 24x7 spot and derivatives trading services. Our
+      commitment to continual innovation has allowed us to launch state-of-the-art features, such as a copy trading function,
+      which facilitates both novice and seasoned traders. This persistent focus on enhancement, fueled by a team of seasoned
+      industry professionals, ensures that our product offerings remain top-tier, competitive, and user-friendly. We highly
+      prioritize customer service, boasting a dedicated team ready to provide high-quality support whenever needed. Our
+      dedicated compliance team works meticulously to ensure our trading environment is secure, adhering strictly to all
+      regulatory requirements. All these efforts come together to create a trading platform that offers security, support,
+      and innovative features that make trading both easy and rewarding.
+    exchange_type: CEX
+    name: BVOX
+    trust_score: 7
+    trust_score_rank: 53
+    url: "https://www.bvox.com/"
+    year_established: 2018
+
+  BLOCKCHAIN COM:
+    country: United Kingdom
+    description: ''
+    exchange_type: CEX
+    name: Blockchain.com
+    trust_score_rank: 975
+    url: "https://www.blockchain.com/"
+    year_established: 2012
+
+  BLOFIN SPOT:
+    country: Marshall Islands
+    description: |
+      BloFin offers a diverse range of trading options, including futures and spot trading. Known for its robust security
+      measures and user-friendly interface, BloFin caters to both novice and experienced traders, emphasizing transparency
+      and fund safety.
+    exchange_type: CEX
+    name: BloFin
+    trust_score: 7
+    trust_score_rank: 60
+    url: "https://blofin.com"
+    year_established: 2023
+
+  BTC ALPHA:
+    country: Lithuania
+    description: |
+      ALP.COM is a centralized cryptocurrency exchange that formerly operated under the name BTC-Alpha. It has rebranded to
+      ALP.COM, carrying over all assets, user settings, and trading history from BTC-Alpha to the newly named platform. "The
+      rebranding reflects its ambition to “grow, lead, and invest in the future.” History & Legal Structure Founded: The
+      platform was established in 2015 and launched as live trading platform in 2016. Jurisdiction / Registration: The
+      company is registered in Poland Products & Services Crypto trading services: buy, sell, and trade digital assets.
+      Multiple trading pairs are available; “spot markets” are a core component. Security measures: reviews mention
+      multi-factor authentication, transaction confirmations, transparent fees, stable performance. Trustpilot rating is
+      around 4.3–4.5 out of 5 based on user reviews. Key Messages / Brand Positioning Users of BTC-Alpha retain their assets
+      and settings under ALPCOM Ambition to deliver a secure, easy-to-use trading environment. Transparency in fees and
+      operations, with support infrastructure.
+    exchange_type: CEX
+    name: ALP.COM
+    trust_score: 4
+    trust_score_rank: 591
+    url: "https://alp.com"
+    year_established: 2016
+
+  BTC TRADE UA:
+    country: Ukraine
+    description: ''
+    exchange_type: CEX
+    name: BTC Trade UA
+    trust_score: 4
+    trust_score_rank: 679
+    url: "https://btc-trade.com.ua/"
+    year_established: 2014
+
+  BTCBOX:
+    country: Japan
+    description: ''
+    exchange_type: CEX
+    name: BTCBOX
+    trust_score: 5
+    trust_score_rank: 280
+    url: "https://www.btcbox.co.jp/"
+    year_established: 2014
+
+  BTCC:
+    country: Lithuania
+    description: ''
+    exchange_type: CEX
+    name: BTCC
+    trust_score: 3
+    trust_score_rank: 726
+    url: "https://www.btcc.com/"
+    year_established: 2011
+
+  BTCMARKETS:
+    country: Australia
+    description: ''
+    exchange_type: CEX
+    name: BTCMarkets
+    trust_score: 5
+    trust_score_rank: 260
+    url: "https://www.btcmarkets.net/"
+    year_established: 2013
+
+  BTCTURK:
+    country: Turkey
+    description: ''
+    exchange_type: CEX
+    name: BtcTurk | Kripto
+    trust_score_rank: 911
+    url: "https://kripto.btcturk.com/en"
+    year_established: 2013
+
+  BTSE:
+    country: British Virgin Islands
+    description: |
+      BTSE is a leading digital asset exchange that empowers users by offering a simple and secure way to trade. Its growing
+      suite of financial services is designed to bridge traditional finance with digital assets solutions. BTSE's innovative
+      technology offers a set of digital financial solutions featuring multi-currency spot and derivatives trading, in
+      addition to NFT and exchange white labels, over-the-counter (OTC) trading, asset management, and payment gateways.
+      Additionally, BTSE provides an all-in-one order book, strict security protocols, an insurance fund, cold storage for
+      more than 99% of assets and no withdrawal limits on over 12 fiat currencies and 100 cryptocurrencies.
+    exchange_type: CEX
+    name: BTSE
+    trust_score: 7
+    trust_score_rank: 70
+    url: "https://www.btse.com/"
+    year_established: 2018
+
+  BULLISH COM:
+    country: Gibraltar
+    description: ''
+    exchange_type: CEX
+    name: Bullish
+    trust_score: 9
+    trust_score_rank: 13
+    url: "https://bullish.com/"
+    year_established: 2021
+
+  BYBIT SPOT:
+    country: British Virgin Islands
+    description: |
+      Bybit is the world’s second-largest cryptocurrency exchange by trading volume, serving a global community of over 60
+      million users. Founded in 2018, Bybit is redefining openness in the decentralized world by creating a simpler, open and
+      equal ecosystem for everyone. With a strong focus on Web3, Bybit partners strategically with leading blockchain
+      protocols to provide robust infrastructure and drive on-chain innovation. Renowned for its secure custody, diverse
+      marketplaces, intuitive user experience, and advanced blockchain tools, Bybit bridges the gap between TradFi and DeFi,
+      empowering builders, creators, and enthusiasts to unlock the full potential of Web3. Discover the future of
+      decentralized finance at Bybit.com.
+    exchange_type: CEX
+    name: Bybit
+    trust_score: 10
+    trust_score_rank: 5
+    url: "https://www.bybit.com"
+    year_established: 2018
+
+  BYBIT-EU:
+    country: Austria
+    description: |
+      Bybit EU is the European arm of Bybit, one of the world’s largest digital asset platforms with over 70 million
+      registered users across 160+ countries. Purpose-built for Europe, Bybit EU provides a fully regulated and compliant
+      platform offering Spot trading in EUR and USDC pairs, with seamless fiat on- and off-ramps through SEPA and other
+      localized payment methods. The platform combines Bybit’s global infrastructure and deep liquidity with a MiCA-ready
+      framework, ensuring transparency, user protection, and robust security standards. With a proven track record in global
+      markets, high-profile partnerships such as Oracle Red Bull Racing in Formula 1, and independently verified Proof of
+      Reserves, Bybit EU delivers a trusted, user-friendly gateway for European traders to access the digital asset economy.
+    exchange_type: CEX
+    name: Bybit EU
+    trust_score: 6
+    trust_score_rank: 122
+    url: "https://www.bybit.eu/"
+    year_established: 2025
+
+  BYDFI:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: BYDFi
+    trust_score: 7
+    trust_score_rank: 64
+    url: "https://www.bydfi.com/en"
+    year_established: 2020
+
+  CARBON:
+    country: Switzerland
+    description: ''
+    exchange_type: CEX
+    name: Carbon Defi (Ethereum)
+    trust_score_rank: 985
+    url: "https://carbondefi.xyz"
+    year_established: 2023
+
+  CARBON-DEFI-CELO:
+    country: Switzerland
+    description: |
+      Carbon DeFi: A Next-Gen Decentralized Exchange (DEX) by Bancor Carbon DeFi, powered by Bancor, simplifies decentralized
+      trading and liquidity management by enabling strategy makers to create and customize trading strategies with precision
+      and control. At its core is a built-in solver system- a trading bot that integrates seamlessly with major DEXes across
+      a blockchain, leveraging chain-wide liquidity to help ensure efficient order fulfillment. Key Features of Carbon DeFi
+      Strategy makers gain key advantages such as immunity to MEV sandwich attacks, zero slippage, and the ability to edit
+      positions directly onchain. Strategy types include: Limit Orders: Set precise buy or sell prices and receive exactly
+      the quoted price. Range Orders: Scale in or out of positions by defining price ranges (e.g., buy a cryptocurrency from
+      $1 down to $0.75). Recurring Orders: Automate "buy low, sell high" strategies by linking buy and sell orders.
+      Auto-Compounding Concentrated Liquidity: Choose custom fee tiers, free from tick constraints. Advanced Trading Tools
+      Carbon DeFi’s user interface (UI) includes tools designed to simplify and enhance trading: Simulator: Backtest
+      strategies using historical data for informed decision-making. In-House Drawing Tools: Track trends, pinpoint key
+      levels, and map strategies- all on the UI. Advanced Activity Tracker: Monitor individual and protocol-wide position
+      performance with CSV export options. Security Carbon DeFi has undergone rigorous audits and operates with zero third
+      party dependencies, such as keepers, oracles, and hooks.
+    exchange_type: CEX
+    name: Carbon DeFi (Celo)
+    trust_score_rank: 947
+    url: "https://celo.carbondefi.xyz/"
+    year_established: 2023
+
+  CATEX:
+    country: China
+    description: |
+      Established in August 2018, Catex is a centralized cryptocurrency exchange. It has global communities in Brazil,
+      Vietnam, South Korea, Bangladesh, Russia, Turkey, Middle East, India, Indonesia, and the United States. Platform has
+      staking, farming and multiple faucets. The exchange claims to have SNA and microservice-based distributed architecture
+      to support horizontal scaling.
+    exchange_type: CEX
+    name: Catex
+    trust_score: 3
+    trust_score_rank: 729
+    url: "https://www.catex.io/"
+    year_established: 2018
+
+  CAVIARNINE:
+    country: British Virgin Islands
+    description: |
+      CaviarNine is the leading decentralised exchange on Radix offering a smart trade aggregator, concentrated liquidity
+      DEX, liquid staking and more!
+    exchange_type: CEX
+    name: CaviarNine
+    trust_score_rank: 997
+    url: "https://www.caviarnine.com/"
+    year_established: 2023
+
+  CELLANA-FINANCE:
+    country: Vietnam
+    description: |
+      Cellana is a community-owned decentralized exchange on the Aptos network that fosters DeFi growth through a sustainable
+      liquidity incentives model. This innovative DEX is the first ever which uses the Ve(3,3) Model in Move Language.
+    exchange_type: CEX
+    name: Cellana Finance
+    trust_score_rank: 933
+    url: "https://cellana.finance/"
+    year_established: 2024
+
+  CEX:
+    country: United Kingdom
+    description: ''
+    exchange_type: CEX
+    name: CEX.IO
+    trust_score: 8
+    trust_score_rank: 38
+    url: "https://trade.cex.io/"
+    year_established: 2013
+
+  CHAINEX:
+    country: South Africa
+    description: ''
+    exchange_type: CEX
+    name: ChainEX
+    trust_score: 5
+    trust_score_rank: 530
+    url: "https://chainex.io/"
+    year_established: 2018
+
+  CHAINFLIP:
+    country: Germany
+    description: |
+      Chainflip is a decentralised protocol enabling seamless, permissionless swaps across different blockchains like
+      Bitcoin, Ethereum, and Solana. Chainflip prioritises native, cross-chain interoperability without requiring wrapped
+      assets or intermediaries, making it a reliable infrastructure for aggregators, exchanges, and users who need efficient,
+      low-slippage, native asset swaps across major blockchain ecosystems.
+    exchange_type: CEX
+    name: Chainflip
+    trust_score: 4
+    trust_score_rank: 605
+    url: "https://swap.chainflip.io/"
+    year_established: 2020
+
+  CHANGELLY:
+    country: Seychelles
+    description: |
+      Launched on 06/07/2020, Changelly PRO is a centralized exchange located at 306 Victoria House, Victoria Mahe,
+      Seychelles. It is a professional version of the instant swap platform Changelly. Changelly PRO aims to serve the fast
+      growing Changelly community that has been requesting professional trading features as well as foster the onboarding of
+      beginners to advanced trading. The PRO version has spot and margin trading as well as fiat on-ramp solution. PRO
+      offers: • Multi-currency wallet to store a variety of coins • Interactive and customizable terminal • Access to 50+
+      markets • Competitive trading fees starting from 0.1% both for makers and takers • Lowest withdrawal fees on the most
+      popular coins and tokens such as BTC, ETH, XRP • Simple registration process with several verification levels
+    exchange_type: CEX
+    name: Changelly PRO
+    trust_score: 4
+    trust_score_rank: 593
+    url: "https://pro.changelly.com/"
+    year_established: 2020
+
+  CHANGENOW:
+    country: Saint Vincent and the Grenadines
+    description: |
+      ChangeNOW is a non-custodial cryptocurrency exchange. Supports fast, unlimited cross-chain swaps of over 900
+      cryptocurrencies. No registration required, enhancing user privacy and convenience. Easy to get Bitcoin and other
+      cryptocurrencies, easy to use platform.
+    exchange_type: CEX
+    name: ChangeNOW
+    trust_score_rank: 914
+    url: "https://changenow.io/"
+    year_established: 2017
+
+  CLIPPER ETHEREUM:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Clipper (Ethereum)
+    trust_score_rank: 941
+    url: "https://clipper.exchange/"
+    year_established: 2021
+
+  CLIPPER OPTIMISM:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Clipper (Optimism)
+    trust_score_rank: 945
+    url: "https://clipper.exchange/"
+    year_established: 2022
+
+  COIN METRO:
+    country: Estonia
+    description: ''
+    exchange_type: CEX
+    name: Coinmetro
+    trust_score: 6
+    trust_score_rank: 173
+    url: "https://coinmetro.com/"
+    year_established: 2018
+
+  COINBASE INTERNATIONAL:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Coinbase International Exchange
+    trust_score_rank: 921
+    url: "https://international.coinbase.com/"
+    year_established: 2023
+
+  COINCATCH:
+    country: British Virgin Islands
+    description: |
+      CoinCatch is a cryptocurrency exchange with a mission to be built with KOLs for traders. The platform is user-friendly
+      and feature-rich, with a focus on security and reliability. It offers spot and derivative trading services for most
+      major coins in the market, and operates a customer support center around the clock to address any concerns, providing
+      the best trading experience possible. For more information, visit https://www.coincatch.com/en/.
+    exchange_type: CEX
+    name: CoinCatch
+    trust_score: 7
+    trust_score_rank: 72
+    url: "https://www.coincatch.com/en"
+    year_established: 2022
+
+  COINCHECK:
+    country: Japan
+    description: ''
+    exchange_type: CEX
+    name: Coincheck
+    trust_score: 5
+    trust_score_rank: 112
+    url: "https://coincheck.com/"
+    year_established: 2014
+
+  COINDCX:
+    country: Singapore
+    description: |
+      Started on April 7th, 2018, CoinDCX is a Singapore-based company that specializes in crypto-enabled financial services.
+      Offering you the simplest yet robust trading environment to trade 200+ coins, 500+ markets, and 150+ coins on leverage
+      at lightning speed. With major fintech innovations going across the world, DCX is bringing a revolution with its
+      crypto-based products. DCX is not just for the banked or unbanked, DCX aims to build an all-inclusive ecosystem by
+      bringing trust between the trustless. DCX is focused on developing borderless financial services which ensure faster,
+      simpler, and uninterrupted flow of capital. Through its array of products, DCX is upgrading lives every day.
+    exchange_type: CEX
+    name: CoinDCX
+    trust_score_rank: 922
+    url: "https://www.coindcx.com"
+    year_established: 2018
+
+  COINEX:
+    country: Samoa
+    description: ''
+    exchange_type: CEX
+    name: CoinEx
+    trust_score: 8
+    trust_score_rank: 34
+    url: "https://www.coinex.com/"
+    year_established: 2017
+
+  COINJAR:
+    country: United Kingdom
+    description: |
+      CoinJar is the simplest way to buy, sell and spend cryptocurrency. Founded in 2013, our mission is to create
+      best-in-class apps and products that make cryptocurrencies such as Bitcoin and Ethereum accessible and easy-to-use for
+      everyone, every day. CoinJar has processed billions of dollars in transactions and is used by hundreds of thousands
+      cryptocurrency traders and investors. CoinJar is one of the first crypto exchanges in the world to be officially
+      registered with the UK’s Financial Conduct Authority (FCA). CoinJar is also an official partner with the Premier
+      League’s Brentford FC and Australia’s oldest football club (and 2021 champions), the Melbourne Demons. CoinJar's highly
+      rated iOS and Android apps allow users to trade cryptocurrencies on the go, while CoinJar Exchange and CoinJar OTC
+      Trading Desk cater for professional traders, as well as individuals and institutions looking to make larger
+      transactions. CoinJar provides free and almost instant deposits and withdrawals using Faster Payments Services in the
+      UK and Osko / PayID / NPP in Australia, allowing new customers to start trading in minutes across AUD, GBP and 30
+      cryptocurrencies. You can also buy crypto instantly using a Visa or Mastercard. CoinJar’s fees start at 0% for market
+      orders on exchange.coinjar.com and go up to 2% for credit and debit card purchases – one of the lowest rates worldwide.
+      CoinJar Card Mastercard is a fully-featured Mastercard – with both Apple Pay and Google Pay integration – that lets
+      customers make purchases by converting their cryptocurrencies into AUD or GBP, everywhere Mastercard is accepted.
+      Designed for ASX and FTSE listed companies, CoinJar Clear is a white-label cryptocurrency solution used by stock
+      trading, cashback, buy now pay later and other financial services companies.
+    exchange_type: CEX
+    name: CoinJar Exchange
+    trust_score: 5
+    trust_score_rank: 274
+    url: "https://www.coinjar.com/"
+    year_established: 2013
+
+  COINONE:
+    country: South Korea
+    description: ''
+    exchange_type: CEX
+    name: Coinone
+    trust_score: 5
+    trust_score_rank: 241
+    url: "https://coinone.co.kr/"
+    year_established: 2016
+
+  COINSPRO:
+    country: Philippines
+    description: |
+      Fully regulated by the Banko Sentral ng Pilipinas, Coins.ph offers low-fee trading through its Coins Pro platform,
+      allowing users to trade directly in Philippine Pesos (PHP).
+    exchange_type: CEX
+    name: Coins.ph
+    trust_score: 8
+    trust_score_rank: 46
+    url: "https://coins.ph/about"
+    year_established: 2014
+
+  COINSTORE:
+    country: British Virgin Islands
+    description: |
+      Coinstore: A Global Cryptocurrency Exchange Revolutionizing Crypto Finance Coinstore is a leading global cryptocurrency
+      exchange that brings together a team of seasoned financial professionals and blockchain experts. With a strong presence
+      in 175 countries and a user base of 3.3 million registered traders, Coinstore offers seamless and rapid trading
+      services, along with derivatives, OTC, and NFT solutions. What sets Coinstore apart is its exceptional trading speed,
+      operating at millisecond-level precision. The platform boasts a robust server architecture, ensuring smooth and
+      efficient transactions for users worldwide. Security is a top priority, with Coinstore implementing bank-level measures
+      to safeguard user assets. A comprehensive risk control system and real-time reconciliation further enhance the peace of
+      mind for traders. Coinstore's dedication to excellence has been recognized within the industry. It has been crowned the
+      best exchange in Asia by Crypto 306, while also earning the esteemed title of best rising star from Crypto Expo. This
+      recognition highlights Coinstore's commitment to revolutionize the world of crypto finance. Discover the future of
+      cryptocurrency trading and financial innovation with Coinstore.com. Join our ever-growing community and experience the
+      cutting-edge solutions that are reshaping the crypto landscape.
+    exchange_type: CEX
+    name: Coinstore
+    trust_score: 8
+    trust_score_rank: 21
+    url: "https://www.coinstore.com/#/"
+    year_established: 2020
+
+  COINSWAP:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: CoinSwap
+    trust_score: 5
+    trust_score_rank: 463
+    url: "https://app.coinswap.space/#/swap"
+    year_established: 2021
+
+  COINTR:
+    country: Turkey
+    description: |
+      What is CoinTR? : CoinTR, founded in 2022, is a fully regulated local cryptocurrency exchange headquartered in
+      Istanbul, Türkiye, dedicated to providing users in Türkiye with secure and compliant trading services. The exchange
+      boasts a team of experts with a wealth of knowledge from a variety of top crypto exchanges and is committed to
+      fostering the growth of local crypto-oriented and Web3 industries. CoinTR also actively collaborates with several
+      industry partners to continuously create new opportunities for regional economic growth. Ali Eselioglu, former Deputy
+      Executive Director of the Central Bank of the Republic of Türkiye, is currently serving as the CEO of CoinTR. Şakir
+      Ercan GÜL, the former Deputy Minister of Finance, as well as the former Chairman of the Savings Deposit Insurance Fund,
+      is currently serving as the Chairman of the Board at CoinTR. Ergun AKINCI, currently Chief Adviser to the Central Bank
+      of Türkiye, and Mehmet Emin KARAAGAC, former Deputy Governor of Vakifbank, serves as CoinTR Board Members. Yakup DEMİR,
+      BDDK Senior Banking Former Chief Expert, Manager, Deputy Head of Department, serves as CoinTR's Compliance Officer.
+      CoinTR designed and developed the 3rd generation trading system, focusing on providing users the most secure and stable
+      trading experience. In addition to providing diverse tools including Spot Trading, Launchpad, Launchpool and fiat
+      on-ramp; CoinTR offers over 150+ cryptocurrencies for users to buy, sell, and trade. CoinTR lists 10 new tokens with
+      both USDT and TRY (if available) trading pairs weekly on average to keep users up-to-date with the global market
+      trends.
+    exchange_type: CEX
+    name: CoinTR
+    trust_score: 7
+    trust_score_rank: 69
+    url: "https://www.cointr.com"
+    year_established: 2022
+
+  COINUP:
+    country: Singapore
+    description: |
+      CoinUp, the world's leading crypto derivatives trading platform, was founded in September 2021. It provides a full
+      range of digital asset services, including digital asset issuance, spot trading, derivatives trading, and digital asset
+      management. Upholding the principle of putting users first, CoinUp relies on a top-tier technology and operations team.
+      With a top-notch risk control system, smooth and convenient trading experience, and 24/7 service, CoinUp is committed
+      to selecting high-quality digital assets for global users and providing safe, innovative and efficient services
+    exchange_type: CEX
+    name: CoinUp.io
+    trust_score: 4
+    trust_score_rank: 589
+    url: "https://www.coinup.io"
+    year_established: 2021
+
+  COINW:
+    country: United Arab Emirates
+    description: |
+      What Is CoinW? CoinW stands as a pinnacle in the world of crypto trading platforms, where our unwavering commitment to
+      security, transparency, and user-centric principles sets us apart. Powered by cutting-edge technology, boasting deep
+      liquidity, and offering support for a diverse array of cryptocurrencies, we have cultivated a vast and dedicated user
+      base, solidifying our position as one of the most secure exchanges globally. Dedicated to upholding the highest
+      regulatory standards, we prioritize security, transparency, and compliance to contribute actively to the advancement of
+      the crypto industry. At CoinW, we take pride in serving over 13 million users worldwide, earning our reputation as a
+      beacon of security and reliability in the dynamic realm of cryptocurrency. Join us on this journey, where your assets
+      are safeguarded, and your trading experience is elevated to new heights. Serving customers in over 200 regions and
+      countries, CoinW is dedicated to providing a seamless and localized trading experience. As a forward-thinking crypto
+      trading platform, we prioritize collaboration with international regulatory bodies and organizations, contributing to
+      the establishment of a safe and secure environment for our users. Who Are the Founders of CoinW? Incepted in 2017 by a
+      fusion of crypto, cybersecurity, and finance virtuosos with a robust workforce comprising over 1,000 talents
+      representing 30 diverse nations, CoinW stands as the quintessential embodiment of a global and professional entity.
+      When Did CoinW Launch? CoinW was launched in 2017. What Coins Are Supported on CoinW? CoinW boasts a vast array of over
+      1,000 listed crypto tokens, offering more than 500 spot trading pairs. Popular coins include BTC, ETH, XRP, PEPE, DOGE,
+      SHIB, LTC, APT and more. How Much Are CoinW Fees? When users conduct currency transactions on CoinW, the platform will
+      charge users a certain fee to support the operation of the platform. User fees for makers and takers on the platform
+      will be charged according to different rules. Currently, the basic fees for maker is 0.01% and taker is 0.06% on the
+      platform. Is It Possible To Use Leverage or Margin Trading on CoinW? CoinW empowers traders seeking strategic leverage
+      through our comprehensive options for both spot and Futures trading. Our platform offers unparalleled flexibility,
+      allowing users to utilize leverage ratios of up to 200x in Futures and 6x in ETF trading. This means that traders can
+      amplify their positions, opening the door to potential profit maximization in crypto market.
+    exchange_type: CEX
+    name: CoinW
+    trust_score: 8
+    trust_score_rank: 20
+    url: "https://www.coinw.com/"
+    year_established: 2017
+
+  COINZOOM:
+    country: United States
+    description: |
+      CoinZoom is a new US regulated cryptocurrency exchange that allows users to buy, sell, and spend their crypto with the
+      CoinZoom Visa card.
+    exchange_type: CEX
+    name: Coinzoom
+    trust_score: 5
+    trust_score_rank: 338
+    url: "https://www.coinzoom.com/"
+    year_established: 2020
+
+  CREMA FINANCE:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Crema Finance
+    trust_score: 4
+    trust_score_rank: 796
+    url: "https://app.crema.finance/#/"
+    year_established: 2022
+
+  CRYPTAL:
+    country: Georgia
+    description: |
+      Centralized Cryptocurrency exchange, providing Spot, fast exchange and OTC desk services supporting 27 CryptoCurrencies
+    exchange_type: CEX
+    name: Cryptal
+    trust_score: 6
+    trust_score_rank: 212
+    url: "https://cryptal.com/en"
+    year_established: 2020
+
+  CRYPTO COM:
+    country: Malta
+    description: |
+      Crypto.com Exchange is the best place to trade crypto, with deep liquidity, low fees and best execution prices, users
+      can trade major cryptocurrencies like Bitcoin, Ethereum, and many more and receive great CRO-powered rewards
+    exchange_type: CEX
+    name: Crypto.com Exchange
+    trust_score: 9
+    trust_score_rank: 11
+    url: "https://crypto.com/exchange"
+    year_established: 2019
+
+  CRYPTOLOGY:
+    country: Lithuania
+    description: ''
+    exchange_type: CEX
+    name: Tothemoon
+    trust_score: 8
+    trust_score_rank: 35
+    url: "https://tothemoon.com/"
+    year_established: 2018
+
+  CSWAPDEX:
+    country: Australia
+    description: CSWAP is a hybrid AMM/Orderbook DEX with an advanced smart contract architecture.
+    exchange_type: CEX
+    name: CSWAP DEX
+    trust_score_rank: 973
+    url: "https://cswap.trade"
+    year_established: 2022
+
+  CUBE:
+    country: Australia
+    description: |
+      Cube.Exchange aims to solve the problem of founder risk by creating a unique hybrid market structure that takes
+      advantage of the benefits of both traditional exchanges and the efficiencies offered by embracing certain elements of
+      Web3 technology. This is designed to ensure that assets remain under the ownership of users and are never subject to
+      co-mingling, re-hypothecation, misappropriation, or other illicit use by exchange founders or team members. The
+      exchange has paired a number of innovations including an off-chain sequencer with an industry-leading lightning-fast
+      matching engine, on-chain settlement, and a unique multi-party computation (MPC) wallet to ensure that only those
+      parties authorised by a user have access to their funds. This market structure is an industry first and has been built
+      from the ground-up to realise the true promise of efficient, trustless asset trading and ownership. Your keys, your
+      trades, your assets - even in the event of a bankruptcy or insolvency.
+    exchange_type: CEX
+    name: Cube
+    trust_score: 6
+    trust_score_rank: 207
+    url: "https://www.cube.exchange/"
+    year_established: 2023
+
+  CURVE ETHEREUM:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Curve (Ethereum)
+    trust_score: 5
+    trust_score_rank: 238
+    url: "https://www.curve.finance/dex/ethereum/pools/"
+    year_established: 2020
+
+  CURVE FANTOM:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Curve (Fantom)
+    trust_score: 1
+    trust_score_rank: 908
+    url: "https://www.curve.finance/dex/fantom/pools/"
+    year_established: 2021
+
+  CURVE POLYGON:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Curve (Polygon)
+    trust_score: 3
+    trust_score_rank: 754
+    url: "https://www.curve.finance/dex/polygon/pools/"
+    year_established: 2021
+
+  CURVE-BSC:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Curve (BSC)
+    trust_score: 5
+    trust_score_rank: 438
+    url: "https://www.curve.finance/dex/bsc/pools/"
+    year_established: 2021
+
+  DACKIESWAP:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: DackieSwap V3
+    trust_score: 3
+    trust_score_rank: 751
+    url: "https://www.dackieswap.xyz/swap?chain=base"
+    year_established: 2023
+
+  DACKIESWAP-V2:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: DackieSwap V2
+    trust_score: 3
+    trust_score_rank: 833
+    url: "https://www.dackieswap.xyz/swap?"
+    year_established: 2024
+
+  DEEPCOIN:
+    country: Seychelles
+    description: |
+      Deepcoin Exchange offers groundbreaking tools for you to buy and sell over 120 cryptocurrencies. Since 2018, we have
+      provided a secure and reliable way for you to invest in spot and futures trading to our over 1 million users.
+    exchange_type: CEX
+    name: Deepcoin
+    trust_score: 6
+    trust_score_rank: 89
+    url: "https://www.deepcoin.com/"
+    year_established: 2018
+
+  DEFICHAIN:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: DeFiChain DEX
+    trust_score_rank: 993
+    url: "https://defichain.com/"
+    year_established: 2020
+
+  DELTA SPOT:
+    country: Jamaica
+    description: ''
+    exchange_type: CEX
+    name: Delta Exchange
+    trust_score: 6
+    trust_score_rank: 220
+    url: "https://www.delta.exchange/app/spot/trade/"
+    year_established: 2018
+
+  DEM EXCHANGE:
+    country: Singapore
+    description: |
+      Demex is the first fully decentralized platform that supports any type of financial market possible. You are limited
+      only by your own imagination.
+    exchange_type: CEX
+    name: Demex
+    trust_score: 2
+    trust_score_rank: 885
+    url: "https://app.dem.exchange"
+    year_established: 2020
+
+  DERIBIT SPOT:
+    country: Panama
+    description: |
+      Deribit is a leading cryptocurrency exchange, primarily focused on options and futures trading for Bitcoin and
+      Ethereum, holding a dominant market share in these derivatives.
+    exchange_type: CEX
+    name: Deribit Spot
+    trust_score: 8
+    trust_score_rank: 41
+    url: "https://www.deribit.com/"
+    year_established: 2016
+
+  DERIVE-SPOT:
+    country: Cayman Islands
+    description: |
+      Derive is a decentralized protocol that creates unique and programmable onchain options, perpetuals, and structured
+      products.
+    exchange_type: CEX
+    name: Derive (Spot)
+    trust_score_rank: 955
+    url: "https://derive.xyz/"
+    year_established: 2021
+
+  DEXALOT:
+    country: British Virgin Islands
+    description: |
+      Dexalot is an omni-chain order book DEX with zero slippage, near zero gas fees, and is on its own app-specific chain,
+      allowing users to deposit from and withdraw to multiple chains. Dexalot is also fully on-chain and non-custodial.
+    exchange_type: CEX
+    name: Dexalot
+    trust_score: 2
+    trust_score_rank: 863
+    url: "https://app.dexalot.com/swap"
+    year_established: 2021
+
+  DEXIE:
+    country: European Union
+    description: Aggregator and DEX for Chia Offers
+    exchange_type: CEX
+    name: dexie
+    trust_score: 5
+    trust_score_rank: 229
+    url: "https://dexie.space"
+    year_established: 2022
+
+  DEXTER:
+    country: ''
+    description: |
+      Persistence DEX is a trading and liquidity venue for XPRT, BTC and its’ related assets, LSTs and Stablecoins.
+    exchange_type: CEX
+    name: Persistence DEX
+    trust_score_rank: 983
+    url: "https://app.persistence.one"
+    year_established: 2023
+
+  DEXTRADE:
+    country: Belize
+    description: |
+      Dex-Trade is a centralized cryptocurrency exchange founded in 2017 and registered in Belize. This is a modern space for
+      safe and comfortable trading with minimal commissions. Dex-Trade is a universal exchange for both beginners and
+      professional traders. The minimum spread and high liquidity in order books allow you to trade efficiently with orders
+      of any volume. Along with global opportunities, the exchange also provides a demo trading mode for risk-free testing of
+      your trading strategies. Our dedicated support team is online 24/7 to assist you with any questions. You can learn more
+      about Dex-Trade on the website. https://dex-trade.com/info/about If you are looking for listing and promotion options
+      with Dex-Trade please visit our listing page and a personal manager will help you to utilize our proven tools and
+      intelligent market-making system to engage with the vast exchange community in the best possible way.
+      https://dex-trade.com/listing
+    exchange_type: CEX
+    name: Dex-Trade
+    trust_score: 7
+    trust_score_rank: 68
+    url: "https://dex-trade.com/"
+    year_established: 2019
+
+  DEZSWAP:
+    country: South Korea
+    description: ''
+    exchange_type: CEX
+    name: Dezswap
+    trust_score_rank: 1005
+    url: "https://dezswap.io"
+    year_established: 2022
+
+  DIGIFINEX:
+    country: Seychelles
+    description: ''
+    exchange_type: CEX
+    name: DigiFinex
+    trust_score: 8
+    trust_score_rank: 27
+    url: "https://www.digifinex.com/"
+    year_established: 2018
+
+  DIGITALEXCHANGE ID:
+    country: Indonesia
+    description: |
+      Digitalexchange.id which was founded in 2018 and launched on 28 June 2019, is a Centralized Exchange platform to buy
+      and sell crypto assets based in Indonesia, with the aim to be The Largest Indonesian Crypto Exchange which support IDR
+      trading pairs and IDR deposit & withdrawal. Digitalexchange.id officially registered with the Commodity Futures Trading
+      Regulatory Agency (BAPPEBTI) with the Registration Number: 008/BAPPEBTI/CP-AK/05/2020 and registered with Ministry of
+      Communication and Information of the Republic of Indonesia (KOMINFO) with PSE Registration Number:
+      000286.01/DJAI.PSE/03/2021. As of August 2023, Digitalexchange.id has more than 60 crypto assets listed with IDR
+      trading pair and also available on Google Play and App Store.
+    exchange_type: CEX
+    name: Digitalexchange.id
+    trust_score: 4
+    trust_score_rank: 652
+    url: "https://digitalexchange.id/"
+    year_established: 2018
+
+  DODO:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: DODO (Ethereum)
+    trust_score: 5
+    trust_score_rank: 261
+    url: "https://app.dodoex.io/"
+    year_established: 2020
+
+  DODO ARBITRUM:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: DODO (Arbitrum)
+    trust_score: 3
+    trust_score_rank: 763
+    url: "https://app.dodoex.io/"
+    year_established: 2021
+
+  DODO BSC:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: DODO (BSC)
+    trust_score: 3
+    trust_score_rank: 736
+    url: "https://dodoex.io/"
+    year_established: 2021
+
+  DODO POLYGON:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: DODO (Polygon)
+    trust_score: 4
+    trust_score_rank: 629
+    url: "https://app.dodoex.io/"
+    year_established: 2022
+
+  DODO ZIRCUIT:
+    country: Singapore
+    description: ''
+    exchange_type: CEX
+    name: DODO (Zircuit)
+    trust_score_rank: 980
+    url: "https://app.dodoex.io/pool?network=zircuit-mainnet"
+    year_established: 2020
+
+  DODO-AVALANCHE:
+    country: Singapore
+    description: ''
+    exchange_type: CEX
+    name: DODO (Avalanche)
+    trust_score_rank: 927
+    url: "https://app.dodoex.io/?network=avalanche"
+    year_established: 2020
+
+  DOTSWAP:
+    country: Hong Kong
+    description: |
+      DotSwap is a decentralized exchange (DEX) platform designed for the Bitcoin ecosystem that uses an Automated Market
+      Maker (AMM) mechanism. It enables efficient, low-cost, and non-custodial swaps between native Bitcoin assets (like
+      BRC20, Runes, and ARC20) and BTC. The platform prioritizes a secure and fair user experience through its on-chain PSBT
+      technology and robust liquidity pools.
+    exchange_type: CEX
+    name: DotSwap
+    trust_score_rank: 949
+    url: "https://www.dotswap.app/"
+    year_established: 2023
+
+  DUSA:
+    country: Switzerland
+    description: |
+      Dusa the first decentralize exchange on the Massa blockchain is laying the primitives for the first advanced trading,
+      fully decentralized DEX, with automatic DCA, limit orders, trailing stop, and liquidity management.
+    exchange_type: CEX
+    name: Dusa
+    trust_score_rank: 998
+    url: "https://app.dusa.io"
+    year_established: 2022
+
+  EAGLEFI:
+    country: Tunisia
+    description: EagleFi | DEX on Massa 🚀 Swap and Create tokens, provide liquidity & earn fees.
+    exchange_type: CEX
+    name: EagleFi
+    trust_score_rank: 1011
+    url: "https://www.eaglefi.io"
+    year_established: 2025
+
+  EARNBIT:
+    country: Lithuania
+    description: |
+      EarnBIT is an innovative cryptocurrency exchange platform with a unique ecosystem for traders and content creators. It
+      offers a comprehensive suite of tools for safe spot trading, crypto storage, and other financial services, including
+      the first Stellar Launchpad, Staking Pool, and a robust multilevel referral system. The CEX is a foundation for a video
+      streaming service. EarnBIT aims to bridge the gap between trading and streaming communities, enabling users to watch,
+      broadcast, and monetize their content using the proprietary EBT utility token. The Launchpad helps startups kick-start
+      game-changing ideas with smooth onboarding, expert help, supercharged exposure, diverse community-building tools, and
+      smooth payments. The video streaming integration will foster higher engagement, provide new marketing opportunities,
+      and attract a broader user base with features like Trust-based Trading Streamer Leaderboards, AI-based Content
+      Moderation, and Advanced Advertising Models.
+    exchange_type: CEX
+    name: EarnBIT
+    trust_score: 7
+    trust_score_rank: 79
+    url: "https://earnbit.com/"
+    year_established: 2022
+
+  ECXX:
+    country: Singapore
+    description: ''
+    exchange_type: CEX
+    name: Ecxx
+    trust_score: 4
+    trust_score_rank: 602
+    url: "https://www.ecxx.com"
+    year_established: 2018
+
+  ELECTROSWAP%20V3:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: ElectroSwap V3
+    trust_score: 3
+    trust_score_rank: 821
+    url: "https://app.electroswap.io/swap"
+
+  ELEXIUM-FINANCE:
+    country: United Arab Emirates
+    description: |
+      Elexium is a different style of AMM (auto market maker) or DEX (decentralized exchange) that aims to be Alephium's top
+      liquidity arena. As a VE (vote escrow DEX), we use a locked-token governance model to make us the real People's Choice.
+    exchange_type: CEX
+    name: Elexium Finance
+    trust_score_rank: 970
+    url: "https://www.elexium.finance/"
+    year_established: 2024
+
+  EMIREX:
+    country: United Arab Emirates
+    description: |
+      Emirex is a groundbreaking platform that unites an exchange and a marketplace, providing users with the opportunity to
+      exchange various stores of value for digital assets. Our mission is to harness the potential of digital assets and
+      contribute to a world with greater economic freedom through open, fair, and censorship-resistant networks that serve
+      humanity better. Established in Estonia, Emirex has expanded its reach and now offers a professional trading platform
+      that caters to the needs of investors and issuers of digital assets in the Middle East, Africa, Asia, and Europe. Our
+      goal is to facilitate exposure to Middle Eastern wealth and enable the free movement of value around the world,
+      ultimately promoting social welfare. As a European licensed platform, Emirex is uniquely positioned to bridge the gap
+      between East and West. With operations anchored in Estonia and a wider presence in the Czech Republic and Lithuania, we
+      ensure a tailored and localized service for our diverse users. Emirex.ee vs. Emirex.com Emirex operates through two
+      primary domains to cater to the distinct regulatory requirements and preferences of our global user base: 1. Emirex.ee:
+      Rooted in Estonia, this platform stands as a testament to our origins, offering a secure and compliant trading
+      environment under Estonia's, Czech, and Canada's regulatory frameworks. 2. Emirex.com: Our expansive platform,
+      regulated by the authorities of the Czech Republic and Lithuania, is designed to meet the diverse standards and
+      requirements of these jurisdictions. For clarity, any websites or platforms bearing the "Emirex" name or branding
+      outside of these two domains are not affiliated with or endorsed by Emirex. We prioritize the trust and safety of our
+      community and always encourage users to verify domain names for authenticity. Emirex's journey is one of continuous
+      evolution. We pride ourselves on staying abreast of the latest industry developments, ensuring full regulatory
+      compliance, and nurturing an ambitious roadmap for the future. Our team at Emirex is unwaveringly dedicated to
+      proactive engagement with the broader community of traders, investors, issuers, and partners. We firmly believe that
+      our platform's growth and success hinge on the active participation of our diverse ecosystem members. By fostering
+      collaboration, innovation, and transparency, together, we can reshape the digital economy's landscape. Join Emirex as
+      we lead the way in connecting East and West, driven by the transformative power of digital assets and pioneering
+      blockchain technology.
+    exchange_type: CEX
+    name: Emirex
+    trust_score: 6
+    trust_score_rank: 160
+    url: "https://www.emirex.com/"
+    year_established: 2014
+
+  EVERDEX:
+    country: Hong Kong
+    description: |
+      Everdex is a cross-chain Dex utilizing Bifrost Network's cross-chain technology. Assets can be swapped from and to
+      Bifrost Network, Ethereum, BNB Chain, Polygon, Base, and Arbitrum, with more networks to be added soon.
+    exchange_type: CEX
+    name: Everdex
+    trust_score_rank: 959
+    url: "https://www.everdex.app/"
+    year_established: 2023
+
+  EXMO:
+    country: Poland
+    description: |
+      EXMO is a European exchange that supports both crypto-to-crypto and crypto-to-fiat transactions with competitive
+      trading fees. The platform complies with KYC and AML regulations and serves over 2 million users across Europe, Asia,
+      and beyond. EXMO offers a variety of features, including spot trading, the Earn Program for passive income, ready-made
+      Crypto Bundles, and tiered Premium packages that provide fixed Maker and Taker fee discounts from 15% to 100%. The
+      exchange provides a user-friendly experience through its web interface and mobile apps for Android and iOS. API access
+      is also available for advanced trading operations
+    exchange_type: CEX
+    name: EXMO
+    trust_score: 6
+    trust_score_rank: 116
+    url: "https://exmo.com/"
+    year_established: 2014
+
+  FAMEEX:
+    country: Australia
+    description: ''
+    exchange_type: CEX
+    name: FameEX
+    trust_score: 4
+    trust_score_rank: 588
+    url: "https://www.fameex.com/en-US"
+    year_established: 2020
+
+  FASTEX:
+    country: Lithuania
+    description: ''
+    exchange_type: CEX
+    name: Fastex
+    trust_score: 6
+    trust_score_rank: 109
+    url: "https://exchange.fastex.com/"
+    year_established: 2022
+
+  FERRO PROTOCOL:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Ferro Protocol
+    trust_score_rank: 929
+    url: "https://ferroprotocol.com/"
+    year_established: 2022
+
+  FIGURE MARKETS:
+    country: United States
+    description: ''
+    exchange_type: CEX
+    name: Figure Markets
+    trust_score: 6
+    trust_score_rank: 174
+    url: "https://www.figuremarkets.com/"
+    year_established: 2018
+
+  FLATQUBE:
+    country: ''
+    description: |
+      FlatQube DEX, developed by Broxus, is a decentralized digital asset exchange providing users with a convenient means of
+      exchanging their cryptocurrency. The DEX also provides users with plenty of passive income options through its farming
+      and staking mechanisms. Its underlying network, Everscale, is making decentralized finance (DeFi) an affordable yet
+      inclusive space for all.
+    exchange_type: CEX
+    name: FlatQube
+    trust_score_rank: 988
+    url: "https://flatqube.io/"
+    year_established: 2022
+
+  FLUID:
+    country: British Virgin Islands
+    description: ''
+    exchange_type: CEX
+    name: Fluid (Ethereum)
+    trust_score: 6
+    trust_score_rank: 97
+    url: "https://fluid.io/"
+    year_established: 2024
+
+  FOXBIT:
+    country: Brazil
+    description: ''
+    exchange_type: CEX
+    name: Foxbit
+    trust_score: 7
+    trust_score_rank: 78
+    url: "https://foxbit.com.br/"
+    year_established: 2014
+
+  FREIEXCHANGE:
+    country: Norway
+    description: ''
+    exchange_type: CEX
+    name: Freiexchange
+    trust_score: 3
+    trust_score_rank: 759
+    url: "https://freiexchange.com/"
+    year_established: 2016
+
+  FUSION-AMM:
+    country: Panama
+    description: Fusion AMM - Onchain limit orders meet concentrated liquidity. Built by DefiTuna.
+    exchange_type: CEX
+    name: DefiTuna
+    trust_score: 6
+    trust_score_rank: 114
+    url: "https://defituna.com/trade?pool=AXB9KoFBT4ZxJgc4bHMYDgSkxjox6JuL3bbLBeL8LdSJ"
+    year_established: 2025
+
+  GARUDA DEFI:
+    country: Indonesia
+    description: |
+      Garuda DeFi is an automated market maker (AMM) built on the Terra Classic blockchain which enables factory token,
+      permissionless pool creation, staking token and farms for earning yield.
+    exchange_type: CEX
+    name: Garuda DeFi
+    trust_score_rank: 1008
+    url: "https://garuda-defi.org/"
+    year_established: 2025
+
+  GATE:
+    country: Panama
+    description: |
+      Established in 2013, Gate is a cryptocurrency exchange platform with over 23 million users across more than 130
+      countries. It supports spot, futures, margin trading, and wealth management products for over 3,900 cryptocurrencies.
+      As of May 8, 2025, Gate reports a 24-hour spot trading volume that ranks second globally. The platform uses
+      zero-knowledge technology to verify user asset holdings. As of June 2025, the total value of Gate’s reserves stands at
+      $10.453 billion, covering over 350 types of user assets, with a total reserve ratio of 123.09% and an excess reserve of
+      $1.96 billion. Gate entities have obtained regulatory licenses or approvals in jurisdictions including Lithuania,
+      Argentina, Malta, Italy, Gibraltar, Bahamas, and Hong Kong. In 2024, Gate Group acquired the Japan-licensed exchange
+      Coin Master. Most recently, Gate Technology FZE ("Gate Dubai") received a full operational license from the Virtual
+      Assets Regulatory Authority (VARA) in Dubai.
+    exchange_type: CEX
+    name: Gate
+    trust_score: 10
+    trust_score_rank: 2
+    url: "https://www.gate.com"
+    year_established: 2013
+
+  GATE US:
+    country: United States
+    description: |
+      Gate US is a regulated cryptocurrency exchange serving U.S. customers with secure, compliant, and user-friendly access
+      to digital asset trading. We support a broad range of cryptocurrencies and provide advanced trading features for both
+      retail and institutional users.
+    exchange_type: CEX
+    name: Gate US
+    trust_score: 6
+    trust_score_rank: 209
+    url: "https://www.gate.com/en-us"
+    year_established: 2020
+
+  GDAX:
+    country: United States
+    description: |
+      A leading U.S.-based exchange known for its regulatory compliance, user-friendly interface, and support for
+      fiat-to-crypto transactions.
+    exchange_type: CEX
+    name: Coinbase Exchange
+    trust_score: 10
+    trust_score_rank: 7
+    url: "https://www.coinbase.com/"
+    year_established: 2012
+
+  GEMINI:
+    country: United States
+    description: |
+      Gemini is a regulated cryptocurrency exchange founded by Cameron and Tyler Winklevoss, allowing users to buy, sell, and
+      securely store cryptocurrencies. Known for its strong emphasis on security and compliance, Gemini also offers features
+      like its own stablecoin, the Gemini dollar, and a tiered service catering to both casual investors and professional
+      traders.
+    exchange_type: CEX
+    name: Gemini
+    trust_score: 9
+    trust_score_rank: 17
+    url: "https://www.gemini.com/"
+    year_established: 2014
+
+  GIOTTUS:
+    country: India
+    description: |
+      Giottus, with over a million users, is a customer-centric, all-in-one crypto investment platform that is changing the
+      way Indian investors trade their virtual digital assets. Giottus has a top-tier customer support on par with the
+      world’s best exchanges. Giottus aims to shed barriers that arise from the complexity of the asset class and the need to
+      transact in English. It focuses on building a simplified platform that is vernacular at heart. Investors can buy and
+      sell crypto assets on Giottus in multiple languages including Hindi, Tamil, Telugu, and Bengali. Giottus is currently
+      India’s top-rated crypto platform as per consumer ratings on Facebook, Google, and Trustpilot. Key product features
+      include: • Trade in 200+ crypto pairs • Spot Exchange: Most liquid exchange in India with key focus on INR pairs •
+      Instant One-Click Buy/Sell: Most preferred feature by beginners
+    exchange_type: CEX
+    name: Giottus
+    trust_score: 3
+    trust_score_rank: 753
+    url: "https://www.giottus.com/"
+    year_established: 2018
+
+  GMO JAPAN:
+    country: Japan
+    description: ''
+    exchange_type: CEX
+    name: GMO Japan
+    trust_score: 6
+    trust_score_rank: 125
+    url: "https://coin.z.com/jp/"
+    year_established: 2017
+
+  GOPAX:
+    country: South Korea
+    description: ''
+    exchange_type: CEX
+    name: GoPax
+    trust_score: 3
+    trust_score_rank: 737
+    url: "https://www.gopax.co.kr/exchange/"
+    year_established: 2016
+
+  GROVEX:
+    country: Australia
+    description: |
+      GroveX is a cutting-edge cryptocurrency exchange registered in Australia designed to set new standards in the digital
+      currency exchange world. With a vision to simplify and enhance the trading experience for beginners and seasoned
+      traders, GroveX combines many features, focusing on diversity, efficiency, security, and user privacy. Extensive
+      Trading Pairs and Chain Support: GroveX offers an array of trading pairs, catering to various trading preferences and
+      strategies. Additionally, the platform supports over ten different blockchain networks, facilitating smooth and
+      versatile transactions across multiple ecosystems. High-Speed Transactions and Low Fees: Speed and cost-efficiency are
+      paramount in the fast-paced world of cryptocurrency trading. GroveX excels in both, offering high-speed transactions
+      and boasting the lowest trading fees in the industry, pegged at just 0.1%. This makes it a beautiful platform for
+      traders aiming to maximize their returns. Uncompromised Security: At GroveX, the safety of user funds is of the utmost
+      importance. The platform employs state-of-the-art security measures to protect users' assets, offering peace of mind in
+      an industry plagued by security concerns. This commitment to security ensures that traders can operate confidently,
+      knowing their investments are well protected. Privacy-Oriented Approach with No-KYC Policy: Respecting the growing
+      demand for privacy, GroveX implements a no-KYC (Know Your Customer) policy for crypto-to-crypto trades for up to $10K
+      US in withdrawal or deposit, plus any fiat to crypto and crypto to fiat require KYC. This approach streamlines the
+      trading process, allowing quicker and more private transactions without extensive personal verification. Future-Ready
+      Design: GroveX is not just built for today's market but is designed with the future in mind. The platform's
+      architecture considers upcoming developments in the crypto space, ensuring it remains at the forefront of technology
+      and user needs.
+    exchange_type: CEX
+    name: GroveX
+    trust_score: 6
+    trust_score_rank: 88
+    url: "https://GroveX.io"
+    year_established: 2022
+
+  HALO TRADE:
+    country: British Virgin Islands
+    description: ''
+    exchange_type: CEX
+    name: AuraSwap
+    trust_score_rank: 1010
+    url: "https://auraswap.io"
+    year_established: 2023
+
+  HASHKEY EXCHANGE:
+    country: Hong Kong
+    description: |
+      On a mission to set the bar for virtual asset exchanges in compliance, safety, and security, Hash Blockchain Limited
+      (HashKey Exchange) is Hong Kong's first licensed virtual asset exchange for retail users. HashKey Exchange has recently
+      received approval from the Securities and Futures Commission (SFC) of Hong Kong to operate a virtual asset trading
+      platform under Type 1 (Dealing in securities) licence and Type 7 (Providing automated trading services) licence. As
+      HashKey Group's exchange business, HashKey Exchange provides all-in-one trading services for both professional
+      investors (PI) and retail investors. HashKey Exchange has obtained ISO 27001 (Information Security) and ISO 27701 (Data
+      Privacy) management system certifications.
+    exchange_type: CEX
+    name: HashKey Exchange
+    trust_score: 9
+    trust_score_rank: 16
+    url: "https://www.hashkey.com/"
+    year_established: 2018
+
+  HASHKEY-GLOBAL:
+    country: Bermuda
+    description: |
+      HashKey Global is the flagship digital asset exchange under HashKey Group, offering licensed digital asset trading
+      services to global users. HashKey Global is licensed in under the Bermuda Monetary Authority's full Digital Asset
+      Business investor protection regime under a Class F Full License. HashKey Global adopts the compliance, security, and
+      audit best practices of HashKey Exchange (the largest licensed digital asset exchange in Hong Kong), with features such
+      as asset segregation, information security controls, insurance, independent auditing, and payments settlement. HashKey
+      Global has a compliant listing system and will offer mainstream trading services like LaunchPad, futures, leverage and
+      staking. HashKey Global is the core of HashKey Group's global licensed exchange landscape. Note: HashKey Global does
+      not conduct business in the United States, mainland China, Hong Kong, and certain sanctioned countries. For more
+      details :global.hashkey.com
+    exchange_type: CEX
+    name: HashKey Global
+    trust_score: 8
+    trust_score_rank: 49
+    url: "https://global.hashkey.com/"
+    year_established: 2018
+
+  HATA:
+    country: Malaysia
+    description: |
+      Hata is a dual-licensed digital asset exchange established in 2023. The exchange operates two platforms - Hata Malaysia
+      and Hata Global. On Hata Malaysia, users are able to trade crypto using MYR through a licensed platform. On the other
+      hand, Hata Global welcomes worldwide users where the exchange supports USD/crypto pairs.
+    exchange_type: CEX
+    name: Hata
+    trust_score: 5
+    trust_score_rank: 366
+    url: "https://hata.io/home"
+    year_established: 2023
+
+  HBARSUITE-DEX:
+    country: Unknown or Invalid Region
+    description: ''
+    exchange_type: CEX
+    name: Silk Suite
+    trust_score_rank: 957
+    url: "https://silksuite.app/"
+    year_established: 2022
+
+  HIBT:
+    country: Canada
+    description: |
+      Hibt is a digital asset trading service platform registered in Canada in 2021. It is committed to providing convenient,
+      safe and reliable services to crypto asset investors.
+    exchange_type: CEX
+    name: Hibt
+    trust_score: 7
+    trust_score_rank: 56
+    url: "https://hibt.com/"
+    year_established: 2021
+
+  HITBTC:
+    country: British Virgin Islands
+    description: |
+      HitBTC is the world’s most advanced cryptocurrency exchange. Since 2013, HitBTC has been providing markets for Bitcoin,
+      Ethereum, Litecoin, Dogecoin, Monero, USDT, and more than 300 cryptocurrencies in total. Created by outstanding
+      technical minds, high-level finance professionals and experienced traders, HitBTC delivers the most reliable, fast and
+      powerful platform solution on the market. The platform has earned its reputation for fault-tolerance, flawless uptime
+      and high availability. Its core matching engine is among the best technological products in its class, offering traders
+      a wide range of features such as real-time clearing and cutting-edge order matching algorithms. Key Features: Rebate
+      system - attractive to the most powerful market makers, creating high liquidity No limits on the deposit or withdrawal
+      of digital assets Cutting-edge matching engine technologies Wide range of available instruments (more than 500) The
+      most advanced API on the market (REST API and FIX API) Access to the crypto assets exchange platform technology under
+      the registered trademark “HitBTC” is provided in accordance with the Terms of Service.
+    exchange_type: CEX
+    name: HitBTC
+    trust_score: 4
+    trust_score_rank: 592
+    url: "https://hitbtc.com/"
+    year_established: 2013
+
+  HOTCOIN GLOBAL:
+    country: Seychelles
+    description: |
+      Operating out of Australia, Hotcoin Global is a digital asset trading platform. The obtained two different licenses to
+      conduct its operations from AUSTRAC: digital currency trading and foreign currencies exchange. As of 2022, the
+      centralized cryptocurrency exchange (CEX) had an estimated 5 million active users, with its daily transaction volume
+      reaching billions of dollars.
+    exchange_type: CEX
+    name: Hotcoin
+    trust_score: 7
+    trust_score_rank: 50
+    url: "https://www.hotcoin.com"
+    year_established: 2017
+
+  HOWSWAP:
+    country: ''
+    description: |
+      HowSwap is the decentralized exchange of the Howinu (HOW) coin. HowSwap enables users to provide liquidity and swap
+      different tokens while earning its governance token HCAT.Howswap is a decentralized exchange for swapping BEP20 tokens
+      on Binance Smart Chain.Howswap uses an automated market maker (AMM) model where users trade against a liquidity pool.
+      Such pools are filled with users’ funds. They deposit them into the pool, receiving liquidity provider (or LP) tokens
+      in return. They can use those tokens to reclaim their share, plus a portion of the trading fees.
+    exchange_type: CEX
+    name: HowSwap
+    trust_score: 3
+    trust_score_rank: 847
+    url: "https://howswap.com"
+    year_established: 2024
+
+  HUOBI:
+    country: Seychelles
+    description: |
+      HTX (previously Huobi) is a leading cryptocurrency exchange recognized for its strong security measures and a wide
+      range of trading options. With a user-friendly interface and high liquidity, it caters to both novice and experienced
+      traders while offering various incentives like staking and referral programs.
+    exchange_type: CEX
+    name: HTX
+    trust_score: 9
+    trust_score_rank: 10
+    url: "https://www.huobi.com"
+    year_established: 2013
+
+  HUOBI JAPAN:
+    country: Japan
+    description: ''
+    exchange_type: CEX
+    name: BitTrade
+    trust_score: 6
+    trust_score_rank: 158
+    url: "https://www.bittrade.co.jp/"
+    year_established: 2016
+
+  HYDRA:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Hydra DEX
+    trust_score_rank: 1007
+    url: "https://hydradex.org/#/swap"
+    year_established: 2023
+
+  HYDRADX:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Hydration
+    trust_score_rank: 923
+    url: "https://hydradx.io/"
+    year_established: 2020
+
+  HYPERLIQUID-SPOT:
+    country: Cayman Islands
+    description: The decentralized spot exchange on the Hyperliquid L1.
+    exchange_type: CEX
+    name: Hyperliquid
+    trust_score: 6
+    trust_score_rank: 99
+    url: "https://hyperfoundation.org/"
+    year_established: 2024
+
+  ICDEX:
+    country: Singapore
+    description: ICDex is a fully on-chain order book DEX project built on the IC blockchain.
+    exchange_type: CEX
+    name: ICDex
+    trust_score_rank: 982
+    url: "https://iclight.io"
+    year_established: 2021
+
+  ICRYPEX:
+    country: Turkey
+    description: |
+      Welcome to ICRYPEX - where the future of finance is being reimagined through cutting-edge cryptocurrency and digital
+      asset solutions. Since our inception in Istanbul in 2018, we have swiftly risen to become Turkey's leading corporate
+      cryptocurrency exchange, serving millions of users, and now set to expand our global footprint. Holding a VASP license
+      in two European Union countries and facilitating EUR, USD, TRY, RUB transfers, and more, ICRYPEX stands at the
+      forefront of the crypto revolution, fostering innovation, accessibility, and trust. Our foundation rests on innovation
+      and financial responsibility, guiding us to provide a seamless, user-friendly experience while upholding complete
+      transparency. With a robust product range, lightning-fast transactions, and competitively low commissions, ICRYPEX
+      offers a global platform that confidently empowers users to explore the exciting world of digital assets. At ICRYPEX,
+      we believe in fostering well-informed trades, and in supporting this, we've gathered a team of cryptocurrency experts
+      ready to assist you at any hour. Our commitment to round-the-clock customer support ensures you'll never face the
+      crypto journey alone. But we're more than just an exchange. ICRYPEX takes pride in giving back to society. We
+      passionately support sports, nurture young athletes, promote education, and raise financial literacy levels, making a
+      meaningful impact on the lives of many. Trust in Crypto. Speed in Crypto. Transparency in Crypto. Accessibility in
+      Crypto. This is what defines ICRYPEX - where rich opportunities await. As Turkey's premier corporate cryptocurrency
+      exchange, ICRYPEX is built on a foundation of secure, fast, and reliable trading capabilities, elevating your
+      investment experience to unparalleled heights. Our commitment to global accessibility is evident in our self-managed
+      order books, nodes, and trading and matching engines. We've tailored our platform to host a diverse range of
+      cryptocurrencies, over 168 pairs, from established players like Bitcoin, Ethereum, and Ripple, to ARB, APT, ChainLink,
+      and AVAX. At ICRYPEX, we believe in personalized service. That's why we stand as Turkey's pioneering exchange with
+      dedicated customer representatives available 24/7. Our goal is to make your journey seamless, whether you're a seasoned
+      investor or just taking your first steps into the crypto realm. We are driven by the promise of Web 3.0, seeking to
+      empower Turkey's presence in the blockchain universe. With a firm belief in local talent and Turkish capital, we've
+      crafted an infrastructure that's secure, transparent, and fast - all from day one. ICRYPEX's unwavering commitment to
+      effective communication is showcased in our 24/7 support and transparent auditing practices. As a forward-thinking
+      industry leader, we continually invest in research and development to advance the Turkish cryptocurrency ecosystem and
+      raise blockchain technology awareness throughout the nation. But our vision doesn't stop at Turkey's borders. ICRYPEX
+      is expanding its global reach, catering to clients of all sizes and locations. From large corporations to small and
+      medium-sized businesses, our platform is designed to meet diverse needs. We offer a customizable white-label solution,
+      allowing large corporations to tailor the platform to their own branding and requirements. At ICRYPEX, we combine
+      cutting-edge technology with a customer-centric approach, redefining the cryptocurrency trading experience. So come,
+      step into the future of finance, where endless possibilities await. Join us at ICRYPEX, the frontier of innovation in
+      the world of digital assets.
+    exchange_type: CEX
+    name: Icrypex
+    trust_score: 6
+    trust_score_rank: 92
+    url: "https://www.icrypex.com/en"
+    year_established: 2018
+
+  INCREMENT SWAP:
+    country: British Virgin Islands
+    description: |
+      Increment Swap the 1st and best decentralized exchange & dex-aggregator on Flow blockchain, offering the widest range
+      of tokens and best route discovery between any token pair.
+    exchange_type: CEX
+    name: Increment Swap
+    trust_score_rank: 1035
+    url: "https://app.increment.fi/swap?"
+    year_established: 2022
+
+  INDEPENDENT RESERVE:
+    country: Australia
+    description: ''
+    exchange_type: CEX
+    name: Independent Reserve
+    trust_score: 6
+    trust_score_rank: 161
+    url: "https://www.independentreserve.com/"
+    year_established: 2013
+
+  INDODAX:
+    country: Indonesia
+    description: ''
+    exchange_type: CEX
+    name: Indodax
+    trust_score: 8
+    trust_score_rank: 40
+    url: "https://indodax.com"
+    year_established: 2014
+
+  INEX:
+    country: South Korea
+    description: |
+      INEX is a newly launched cryptocurrency exchange in South Korea. After a two-year hiatus, it successfully completed its
+      registration as a Virtual Asset Service Provider (VASP) on October 15, 2024, and officially launched on December X,
+      2024. The platform offers a secure trading environment with an Anti-Money Laundering (AML) system, preliminary
+      certification for Information Security Management System (ISMS), and integration with a travel rule solution.
+    exchange_type: CEX
+    name: INEX
+    trust_score: 5
+    trust_score_rank: 319
+    url: "https://www.inexcoin.com/"
+    year_established: 2022
+
+  INJECTIVE:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Helix
+    trust_score: 4
+    trust_score_rank: 614
+    url: "https://helixapp.com"
+    year_established: 2022
+
+  INVARIANT ECLIPSE:
+    country: Poland
+    description: The multichain AMM DEX with concentrated liquidity build on SVM
+    exchange_type: CEX
+    name: Invariant (Eclipse)
+    trust_score: 6
+    trust_score_rank: 221
+    url: "https://eclipse.invariant.app"
+    year_established: 2021
+
+  INX ONE:
+    country: United States
+    description: ''
+    exchange_type: CEX
+    name: INX One
+    trust_score: 6
+    trust_score_rank: 219
+    url: "https://www.inx.co/"
+    year_established: 2020
+
+  ITBIT:
+    country: United States
+    description: ''
+    exchange_type: CEX
+    name: itBit
+    trust_score: 6
+    trust_score_rank: 144
+    url: "https://www.itbit.com/"
+    year_established: 2013
+
+  IZISWAP ZKSYNC:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: iZiSwap (zkSync)
+    trust_score_rank: 978
+    url: "https://izumi.finance/"
+    year_established: 2023
+
+  KANGA:
+    country: Belize
+    description: ''
+    exchange_type: CEX
+    name: Kanga
+    trust_score: 5
+    trust_score_rank: 254
+    url: "https://kanga.exchange/"
+    year_established: 2018
+
+  KARURA SWAP:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Karura Swap
+    trust_score_rank: 972
+    url: "http://apps.karura.network/swap"
+    year_established: 2021
+
+  KCEX:
+    country: Seychelles
+    description: |
+      Founded in 2021, KCEX upholds the core values of “Users First, Security Above All.” The exchange strives to deliver
+      reliable service, competitive fees, and a broad range of cryptocurrencies. Users can trade spot and futures with zero
+      trading fees, zero withdrawal fees, and access more than 1,000 spot pairs and 500 futures pairs. The KCEX team
+      comprises professionals from blockchain and finance fields, boasting extensive experience and technical expertise to
+      ensure platform stability and security. The KCEX contract platform supports perpetual contracts for multiple mainstream
+      cryptocurrencies, such as BTC and ETH, enabling users to participate flexibly in the market and pursue higher returns.
+      We are committed to continuously expanding contract offerings to meet the needs of various investors. Our vision is to
+      enable everyone to easily participate in the digital economy and enjoy the opportunities and value brought by digital
+      assets.
+    exchange_type: CEX
+    name: KCEX
+    trust_score: 7
+    trust_score_rank: 51
+    url: "https://kcex.com/"
+    year_established: 2021
+
+  KINESIS MONEY:
+    country: Cayman Islands
+    description: |
+      Kinesis is a global cryptocurrency exchange and utility platform that offers native real-world assets, sustainable
+      yields, and the native stablecoin USD1, the third-largest USD-backed stablecoin by market capitalisation. Through
+      redistributing a 57.5% share of global transaction fee revenue back to users, Kinesis offers a monthly yield on its
+      native real-world assets - gold (KAU) and silver (KAG) - with no requirement to stake or lock up assets. See our
+      bi-annual physical audits. As all yields are derived from fee-generated revenue, Kinesis is the birthplace of
+      sustainable yields. The Kinesis platform offers USD1: a 1:1 USD-backed stablecoin with $12B in liquidity and
+      attestations of reserves published monthly. Additionally, Kinesis makes native real-world assets - and cryptocurrency -
+      globally accessible for everyday payments via the Kinesis card program.
+    exchange_type: CEX
+    name: Kinesis Money
+    trust_score: 6
+    trust_score_rank: 143
+    url: "https://kinesis.money/"
+    year_established: 2018
+
+  KLEVER EXCHANGE:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Bitcoin.me
+    trust_score: 6
+    trust_score_rank: 227
+    url: "https://bitcoin.me"
+    year_established: 2021
+
+  KOINBAZAR:
+    country: India
+    description: A global cryptocurrency exchange to buy, sell and trade cryptocurrencies anytime, anywhere.
+    exchange_type: CEX
+    name: KoinBX
+    trust_score: 3
+    trust_score_rank: 731
+    url: "https://koinbx.com/coin-list"
+    year_established: 2020
+
+  KOINPARK:
+    country: India
+    description: |
+      Koinpark Founded in 2023 - Global Bitcoin & Cryptocurrency Exchange that assists traders to buy, Sell & Trade Bitcoin
+      (BTC), Ethereum (ETH), Tether (USDT), Ripple (XRP), and more cryptocurrencies. Our mission has always been to improve
+      the trading experience for all crypto fans worldwide using a methodology that is more simple and more secure. We are
+      dedicated to creating a highly safe, stable, and effective cryptocurrency exchange for users everywhere, and we do this
+      with the help of our unique trade matching algorithm and first-rate user experience.
+    exchange_type: CEX
+    name: Koinpark
+    trust_score: 5
+    trust_score_rank: 249
+    url: "https://www.koinpark.com/"
+    year_established: 2023
+
+  KOMODO WALLET:
+    country: Netherlands
+    description: |
+      Komodo Wallet is a multi-coin wallet, bridge, and DEX rolled into one app. Atomic swaps are designed such that both
+      traders either receive the funds they desire, or nothing happens at all and both traders retain the funds they started
+      with.
+    exchange_type: CEX
+    name: Komodo Wallet
+    trust_score: 1
+    trust_score_rank: 907
+    url: "https://atomicdex.io/en/"
+    year_established: 2019
+
+  KORBIT:
+    country: South Korea
+    description: ''
+    exchange_type: CEX
+    name: Korbit
+    trust_score: 7
+    trust_score_rank: 76
+    url: "https://www.korbit.co.kr/"
+    year_established: 2013
+
+  KRAKEN:
+    country: United States
+    description: |
+      Kraken is a San Francisco-based cryptocurrency exchange, offering a wide range of trading services for various
+      cryptocurrencies and known for its robust security and regulatory compliance efforts.
+    exchange_type: CEX
+    name: Kraken
+    trust_score: 10
+    trust_score_rank: 8
+    url: "https://www.kraken.com/"
+    year_established: 2011
+
+  KUCOIN:
+    country: ''
+    description: |
+      As a user-oriented platform with a focus on inclusiveness and community action reach, it offers over 1,000 digital
+      assets and currently provides Spot trading, Margin trading, P2P Fiat trading, Futures trading, Staking, and Lending to
+      its 41 million users in more than 200 countries and regions. KuCoin is currently one of the top 5 crypto exchanges.
+      KuCoin’s dedication to excellence has garnered prestigious recognitions, such as being named among Forbes’ "Best Crypto
+      Apps & Exchanges" and one of the "Top 50 Global Unicorns" by Hurun in 2024. KuCoin has successfully achieved SOC 2 Type
+      II and ISO 27001:2022 Certifications, which provides a structured approach to managing information security, covering
+      aspects like risk management, access control, data governance, and incident response. Learn more at
+      https://www.kucoin.com.
+    exchange_type: CEX
+    name: KuCoin
+    trust_score: 9
+    trust_score_rank: 9
+    url: "https://www.kucoin.com/"
+    year_established: 2017
+
+  KUMEX:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: KuCoin Futures
+    url: "https://futures.kucoin.com/trade"
+    year_established: 2019
+
+  LATOKEN:
+    country: Cayman Islands
+    description: |
+      LATOKEN is a cryptocurrency exchange, recognized as a leading platform for Initial Exchange Offerings (IEOs).
+    exchange_type: CEX
+    name: LATOKEN
+    trust_score: 6
+    trust_score_rank: 102
+    url: "https://latoken.com/"
+    year_established: 2017
+
+  LBANK:
+    country: British Virgin Islands
+    description: |
+      LBank is a globally based centralized exchange (CEX) platform established in 2015. The platform allows users to buy and
+      sell major crypto assets like Bitcoin (BTC) and Ethereum (ETH) in over 113 fiat currencies, with over 55 payment
+      methods. The company has licenses from the National Futures Association, Italian Organismo degli Agenti e dei
+      Mediatori, and money services businesses in the United States & Canada. The LBank exchange has over 12 million users
+      and accepts clients from over 210+ countries and regions. LBank Exchange provides its users with crypto trading,
+      specialized financial derivatives, and professional asset management services.
+    exchange_type: CEX
+    name: LBank
+    trust_score: 8
+    trust_score_rank: 23
+    url: "https://www.lbank.com"
+    year_established: 2015
+
+  LCX:
+    country: Liechtenstein
+    description: |
+      The LCX Exchange Is a Regulated Trading Venue Offering a Range of Digital Currencies. LCX aims to build the new
+      infrastructure for digital finance, focusing on all aspects of compliance and regulation. Investing to build AML and
+      KYC technology solutions at the institutional and consumer level, including on-chain analytics and surveillance for all
+      crypto deposits and withdrawals. LCX is continuously engaging with policy makers, regulators and financial institutions
+      and will routinely participate in financial and security audits, as well as regulatory compliance reviews. In 2020 LCX
+      secured approvals of 8 blockchain registrations with the registration Nr 288159. Allowing LCX to offer the broadest
+      scope of blockchain services – alongside our sophisticated crypto compliance suite.
+    exchange_type: CEX
+    name: LCX Exchange
+    trust_score: 7
+    trust_score_rank: 80
+    url: "https://exchange.lcx.com/"
+    year_established: 2020
+
+  LOCALTRADE:
+    country: Lithuania
+    description: |
+      LocalTrade is a centralized crypto exchange with Ukrainian roots. We are the place where stories of successful projects
+      and professional traders begin! Our aim is to make crypto products simple enough to be accessible even to people who
+      use crypto for the first time in their life. At the same time, we make sure to include advanced features for the
+      delight of the crypto-connoisseur audience.
+    exchange_type: CEX
+    name: LocalTrade
+    trust_score: 4
+    trust_score_rank: 595
+    url: "https://localtrade.cc/"
+    year_established: 2017
+
+  LOOPRING AMM:
+    country: China
+    description: |
+      Launched in February 2020, Loopring Exchange describes itself as is the first zkRollup DEX on Ethereum, built atop the
+      Loopring Protocol. The exchange is operated by the Loopring team (which is distributed across China, Belgium, Canada,
+      and the US). It supports the non-custodial trading of ETH and ERC20 tokens. Leveraging zkRollup tech, Loopring Exchange
+      is capable of settling over 2,000 trades per second at a cost as low as $0.0001, without sacrificing 100% Ethereum
+      security guarantees. It claims to be the most scalable DEX on Ethereum. Loopring is an open protocol for scalable
+      non-custodial exchanges on Ethereum. For more details, please see:
+      https://medium.com/loopring-protocol/looprings-zkrollup-amm-is-live-2f8251cd0fcd
+    exchange_type: CEX
+    name: Loopring AMM
+    trust_score_rank: 954
+    url: "https://exchange.loopring.io/"
+    year_established: 2020
+
+  LUNO:
+    country: Singapore
+    description: |
+      Luno is a cryptocurrency exchange and wallet service, focused on facilitating the adoption of cryptocurrencies like
+      Bitcoin and Ethereum. With a user-friendly platform and strong security measures, Luno also offers educational
+      resources to help beginners navigate the crypto landscape.
+    exchange_type: CEX
+    name: Luno
+    trust_score: 8
+    trust_score_rank: 44
+    url: "https://www.luno.com"
+    year_established: 2013
+
+  MAGIC EDEN RUNES:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Magic Eden (Runes)
+    trust_score_rank: 942
+    url: "https://magiceden.io/runes"
+    year_established: 2022
+
+  MAGICSEA-V2-1-IOTA-EVM:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: MagicSea V2.1 (Iota EVM)
+    trust_score: 4
+    trust_score_rank: 623
+    url: "https://app.magicsea.finance/swap"
+    year_established: 2024
+
+  MAIAR:
+    country: ''
+    description: |
+      The Maiar Decentralized Exchange (DEX) is the Automated Market Maker (AMM), rearchitecting some of the key elements to
+      build a product that can leverage the entire performance of the Elrond architecture, to offer global, near-instant,
+      inexpensive transactions among an expanding suite of assets. The essence of current versions of automated market makers
+      is best expressed through the constant product equation: x * y = k Based on it, if a swap pool owns some units of token
+      x and some units of token y, it prices trades so that the quantities of x and y resulting after the trade, when
+      multiplied, are equal to a fixed constant, k. But current AMM performance could be significantly improved by rebuilding
+      them on vastly more scalable architectures. By reimagining an automated market maker on top of a highly scalable
+      architecture that is high bandwidth, low latency, and inexpensive, the performance of the swap processes can be
+      drastically improved. With significantly better performance, the scope of AMMs can be rapidly expanded, giving birth to
+      new mark
+    exchange_type: CEX
+    name: xExchange
+    trust_score: 4
+    trust_score_rank: 624
+    url: "https://xexchange.com/"
+    year_established: 2021
+
+  MANIFEST:
+    country: Unknown or Invalid Region
+    description: The Unlimited Orderbook
+    exchange_type: CEX
+    name: Manifest
+    trust_score_rank: 928
+    url: "https://www.manifest.trade/"
+    year_established: 2024
+
+  MAVERICK PROTOCOL:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Maverick Protocol V1 (Ethereum)
+    trust_score: 3
+    trust_score_rank: 733
+    url: "https://app-v1.mav.xyz/?chain=1"
+    year_established: 2023
+
+  MAVERICK PROTOCOL BASE:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Maverick Protocol V1 (Base)
+    trust_score_rank: 926
+    url: "https://app-v1.mav.xyz/?chain=8453"
+    year_established: 2023
+
+  MAVERICK PROTOCOL BSC:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Maverick Protocol V1 (BSC)
+    trust_score_rank: 1004
+    url: "https://app-v1.mav.xyz/?chain=56"
+    year_established: 2023
+
+  MAVERICK PROTOCOL ZKSYNC:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Maverick Protocol V1 (zkSync)
+    trust_score_rank: 946
+    url: "https://app-v1.mav.xyz/?chain=324"
+    year_established: 2023
+
+  MAVERICK-PROTOCOL-SCROLL:
+    country: Singapore
+    description: |
+      Maverick Protocol is DeFi’s Liquidity Operating System, offering one-stop liquidity solutions for token projects,
+      liquidity providers, and blockchain ecosystems to bootstrap efficient markets with optimized liquidity and reduced
+      budget spending.
+    exchange_type: CEX
+    name: Maverick Protocol V2 (Scroll)
+    trust_score_rank: 991
+    url: "https://app.mav.xyz/?chain=534352"
+    year_established: 2021
+
+  MAVERICK-PROTOCOL-V2-ARBITRUM:
+    country: Singapore
+    description: |
+      Maverick Protocol is DeFi’s Liquidity Operating System, offering one-stop liquidity solutions for token projects,
+      liquidity providers, and blockchain ecosystems to bootstrap efficient markets with optimized liquidity and reduced
+      budget spending.
+    exchange_type: CEX
+    name: Maverick Protocol V2 (Arbitrum)
+    trust_score: 5
+    trust_score_rank: 305
+    url: "https://app.mav.xyz/?chain=42161"
+    year_established: 2021
+
+  MAVERICK-PROTOCOL-V2-BASE:
+    country: Singapore
+    description: |
+      Maverick Protocol is DeFi’s Liquidity Operating System, offering one-stop liquidity solutions for token projects,
+      liquidity providers, and blockchain ecosystems to bootstrap efficient markets with optimized liquidity and reduced
+      budget spending.
+    exchange_type: CEX
+    name: Maverick Protocol V2 (Base)
+    trust_score: 6
+    trust_score_rank: 179
+    url: "https://app.mav.xyz/?chain=8453"
+    year_established: 2021
+
+  MAVERICK-PROTOCOL-V2-BSC:
+    country: Singapore
+    description: |
+      Maverick Protocol is DeFi’s Liquidity Operating System, offering one-stop liquidity solutions for token projects,
+      liquidity providers, and blockchain ecosystems to bootstrap efficient markets with optimized liquidity and reduced
+      budget spending.
+    exchange_type: CEX
+    name: Maverick Protocol V2 (BSC)
+    trust_score: 3
+    trust_score_rank: 848
+    url: "https://app.mav.xyz/?chain=56"
+    year_established: 2021
+
+  MAVERICK-PROTOCOL-V2-ETHEREUM:
+    country: Singapore
+    description: |
+      Maverick Protocol is DeFi’s Liquidity Operating System, offering one-stop liquidity solutions for token projects,
+      liquidity providers, and blockchain ecosystems to bootstrap efficient markets with optimized liquidity and reduced
+      budget spending.
+    exchange_type: CEX
+    name: Maverick Protocol V2 (Ethereum)
+    trust_score: 3
+    trust_score_rank: 732
+    url: "https://app.mav.xyz"
+    year_established: 2021
+
+  MAVERICK-PROTOCOL-V2-ZKSYNC-ERA:
+    country: Singapore
+    description: |
+      Maverick Protocol is DeFi’s Liquidity Operating System, offering one-stop liquidity solutions for token projects,
+      liquidity providers, and blockchain ecosystems to bootstrap efficient markets with optimized liquidity and reduced
+      budget spending.
+    exchange_type: CEX
+    name: Maverick Protocol V2 (zkSync Era)
+    trust_score: 5
+    trust_score_rank: 452
+    url: "https://app.mav.xyz/?chain=324"
+    year_established: 2021
+
+  MAX MAICOIN:
+    country: Taiwan
+    description: ''
+    exchange_type: CEX
+    name: Max Maicoin
+    trust_score: 7
+    trust_score_rank: 74
+    url: "https://max.maicoin.com"
+    year_established: 2018
+
+  MAYA-PROTOCOL:
+    country: Unknown or Invalid Region
+    description: Maya Protocol enables cross-chain native swaps with enhanced capital efficiency.
+    exchange_type: CEX
+    name: Maya Protocol
+    trust_score_rank: 938
+    url: "https://www.mayaprotocol.com/"
+    year_established: 2021
+
+  MEGATON-FINANCE:
+    country: South Korea
+    description: |
+      Megaton Finance is the first autonomous financial protocol on the TON network that provides yield farming opportunities
+      such as swaps and yield farms. Moreover, Megaton Finance is not just an AMM mechanism protocol that provides revenue.
+      Megaton Finance will become the gateway to Web 3.0 through continued upgrades and integration with Telegram in the
+      future.
+    exchange_type: CEX
+    name: Megaton Finance
+    trust_score_rank: 1041
+    url: "https://megaton.fi/"
+    year_established: 2023
+
+  MERCADO BITCOIN:
+    country: Brazil
+    description: ''
+    exchange_type: CEX
+    name: Mercado Bitcoin
+    trust_score: 6
+    trust_score_rank: 155
+    url: "https://www.mercadobitcoin.com.br/"
+    year_established: 2013
+
+  METALX:
+    country: United States
+    description: Advanced Decentralized Trading Exchange Powered by XPR Network
+    exchange_type: CEX
+    name: Metal X
+    trust_score: 6
+    trust_score_rank: 185
+    url: "https://metalx.com"
+    year_established: 2023
+
+  MINSWAP:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Minswap
+    trust_score: 6
+    trust_score_rank: 204
+    url: "https://minswap.org/"
+    year_established: 2022
+
+  MUDREX:
+    country: India
+    description: |
+      Mudrex is a global crypto investment platform started in 2018 backed by Y Combinator, Akram Ventures and Nexus Venture
+      Partners
+    exchange_type: CEX
+    name: Mudrex
+    trust_score_rank: 919
+    url: "https://mudrex.com/"
+    year_established: 2018
+
+  MXC:
+    country: Seychelles
+    description: |
+      Established in April 2018, MEXC is one of the world’s leading digital-asset trading platforms. The core team comes from
+      world-class enterprises and financial companies with rich experience in blockchain and financial industries.
+    exchange_type: CEX
+    name: MEXC
+    trust_score: 10
+    trust_score_rank: 3
+    url: "https://www.mexc.com/"
+    year_established: 2018
+
+  MYSWAP-CL:
+    country: Israel
+    description: ''
+    exchange_type: CEX
+    name: mySwap-CL
+    trust_score_rank: 939
+    url: "https://cl.myswap.xyz/"
+    year_established: 2023
+
+  NAMEBASE:
+    country: United States
+    description: ''
+    exchange_type: CEX
+    name: Namebase
+    trust_score_rank: 1027
+    url: "https://www.namebase.io/pro"
+    year_established: 2020
+
+  NAMI EXCHANGE:
+    country: Singapore
+    description: ''
+    exchange_type: CEX
+    name: Nami Exchange
+    trust_score: 7
+    trust_score_rank: 81
+    url: "https://nami.exchange/"
+    year_established: 2017
+
+  NASH:
+    country: Liechtenstein
+    description: |
+      Nash bridges the gap between crypto and your local currency. Our crypto/cash exchange service combines the lowest fees
+      with instant delivery to the safest software wallet. With Nash Link for business, merchants can easily accept crypto
+      from their customers and receive cash. Our digital banking services will seamlessly integrate traditional and
+      decentralized finance (DeFi), with DeFi-powered high-interest savings and a crypto debit card.
+    exchange_type: CEX
+    name: Nash
+    trust_score: 3
+    trust_score_rank: 802
+    url: "https://nash.io"
+    year_established: 2017
+
+  NATIVE:
+    country: Singapore
+    description: |
+      Native is an on-chain platform to build token liquidity that is openly accessible and cost effective.
+    exchange_type: CEX
+    name: Native
+    trust_score: 6
+    trust_score_rank: 110
+    url: "https://native.org"
+    year_established: 2023
+
+  NATIVE-ARBITRUM:
+    country: Singapore
+    description: |
+      Native is an on-chain platform to build token liquidity that is openly accessible and cost effective.
+    exchange_type: CEX
+    name: Native (Arbitrum)
+    trust_score: 5
+    trust_score_rank: 278
+    url: "https://native.org"
+    year_established: 2023
+
+  NATIVE-BASE:
+    country: Singapore
+    description: |
+      Native is an on-chain platform to build token liquidity that is openly accessible and cost effective.
+    exchange_type: CEX
+    name: Native (Base)
+    trust_score: 5
+    trust_score_rank: 270
+    url: "https://native.org"
+    year_established: 2023
+
+  NATIVE-BSC:
+    country: Singapore
+    description: |
+      Native is an on-chain platform to build token liquidity that is openly accessible and cost effective.
+    exchange_type: CEX
+    name: Native (BSC)
+    trust_score: 6
+    trust_score_rank: 133
+    url: "https://native.org"
+    year_established: 2023
+
+  NBX:
+    country: Norway
+    description: |
+      Norwegian Block Exchange (NBX) is a Norwegian company with a customer base throughout the Nordics and beyond. NBX is
+      headquartered in Oslo, Norway, and is registered with the Financial Supervisory Authority of Norway. We build products
+      for the financial infrastructure of the future. Our goal is to make cryptocurrency widely available and let anyone take
+      part in secure, efficient, and user-friendly services based on blockchain technology.
+    exchange_type: CEX
+    name: NBX
+    trust_score: 3
+    trust_score_rank: 749
+    url: "https://nbx.com/"
+    year_established: 2018
+
+  NIZA-GLOBAL:
+    country: Lithuania
+    description: |
+      Niza Global is a crypto exchange and banking platform founded on 2021. It offers a comprehensive range of services
+      merged to meet the needs of cryptocurrency enthusiasts worldwide. We provide users with access to a trusted platform
+      for buying, selling, and trading cryptocurrencies. Additionally, it functions as a banking platform where users can
+      order their dedicated IBAN’s. Send & Receive SEPA/SWIFT transfer. Crypto Card with highest limits for online purchases
+      and ATM withdrawals. Fiat deposits with hundreds of payment methods like SEPA, SWIFT, VISA, Mastercard, Google Pay,
+      Apple Pay etc. Regulated in prominent jurisdictions such as Lithuania, Bulgaria, and Costa Rica. Obtained MSB
+      registration in the U.S.A, Canada. Additionally, the platform works closely with regulators in all markets where it
+      operates to maintain full compliance with regulatory requirements. At the core of Niza Global’ s ecosystem lies the
+      NIZA Coin, which offers users exclusive benefits and privileges within the platform like Staking at 35% APY. Users can
+      also transfer assets between each other with zero fees, and we committed to keeping fees low to ensure users can
+      maximize their investments. With a mobile app available on both the Play Store and the App Store, users can easily
+      access Niza Global from their smartphones, empowering them to manage their investments on the go. Regarding safety,
+      Niza Global prioritizes the security of user assets. Furthermore, Niza Global implements anti-money laundering and
+      counter-terrorism financing measures, including Know Your Customer (KYC) procedures and the reporting of suspicious
+      activity and transactions. Users can have confidence that their investments are safeguarded by Niza Global’ s
+      commitment to security and compliance. In our journey towards building the Niza Ecosystem, we have an extensive roadmap
+      outlining upcoming releases. Among these exciting developments are the Niza Global DEX and Niza Chain. Providing users
+      with enhanced opportunities and capabilities within the crypto space.
+    exchange_type: CEX
+    name: Niza.io
+    trust_score: 3
+    trust_score_rank: 728
+    url: "https://niza.io"
+    year_established: 2021
+
+  NOBLE-SWAPS:
+    country: United States
+    description: Swaps Market (USDC-USDN)
+    exchange_type: CEX
+    name: Noble Swaps
+    trust_score_rank: 940
+    url: "https://dollar.noble.xyz/"
+    year_established: 2025
+
+  NONKYC IO:
+    country: Seychelles
+    description: |
+      About NonKyc.io Founded in 2023, NonKyc.io strives to provide its users with the best trading experience and give small
+      and medium market cap assets a reliable trading hub. Our goal is to maintain a fast and user friendly system while also
+      concentrating on security to keep users, data, and assets safe. Security of our users' data & assets is always our top
+      priority and we are focused on building an easy to use digital asset trading platform for everyone to enjoy. The NonKYC
+      platform system is NOT from some predesigned script package or preexisting codebase. It has been created from the
+      ground up by professional developers who are well experienced in Cryptocurrency. NonKYC has been designed to scale
+      horizontally as we grow to become a top tier exchange.
+    exchange_type: CEX
+    name: Nonkyc.io
+    trust_score: 8
+    trust_score_rank: 39
+    url: "https://nonkyc.io"
+    year_established: 2023
+
+  NOVADAX:
+    country: Brazil
+    description: ''
+    exchange_type: CEX
+    name: NovaDAX
+    trust_score: 4
+    trust_score_rank: 604
+    url: "https://www.novadax.com.br/"
+    year_established: 2018
+
+  OCEANEX:
+    country: Cayman Islands
+    description: ''
+    exchange_type: CEX
+    name: Oceanex
+    trust_score: 5
+    trust_score_rank: 391
+    url: "https://oceanex.pro"
+    year_established: 2018
+
+  OCISWAP:
+    country: Marshall Islands
+    description: |
+      Ociswap is the front page of Radix for exploring and exchanging digital assets. We are leveraging Uniswap's
+      concentrated liquidity, while eliminating blind signing to enable everyone to trade with confidence.
+    exchange_type: CEX
+    name: Ociswap
+    trust_score_rank: 986
+    url: "https://ociswap.com"
+    year_established: 2021
+
+  OKCOIN-JAPAN:
+    country: Japan
+    description: |
+      Our company was established as the Japanese corporation of OK Group and is operating under a structure compliant with
+      Japanese laws and regulations as a registered cryptocurrency exchange business with the Financial Services Agency.
+      Additionally, by utilizing the group's advanced technology, products, and the know-how accumulated over the years, we
+      are flexibly responding to market needs and will contribute to the revitalization of Japan's WEB3.0 (crypto
+      asset-related business).
+    exchange_type: CEX
+    name: OKJ
+    trust_score: 7
+    trust_score_rank: 77
+    url: "https://www.okcoin.jp/"
+    year_established: 2017
+
+  OKEX:
+    country: Seychelles
+    description: |
+      OKX is a leading global cryptocurrency exchange offering diverse trading options, advanced security, and Web3
+      integration for millions of users worldwide.
+    exchange_type: CEX
+    name: OKX
+    trust_score: 10
+    trust_score_rank: 6
+    url: "https://www.okx.com"
+    year_established: 2017
+
+  OMNI-EXCHANGE-V3-BSC:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Omni Exchange V3 (BSC)
+    trust_score: 5
+    trust_score_rank: 373
+    url: "https://omni.exchange/swap"
+
+  ONDO GLOBAL MARKETS:
+    country: British Virgin Islands
+    description: ''
+    exchange_type: CEX
+    name: Ondo Global Markets
+    trust_score: 7
+    trust_score_rank: 84
+    url: "https://ondo.finance/global-markets"
+    year_established: 2025
+
+  ONE DEX:
+    country: Singapore
+    description: |
+      1DEX is a high-performance decentralized central limit order book (CLOB) built on Vaulta. It offers a secure,
+      efficient, and user-centric trading environment with fast execution and low fees. By bridging the gap between
+      decentralized and centralized exchanges, 1DEX meets the growing demand for DeFi services. Its fully on-chain order book
+      gives users the best of both worlds: trading depth, self-custody, and composability. A standout feature of 1DEX is its
+      decentralized perpetual exchange services. The platform enables perpetual futures trading directly on the Vaulta
+      blockchain without gas fees. This approach lowers entry barriers for participants while significantly improving
+      transaction speed and efficiency. Unlike typical decentralized exchanges (DEXs) with off-chain order books, 1DEX
+      features a fully on-chain order book. This design enhances transparency and security as all transactions can be
+      verified on the blockchain. 1DEX offers several key advantages: - **No gas fees**: 1DEX eliminates transaction
+    exchange_type: CEX
+    name: 1DEX
+    trust_score: 6
+    trust_score_rank: 139
+    url: "https://1dex.com/"
+    year_established: 2025
+
+  ONEDEX:
+    country: Romania
+    description: Decentralized Exchange Made for Everybody Owned By No One, Owned By Everyone
+    exchange_type: CEX
+    name: OneDex
+    trust_score_rank: 966
+    url: "https://swap.onedex.app/"
+    year_established: 2023
+
+  OPENOCEAN FINANCE:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: OpenOcean
+    trust_score_rank: 912
+    url: "https://openocean.finance/"
+    year_established: 2020
+
+  ORAIDEX:
+    country: ''
+    description: |
+      OraiDEX is a CosmWasm smart contract-based decentralized exchange with multi-chain interoperability, optimal speed, and
+      lots of liquidity options for users. OraiDEX is compatible with Cosmos IBC (Inter-Blockchain Communication) with a
+      number of easy-to-use features: 1. Bridge: moving blockchain-based assets, including tokens and NFTs, from Cosmos-based
+      networks, Ethereum network, BNB Chain, and other networks to the Oraichain Mainnet and vice versa. 2. Swap: easy token
+      swapping, 3. Pools: Streamlining liquidity provision and farming with profitable APR.
+    exchange_type: CEX
+    name: OraiDEX
+    trust_score: 4
+    trust_score_rank: 653
+    url: "https://oraidex.io/universalswap"
+    year_established: 2022
+
+  ORANGEDX:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: OrangeDX
+    trust_score: 3
+    trust_score_rank: 808
+    url: "https://app.orangedx.com/swap"
+    year_established: 2024
+
+  ORANGEX:
+    country: Seychelles
+    description: |
+      Registered in Seychelles, OrangeX is a trading company with the combined strengths of skilled staff and the experience
+      of core financial technical expertise.
+    exchange_type: CEX
+    name: OrangeX
+    trust_score: 7
+    trust_score_rank: 66
+    url: "https://www.orangex.com/"
+    year_established: 2021
+
+  OSMOSIS:
+    country: ''
+    description: |
+      Osmosis is an automated market maker (AMM) protocol built for liquidity providers. It is built based on the Cosmos SDK
+      and is the first dex for IBC tokens.
+    exchange_type: CEX
+    name: Osmosis
+    trust_score: 6
+    trust_score_rank: 164
+    url: "https://app.osmosis.zone/"
+    year_established: 2021
+
+  OURBIT:
+    country: British Virgin Islands
+    description: |
+      Ourbit is the ultimate degen crypto exchange, built by the ex-founding team of top-tier exchanges with deep roots
+      across memecoin ecosystems like SPX6900, HarryPotterObamaSonic10Inu, RETARDIO and many more. Delivering the no.1
+      liquidity for memecoins and prophetic listings of high-performing cryptos for spot & futures trading up to 200x
+      leverage, Ourbit is purpose-built to empower the degen economy with the highest liquidity, leverage and first-move
+      advantage to pursue meme-ionaire dreams.
+    exchange_type: CEX
+    name: Ourbit
+    trust_score: 9
+    trust_score_rank: 12
+    url: "https://www.ourbit.com/"
+    year_established: 2020
+
+  P2PB2B:
+    country: Lithuania
+    description: |
+      P2B is a top crypto platform in Europe and has gotten into the TOP-3 Crypto Exchanges by growth speed. It offers the
+      best go-to-market experience to diverse crypto startups. At the exchange, investors can find a wide variety of
+      newly-launched tokens. The platform attracts new crypto projects due to the high-level liquidity of the crypto
+      exchange. One of the essential benefits of the crypto exchange is the high-level security of every launch and
+      operation. It's in the TOP-15 in Cer.Live security rate. The exchange has 6-year-old experience in the crypto field and
+      has presented more than 2,000 crypto projectsʼ launches. The go-to-market team of the exchange has designed a
+      well-thought strategy for marketing and promoting newly-launched projects to enhance their liquidity and involve new
+      investors. P2B offers a top-grade launchpad with extended functionality for newly-launched crypto projects. The
+      platform offers additional liquidity services to support a token price after a listing stage and avoid a price drop. It
+      doesn't have limitations, a ticket system, and doesn't hold tokens. The total amount of funds raised through launchpads
+      is already more than $10 million, and the top results from one launchpad are $2+ million. P2B is popular among
+      newly-launched crypto projects due to easy-to-go onboarding, a loyal listing requirement for the 1st listing,
+      expertise, and well-designed tools for the project's promotion. The exchange also contributes to the development of WEB
+      3.0 by creating the Fund of Rising Stars to support projects with high potential and strong ideas. Join the prosperous
+      P2B community—the #1 place to be in crypto. Get your exciting trading experience and earn fast and securely with 24/7
+      support.
+    exchange_type: CEX
+    name: P2B
+    trust_score: 7
+    trust_score_rank: 55
+    url: "https://p2pb2b.com/"
+    year_established: 2018
+
+  PANCAKESWAP NEW:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: PancakeSwap (v2)
+    trust_score: 6
+    trust_score_rank: 96
+    url: "https://pancakeswap.finance"
+    year_established: 2020
+
+  PANCAKESWAP-INFINITY-CLMM:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Pancakeswap Infinity CLMM (BSC)
+    trust_score: 6
+    trust_score_rank: 104
+    url: "https://pancakeswap.finance/swap"
+
+  PARIBU:
+    country: Turkey
+    description: ''
+    exchange_type: CEX
+    name: Paribu
+    trust_score: 5
+    trust_score_rank: 240
+    url: "https://www.paribu.com/"
+    year_established: 2017
+
+  PAYMIUM:
+    country: France
+    description: ''
+    exchange_type: CEX
+    name: Paymium
+    trust_score: 4
+    trust_score_rank: 636
+    url: "https://www.paymium.com/"
+    year_established: 2011
+
+  PHEMEX:
+    country: Singapore
+    description: |
+      Launched in 2019, Phemex is a Singapore-based cryptocurrency and derivatives trading platform led by former Morgan
+      Stanley executives. Serving around 5 million active users in over 200 countries, Phemex supports 150+ trading pairs
+      with up to 100x leverage. - Fee Structure: 0.1% for both maker and taker - Contract Fee Structure: 0.01% for maker and
+      0.06% for taker - Up to $100 Welcome Bonus for new users - Earn up to 8.5% APY interest income on crypto assets - Free
+      academy with 450+ carefully curated articles about crypto & trading - Security: Hierarchical Deterministic Cold Wallet
+      System with 2-level human scrutiny offline signatures.
+    exchange_type: CEX
+    name: Phemex
+    trust_score: 7
+    trust_score_rank: 61
+    url: "https://phemex.com/"
+    year_established: 2019
+
+  PINTO-EXCHANGE:
+    country: Unknown or Invalid Region
+    description: A Feeless, Composable EVM-Native DEX
+    exchange_type: CEX
+    name: Pinto Exchange
+    trust_score: 4
+    trust_score_rank: 610
+    url: "https://pinto.exchange"
+    year_established: 2024
+
+  PIONEX:
+    country: British Virgin Islands
+    description: |
+      Pionex is a cryptocurrency exchange, notable for its built-in trading bots that allow users to automate their trading
+      strategies without additional costs.
+    exchange_type: CEX
+    name: Pionex
+    trust_score: 8
+    trust_score_rank: 19
+    url: "https://www.pionex.com"
+    year_established: 2019
+
+  PNIX-DEX:
+    country: Singapore
+    description: |
+      PNIX DEX is a decentralized, order book-based exchange on the WEMIX3.0 mainnet. It offers a direct and transparent
+      trading experience. The Night Crows Market, a feature within PNIX DEX, facilitates the buying and selling of six
+      utility tokens that can be minted using CROW tokens and in-game items from Night Crows.
+    exchange_type: CEX
+    name: PNIX DEX
+    trust_score: 3
+    trust_score_rank: 786
+    url: "https://pnix.exchange"
+    year_established: 2024
+
+  POINTPAY:
+    country: Saint Vincent and the Grenadines
+    description: ''
+    exchange_type: CEX
+    name: PointPay
+    trust_score: 7
+    trust_score_rank: 63
+    url: "https://exchange.pointpay.io/"
+    year_established: 2018
+
+  POLONIEX:
+    country: Seychelles
+    description: |
+      Poloniex was founded in January 2014 as a global cryptocurrency exchange. It provides spot trading, futures trading,
+      staking, and various services to users in nearly 100 countries and regions with various languages available. In 2022,
+      Poloniex launched a brand new trading system to provide global retail and professional users with higher speed, as well
+      as better stability and usability.
+    exchange_type: CEX
+    name: Poloniex
+    trust_score: 5
+    trust_score_rank: 230
+    url: "https://poloniex.com/"
+    year_established: 2014
+
+  POWERTRADE:
+    country: Singapore
+    description: |
+      Options focused derivatives exchange offering USD portfolio margined accounts with stable or coin collateral.
+    exchange_type: CEX
+    name: Powertrade
+    trust_score_rank: 1009
+    url: "https://power.trade/"
+    year_established: 2019
+
+  PROBIT:
+    country: Seychelles
+    description: ''
+    exchange_type: CEX
+    name: ProBit Global
+    trust_score: 3
+    trust_score_rank: 727
+    url: "https://www.probit.com/"
+    year_established: 2017
+
+  PURCOW:
+    country: Hong Kong
+    description: ''
+    exchange_type: CEX
+    name: Purcow
+    trust_score: 1
+    trust_score_rank: 903
+    url: "https://www.purcow.io/"
+    year_established: 2017
+
+  QMALL:
+    country: Lithuania
+    description: ''
+    exchange_type: CEX
+    name: QMall
+    trust_score: 7
+    trust_score_rank: 57
+    url: "https://qmall.io/"
+    year_established: 2021
+
+  QUICKSWAP V3 X LAYER:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Quickswap V3 (X Layer)
+    trust_score: 4
+    trust_score_rank: 293
+    url: "https://quickswap.exchange/#/swap?"
+    year_established: 2024
+
+  RADFI:
+    country: ''
+    description: |
+      Be rad, stack sats. Better minting, better trading, all on ₿ITCOIN L1. radFi does not support or endorse any specific
+      tokens on our platform.
+    exchange_type: CEX
+    name: radFi
+    trust_score_rank: 950
+    url: "https://app.radfi.co/swap"
+
+  RAYDIUM2:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Raydium
+    trust_score: 5
+    trust_score_rank: 243
+    url: "https://raydium.io/swap/"
+    year_established: 2021
+
+  REDDEX-BSC:
+    country: Australia
+    description: |
+      reddex is the primary exchange for unique chains. Giving a fair opportunity for these chains to shine.
+    exchange_type: CEX
+    name: Reddex (BSC)
+    trust_score: 4
+    trust_score_rank: 724
+    url: "https://reddex.io"
+    year_established: 2022
+
+  REF FINANCE:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Rhea Finance
+    trust_score: 6
+    trust_score_rank: 142
+    url: "https://dex.rhea.finance/#near|token.v2.ref-finance.near"
+    year_established: 2021
+
+  RUJI-TRADE:
+    country: British Virgin Islands
+    description: |
+      A 100% on-chain orderbook exchange (including order matching logic), offering decentralized and permissionless trading.
+      Support native assets from all chains connected to THORChain, including native Bitcoin.
+    exchange_type: CEX
+    name: RUJI Trade
+    trust_score: 6
+    trust_score_rank: 180
+    url: "https://rujira.network/trade/"
+    year_established: 2025
+
+  SAFE TRADE:
+    country: Saint Vincent and the Grenadines
+    description: ''
+    exchange_type: CEX
+    name: SafeTrade
+    trust_score: 2
+    trust_score_rank: 868
+    url: "https://safetrade.com"
+    year_established: 2018
+
+  SAROS:
+    country: ''
+    description: Saros DEX is a Unified Suite of DeFi Products on Solana established in 2021
+    exchange_type: CEX
+    name: Saros AMM
+    trust_score: 5
+    trust_score_rank: 328
+    url: "https://dex.saros.xyz/"
+    year_established: 2021
+
+  SECONDBTC:
+    country: India
+    description: ''
+    exchange_type: CEX
+    name: SecondBTC
+    trust_score: 2
+    trust_score_rank: 864
+    url: "https://secondbtc.com"
+    year_established: 2018
+
+  SHADE PROTOCOL:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Shade Protocol
+    trust_score_rank: 936
+    url: "https://shadeprotocol.io/"
+    year_established: 2023
+
+  SOLOGENIC:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Sologenic
+    trust_score: 5
+    trust_score_rank: 273
+    url: "https://sologenic.org/"
+    year_established: 2018
+
+  SOVRYN:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Sovryn DEX (Rootstock)
+    trust_score_rank: 944
+    url: "https://www.sovryn.app/"
+    year_established: 2021
+
+  SPARTAN PROTOCOL:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Spartan Protocol
+    trust_score: 5
+    trust_score_rank: 718
+    url: "https://dapp.spartanprotocol.org/"
+    year_established: 2020
+
+  SPECTRUM FINANCE:
+    country: Panama
+    description: DEX built on the Ergo and Cardano blockchain
+    exchange_type: CEX
+    name: Spectrum Finance
+    trust_score_rank: 971
+    url: "https://spectrum.fi/"
+    year_established: 2021
+
+  SPICYSWAP:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Spicyswap
+    trust_score_rank: 1002
+    url: "https://spicyswap.xyz/#/"
+    year_established: 2021
+
+  SPLASH:
+    country: Panama
+    description: Maximize Returns. Splash Profits. The most capital efficient trading protocol on Cardano
+    exchange_type: CEX
+    name: Splash
+    trust_score_rank: 958
+    url: "https://www.splash.trade/"
+    year_established: 2024
+
+  SQUADSWAP-V2-BSC:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: SquadSwap Dynamo (BSC)
+    trust_score: 5
+    trust_score_rank: 353
+    url: "https://squadswap.com/swap"
+
+  SQUADSWAP-V3-BSC:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: SquadSwap WOW (BSC)
+    trust_score: 6
+    trust_score_rank: 120
+    url: "https://squadswap.com/swap"
+
+  STABBLE:
+    country: British Virgin Islands
+    description: Solanas first frictionless trading and liquidity layer
+    exchange_type: CEX
+    name: stabble
+    trust_score_rank: 917
+    url: "https://stabble.org/"
+    year_established: 2022
+
+  STAKE CUBE:
+    country: Germany
+    description: ''
+    exchange_type: CEX
+    name: StakeCube Exchange
+    trust_score: 2
+    trust_score_rank: 886
+    url: "https://stakecube.net/app/exchange/"
+    year_established: 2019
+
+  STELLAR TERM:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: StellarTerm
+    trust_score_rank: 924
+    url: "https://stellarterm.com/"
+    year_established: 2017
+
+  STON FI:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: STON.fi
+    trust_score: 5
+    trust_score_rank: 294
+    url: "https://ston.fi/"
+    year_established: 2023
+
+  SUNDAESWAP:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Sundaeswap
+    trust_score_rank: 948
+    url: "https://sundaeswap.finance/"
+    year_established: 2022
+
+  SUNSWAP V1:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: SUN.io
+    trust_score_rank: 953
+    url: "https://sun.io/"
+    year_established: 2021
+
+  SWOP FI:
+    country: Russia
+    description: |
+      Swop.fi is an automated market maker (AMM) that offers different pricing formulas that are most suitable for each
+      specific token pair. The original Flat formula is designed to reduce slippage in a pair of stable coins pegged to the
+      same fiat currency. The classic Constant Product Market Maker formula is used for other pairs.
+    exchange_type: CEX
+    name: Swop.Fi
+    trust_score_rank: 996
+    url: "https://swop.fi/"
+    year_established: 2020
+
+  TANX:
+    country: British Virgin Islands
+    description: |
+      tanX is the world's leading institutional DEX and the only DEX to support trading with known-counterparties. tanX
+      powers the liquidity layer of some of the largest CEXs, institutional brokers, prime brokers & banks.
+    exchange_type: CEX
+    name: tanX
+    trust_score: 4
+    trust_score_rank: 607
+    url: "https://tanx.fi"
+    year_established: 2023
+
+  TAPBIT:
+    country: United States
+    description: |
+      Tapbit offers secure and stable trading services for global investors in mainstream crypto assets such as BTC, ETH,
+      SOL, and USDC. The platform holds the MSB fiat currency business license issued by the U.S. federal government, the MSB
+      fiat currency business license issued by the Canadian government, the NFA general financial license, and the crypto and
+      forex business license issued by SVGFSA. Additionally, we safeguard all your assets on Tapbit through a
+      multi-million-dollar insurance fund Tapbit provides users with cutting-edge technology, featuring a core aggregation
+      engine that stands as one of the most advanced technological products in the current market. With fault tolerance and
+      exceptional processing speed, it can address concurrent issues arising from instantaneous high volumes of transactions
+      and settlements. Our security measures include banking-grade SSL encryption, multi-signature capabilities, and hot &
+      cold wallet separation technology, all working together to rigorously protect the security of all user assets Tapbit
+      stands out as one of the safest and most reliable cryptocurrency service platforms in the current market. Global
+      investors can utilize and benefit from the platform without worrying about potential risks associated with the field,
+      thanks to the application of advanced technology and innovative algorithms.
+    exchange_type: CEX
+    name: Tapbit
+    trust_score: 8
+    trust_score_rank: 24
+    url: "https://www.tapbit.com/"
+    year_established: 2019
+
+  TDAX:
+    country: Thailand
+    description: ''
+    exchange_type: CEX
+    name: Orbix
+    trust_score: 5
+    trust_score_rank: 343
+    url: "https://www.orbixtrade.com/en"
+    year_established: 2017
+
+  TERRAPORT:
+    country: United Kingdom
+    description: |
+      Terraport is an autonomous DeFi platform using smart contracts on the Terra Classic blockchain. The entire ecosystem is
+      powered by a native deflationary token called $TERRA, which will be used to access various features of the platform,
+      like Swap, Staking, Liquidity Providing, Farming, LaunchPad and Entertainment.
+    exchange_type: CEX
+    name: Terraport
+    trust_score_rank: 962
+    url: "https://terraport.finance"
+    year_established: 2022
+
+  THALA:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: ThalaSwap V1
+    trust_score_rank: 943
+    url: "https://app.thala.fi/"
+    year_established: 2023
+
+  THALASWAP-V2:
+    country: Canada
+    description: |
+      Launched on Nov 1 2024, ThalaSwap V2 is the second generation of the Thala automated market maker (AMM) on the Aptos
+      blockchain. ThalaSwap V2 offers a range of advanced features and pool types to facilitate efficient liquidity provision
+      and optimization. ThalaSwap V2 supports stable pools and weighted pools –– including liquidity bootstrapping pools
+      (LBPs) to facilitate token launches. ThalaSwap V2 is uniquely both Coin & FungibleAsset (FA) compatible. ThalaSwap V2
+      utilizes the x*y=k formula to maintain efficient and balanced liquidity pools. Liquidity providers are incentivized
+      with rewards generated from transaction fees. ThalaSwap V2’s design includes flexible fee structures to accommodate
+      both stable and volatile pairs, providing users with optimized rates depending on the asset class.
+    exchange_type: CEX
+    name: ThalaSwap V2
+    trust_score_rank: 915
+    url: "https://app.thala.fi/swap"
+    year_established: 2024
+
+  THENA-V3:
+    country: Cyprus
+    description: THENA is a trading hub and liquidity layer built on BNB Chain and opBNB
+    exchange_type: CEX
+    name: THENA V3
+    trust_score: 6
+    trust_score_rank: 131
+    url: "https://thena.fi/"
+    year_established: 2023
+
+  THORSWAP:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: THORChain
+    trust_score_rank: 913
+    url: "https://app.thorswap.finance/"
+    year_established: 2021
+
+  THORWALLET:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: THORWallet DEX
+    trust_score_rank: 937
+    url: "https://app.thorwallet.org/swap"
+    year_established: 2021
+
+  TIKTOKFUN:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: TikTokFun
+    trust_score: 5
+    trust_score_rank: 315
+    url: "https://app.tiktokfun.net/swap/"
+
+  TINYMAN:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Tinyman
+    trust_score: 5
+    trust_score_rank: 321
+    url: "https://app.tinyman.org/"
+    year_established: 2021
+
+  TOKENIZE:
+    country: Singapore
+    description: ''
+    exchange_type: CEX
+    name: Tokenize
+    trust_score_rank: 960
+    url: "https://tokenize.exchange/"
+    year_established: 2018
+
+  TOKENLON:
+    country: British Virgin Islands
+    description: |
+      Tokenlon is a decentralized exchange powered by 0x protocol. The goal of the project to provide a secure, reliable and
+      seamless trading experience to the masses.
+    exchange_type: CEX
+    name: Tokenlon
+    trust_score_rank: 916
+    url: "https://tokenlon.im/instant"
+    year_established: 2019
+
+  TOKO CRYPTO:
+    country: Indonesia
+    description: |
+      Founded in June 2017, Tokocrypto was born from a crypto fan group with strong confidence in the examples and benefits
+      that blockchain technology can offer to the public. Tokocrypto aims to be Southeast Asia's leading exchange for digital
+      assets by providing customers with an easy, simple, instant, and secure platform to transact with confidence.
+      Furthermore, Tokocryoto aims to be a community center for members of the crypto world to gather together, allowing for
+      the sharing of technical knowledge and expertise and championing new ideas. Teamwork We help each other to solve the
+      problem. We work together to realize our big dreams. We value the contribution of each member. We communicate freely
+      and openly. Innovation We accept changes and use data to make decisions. We strive to innovate helping users to
+      simplify the process. We always try to build something better than before. Customer-oriented We focus on solving
+      customer problems. We focus on open communication with our customers. We build products that everyone will be easy to
+      use. Passion We love what we do. Contact us Getting what is needed? Let's greet us! support@tokocrypto.com
+      hello@tokocrypto.com Join us What are you waiting for? Start your crypto investment now with Tokocrypto. Register NOW!
+      More information about Tokocrypto, please visit www.tokocrypto.com and news.tokocrypto.com for the latest news in the
+      crypto world.
+    exchange_type: CEX
+    name: TokoCrypto
+    trust_score: 5
+    trust_score_rank: 252
+    url: "https://tokocrypto.com"
+    year_established: 2017
+
+  TOKPIE:
+    country: Hong Kong
+    description: ''
+    exchange_type: CEX
+    name: Tokpie
+    trust_score: 5
+    trust_score_rank: 251
+    url: "https://tokpie.io/"
+    year_established: 2018
+
+  TOOBIT:
+    country: Cayman Islands
+    description: |
+      Toobit is where the future of crypto trading unfolds—an award-winning cryptocurrency derivatives exchange built for
+      those who thrive exploring new frontiers. With deep liquidity and cutting-edge technology, Toobit empowers traders
+      worldwide to navigate the digital asset markets with confidence. We offer a fair, secure, seamless, and transparent
+      trading experience, ensuring every trade is an opportunity to discover what’s next.
+    exchange_type: CEX
+    name: Toobit
+    trust_score: 8
+    trust_score_rank: 26
+    url: "https://www.toobit.com/"
+    year_established: 2022
+
+  TRUBIT:
+    country: British Virgin Islands
+    description: ''
+    exchange_type: CEX
+    name: Trubit
+    trust_score: 6
+    trust_score_rank: 103
+    url: "https://www.trubit.com/"
+    year_established: 2022
+
+  UNCHAIN-X:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Unchain X
+    trust_score: 4
+    trust_score_rank: 628
+    url: "https://unchainx.io/interface/swap"
+    year_established: 2024
+
+  UNISAT:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: UniSat
+    trust_score_rank: 990
+    url: "https://unisat.io/market"
+    year_established: 2023
+
+  UNISWAP-V4-BSC:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Uniswap V4 (BSC)
+    trust_score: 4
+    trust_score_rank: 598
+    url: "https://app.uniswap.org/swap"
+
+  UPBIT:
+    country: South Korea
+    description: |
+      Upbit is known for its extensive trading options for cryptocurrency. It emphasizes security and compliance, offering a
+      user-friendly platform while catering primarily to the South Korean market and expanding into Southeast Asia.
+    exchange_type: CEX
+    name: Upbit
+    trust_score: 8
+    trust_score_rank: 28
+    url: "https://upbit.com"
+    year_established: 2017
+
+  UPBIT INDONESIA:
+    country: Indonesia
+    description: ''
+    exchange_type: CEX
+    name: Upbit Indonesia
+    trust_score_rank: 925
+    url: "https://id.upbit.com/home"
+    year_established: 2018
+
+  VALR:
+    country: South Africa
+    description: |
+      VALR is a centralized cryptocurrency exchange established in 2018 and registered in South Africa. With support for 75+
+      cryptocurrencies, the platform boasts an average 24-hour trading volume exceeding $30 million and has processed over
+      $23 billion in transactions. As South Africa’s largest and licensed crypto exchange, VALR provides a secure and
+      user-friendly trading experience with deep liquidity across spot and derivatives markets. VALR offers a comprehensive
+      suite of services, including advanced trading options, earn products, institutional and corporate solutions, and
+      payment and merchant integrations. These features cater to both retail traders and institutional clients, ensuring a
+      seamless and secure crypto experience.For traders seeking advanced trading and derivatives, VALR supports spot trading
+      with up to 5x leverage on margin markets and 20x leverage on perpetual futures trading. The platform provides deep
+      liquidity, ensuring competitive order books across multiple trading pairs for an optimal trading experience.VALR also
+      offers a range of earn and passive income products, allowing users to maximize their holdings. Customers can earn
+      interest by lending crypto assets, participate in DeFi lending via Aave, and generate passive income through staking
+      supported cryptocurrencies. Additionally, VALR’s referral and affiliate programs allow users to earn rewards by
+      inviting new traders to the platform. For institutional and corporate clients, VALR provides subaccounts and shared
+      accounts, enabling businesses to manage multiple portfolios efficiently. The OTC desk and white-glove service offer
+      personalized support for large trades, while a world-class API ensures high-performance infrastructure for algorithmic
+      traders.VALR also integrates payment and merchant solutions, allowing users to send and receive crypto or fiat
+      instantly through VALR Pay. Businesses can leverage merchant integration services to accept crypto payments, expanding
+      their payment options securely and efficiently.With over 1.2 million customers and 1,000+ corporate and institutional
+      clients, VALR is backed by leading investors, including Coinbase Ventures, Pantera Capital, and Avon Ventures
+      (affiliated with Fidelity Investments).
+    exchange_type: CEX
+    name: VALR
+    trust_score: 8
+    trust_score_rank: 43
+    url: "https://www.valr.com/"
+    year_established: 2018
+
+  VELAR-STACKS:
+    country: Panama
+    description: ''
+    exchange_type: CEX
+    name: Velar (Stacks)
+    trust_score_rank: 968
+    url: "https://app.velar.co/swap"
+    year_established: 2024
+
+  VESSEL-FINANCE:
+    country: Singapore
+    description: |
+      Vessel is a Zero-Knowledge(ZK) powered decentralized exchange that is gradually evolving into a comprehensive Layer 3
+      network for DeFi. It combines efficient off-chain transaction processing with on-chain verification to ensure security
+      and scalability.
+    exchange_type: CEX
+    name: Vessel Finance
+    trust_score_rank: 977
+    url: "https://vessel.finance/"
+    year_established: 2024
+
+  VINDAX:
+    country: Vietnam
+    description: ''
+    exchange_type: CEX
+    name: Vindax
+    trust_score: 4
+    trust_score_rank: 606
+    url: "https://vindax.com/"
+    year_established: 2019
+
+  WAVES:
+    country: ''
+    description: |
+      WX Network is a cryptoasset exchange that allows users to transfer, trade, issue and stake cryptocurrencies. The
+      platform is secure due to its decentralized system. Established in 2017 as Waves DEX, WX Network is now a standalone
+      offering. WX Network aims to offer fast and secure trading instruments, staking opportunities, low costs, an API,
+      mobile applications, and access to major cryptoassets and 30k+ tokens on the Waves protocol.
+    exchange_type: CEX
+    name: WX Network
+    trust_score: 3
+    trust_score_rank: 775
+    url: "https://wx.network/"
+    year_established: 2018
+
+  WEB3 WORLD:
+    country: United Arab Emirates
+    description: |
+      Web3.World is an Automated Market Maker, Yield Farming, and Staking platform built on Venom blockchain. It is currently
+      the most flexible Automated Market Maker launched on Venom blockchain and enables seamless trading by pooling liquidity
+      from investors with stablecoin pairs support. It is the first DEX established on Venom blockchain.
+    exchange_type: CEX
+    name: Web3.World
+    trust_score_rank: 964
+    url: "https://web3.world/"
+    year_established: 2022
+
+  WEBSEA:
+    country: British Virgin Islands
+    description: |
+      Websea is a Web3 digital asset world for global youth. The platform boasts a dual-account security system, intelligent
+      copy-trading, and other innovative services, enabling more young individuals to access the Web 3.0 world conveniently,
+      quickly, and securely. Furthermore, through the tokenomics design of the platform's native token WBS based on Web3
+      attributes, more young people can reap substantial rewards and value returns while participating in Websea's social,
+      entertainment, and gaming ecosystem.
+    exchange_type: CEX
+    name: Websea
+    trust_score: 5
+    trust_score_rank: 231
+    url: "https://www.websea.com/en"
+    year_established: 2023
+
+  WEEX:
+    country: Singapore
+    description: |
+      What is WEEX? WEEX Exchange - The Rising Cryptocurrency Trading Platform WEEX Exchange is a robust digital currency
+      trading platform that was established in 2018 with a significant $100 million investment from a top blockchain
+      investment firm. The platform WEEX Exchange is designed to cater to a wide array of trading needs, offering crypto
+      trading services such as spot trading, futures trading, over-the-counter (OTC) trading, and copy trading. To prioritize
+      the safety of user funds, WEEX has established a 1000 BTC security deposit pool, the address of which is publicly
+      disclosed, highlighting its commitment to transparency and security. What Countries are supported by WEEX? WEEX prides
+      itself on its global reach and diverse user base, extending its services to numerous countries and regions. This global
+      expansion is supported by WEEX's strong technical advantages, professional services, and a comprehensive WEEX Affiliate
+      Program aimed at fostering global investment and offering attractive commission rebates of up to 70%. If you want to
+      know more about WEEX’s affiliate program, you can search the official website at:https://www.weex.com/affiliate Who Are
+      the Founders of WEEX? WEEX's team comprises individuals with significant experience in the blockchain industry, coming
+      from prestigious backgrounds such as Wall Street, Silicon Valley, Citibank, and Google. Under their leadership, WEEX
+      has evolved into a top global crypto trading platform, recognized for its innovative features and user-friendly
+      experience. Backed by a skilled technical team, WEEX ensures a secure, efficient, and seamless trading environment for
+      users around the world. When Did WEEX Launch? WEEX was launched in 2018. Why Trade on WEEX? WEEX Exchange is known for
+      its user-friendly interface, low trading fees, robust security features like two-factor authentication, and a wide
+      range of trading tools that cater to both beginners and experienced traders. With over 5 million registered users and
+      an average daily trading volume of more than $400 million, WEEX has become one of the top derivatives trading platforms
+      in the world. The platform supports over 600 cryptocurrencies, including BTC, ETH, DOGE, XRP, SHIB, PEPE, and many
+      more. It offers competitive trading fees as low as 0.02% for makers and 0.06% for takers in the futures market. WEEX
+      also runs campaigns like zero trading fees for newly listed coins, allowing users to trade without extra costs. Other
+      standout features include zero fees for spot trading, WEEX Futures Pro with up to 200X leverage on derivatives and
+      perpetual contracts, and innovative passive income options like WEEX Copy Trade. On top of these features, WEEX
+      provides additional perks for its users: Hold WXT to enjoy 50% off futures transaction fees, claim airdrops, and earn
+      an impressive APR of up to 88.71% on your WXT holdings. Welcome Bonus with a chance to win up to 20,000 USDT. Invite
+      Friends to join and earn a 50% commission on their trading fees. You can start trading BTC USDT directly here:
+      https://www.weex.com/trade/BTC-USDT. Is Leverage or Margin Trading available on WEEX? WEEX Exchange provides the
+      opportunity to trade with leverage of up to 200x on futures. For beginners dipping their toes into the market, starting
+      with as little as 1x leverage allows for a gradual acclimation to both the platform and the market dynamics. Join us on
+      WEEX Exchange and embark on a journey of discovery, opportunity, and financial empowerment. Experience the future of
+      digital asset trading with a platform that puts your needs first. Welcome to WEEX Exchange – where the possibilities
+      are limitless, and the opportunities are boundless. You can trade WEEX directly via: https://www.weex.com/register Any
+      questions about WEEX Exchange? Contact their 24/7 online service directly at support@weex.com
+    exchange_type: CEX
+    name: WEEX
+    trust_score: 8
+    trust_score_rank: 22
+    url: "http://www.weex.com/"
+    year_established: 2018
+
+  WHITE WHALE TERRA:
+    country: Germany
+    description: |
+      https://whitewhale.money/ Interchain Liquidity Stabilizing Prices Across the IBC Solving the fractured liquidity and
+      unstable pricing problem by connecting liquidity across the Cosmos ecosystem.
+    exchange_type: CEX
+    name: White Whale (Terra)
+    trust_score_rank: 920
+    url: "https://app.whitewhale.money/terra/swap?from=WHALE&to=ampWHALE"
+    year_established: 2021
+
+  WHITEBIT:
+    country: Lithuania
+    description: |
+      WhiteBIT is a European cryptocurrency exchange with over 33 million monthly visits. Launched in 2018, it has a user
+      base of over 35 million and an annual trading volume of $2.7 trillion. The platform offers 900+ trading pairs, 340+
+      digital assets, and supports transactions in 9 fiat currencies. Beyond trading, WhiteBIT offers Crypto Lending, the
+      WhiteBIT Nova card for everyday payments using crypto, Auto-Invest, referral and affiliate programs, and services
+      tailored for institutions and market makers. It also runs a VIP program for high-volume users. WhiteBIT Coin (WBT) is a
+      utility asset offering benefits to holders. In 2024, WBT quadrupled its value and reached the top 50 cryptocurrencies
+      by market cap. WhiteBIT has obtained CCSS Level 3 and PCI DSS Level 1 certifications. The platform has partnerships
+      with Visa, FACEIT, FC Barcelona, Trabzonspor, and the Ukrainian national football team.
+    exchange_type: CEX
+    name: WhiteBIT
+    trust_score: 8
+    trust_score_rank: 29
+    url: "https://whitebit.com"
+    year_established: 2018
+
+  WINGRIDERS:
+    country: British Virgin Islands
+    description: ''
+    exchange_type: CEX
+    name: WingRiders
+    trust_score_rank: 934
+    url: "https://www.wingriders.com/"
+    year_established: 2022
+
+  WOMBAT:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Wombat Exchange (BNB)
+    trust_score_rank: 951
+    url: "https://www.wombat.exchange/"
+    year_established: 2022
+
+  WOMBAT ARBITRUM:
+    country: ''
+    description: ''
+    exchange_type: CEX
+    name: Wombat (Arbitrum)
+    trust_score_rank: 1016
+    url: "https://www.wombat.exchange/"
+    year_established: 2022
+
+  WOOTRADE:
+    country: Seychelles
+    description: |
+      WOO X is a global centralized crypto futures and spot trading platform offering best-in-class liquidity and price
+      execution. WOO X has an average daily volume exceeding $600 million and is home to hundreds of thousands of traders
+      worldwide. WOO X traders benefit from radical transparency through our industry-first live Proof of Reserves &
+      liabilities dashboard and the company's mission to maintain the trust of its growing community of traders.
+    exchange_type: CEX
+    name: WOO X
+    trust_score: 7
+    trust_score_rank: 82
+    url: "https://woox.io/"
+    year_established: 2019
+
+  XBO COM:
+    country: Isle of Man
+    description: |
+      XBO.com is a crypto exchange platform that provides a range of trading and financial services to both retail and
+      institutional users. The platform is designed to offer both simple and secure access to digital assets, integrating
+      advanced compliance measures and multiple trading products. Core Features and Products Crypto Exchange: Supports
+      instant swaps between fiat and crypto, crypto-to-crypto, and crypto-to-fiat transactions. Users can receive up to 1%
+      cashback depending on their loyalty tier. Spot Trading: Offers market and limit orders for trading various
+      cryptocurrency pairs at real-time prices. Futures Trading: Allows users to trade cryptocurrency future contracts with
+      leverage up to 100x. Over 100 assets are supported in the futures trading segment. Earn Program: Provides options to
+      earn up to 15% APR on supported cryptocurrencies and stablecoins. Users can choose flexible or fixed terms. XBO Crad :
+      Enables users to spend crypto using virtual card integrated to Apple pay and Google pay. Loyalty Program The platform
+      offers a tiered loyalty program with benefits that may include cashback, reduced fees, and other account-related
+      advantages. Corporate Services: Includes features such as competitive rates and fees, high liquidity, high-grade
+      security standards, and corporate API integration. CryptoPayX: Enables businesses to accept crypto payments with
+      options for instant settlements in Fiat or Stablecoins. The service includes a fixed rate feature to mitigate
+      volatility , refund, top-up for partial transactions , and payouts. Supported Cryptocurrencies XBO.com supports trading
+      and services for over 100 cryptocurrencies, including BTC, ETH, SOL, BNB, USDT, USDC, XRP, TON, DOGE, ADA, TRX, and
+      AVAX. Fees Deposits: Crypto deposits are free. Fiat deposit fees vary depending on payment method and can be reviewed
+      on the dedicated fees page. Withdrawals: Fees are determined by the cryptocurrency and network chosen. Fiat withdrawal
+      fees depend on currency and method, with detailed rates available on the platform’s fees page. Security and Compliance
+      XBO.com operates under regulatory frameworks in the European Union and Globally. The platform complies with AML, CTF,
+      GDPR, and DPA requirements. Security infrastructure includes bank-grade measures, and partnerships with providers such
+      as Fireblocks, Ledger, and Elliptic. The platform is hosted on AWS and protected by Cloudflare. Certified compliance
+      includes CCSS Level 3, PCI DSS, and SOC 2 Type I & II.
+    exchange_type: CEX
+    name: XBO.com
+    trust_score: 6
+    trust_score_rank: 154
+    url: "https://www.xbo.com/"
+    year_established: 2022
+
+  XT:
+    country: Seychelles
+    description: |
+      By consistently expanding its ecosystem, XT.COM is dedicated to providing users with the most secure, trusted, and
+      hassle-free digital asset trading services. Our exchange is built from a desire to give everyone access to digital
+      assets regardless where you are. Founded in 2018, XT.COM now serves more than 6 million registered users, over 500,000+
+      monthly active users and 40+ million users in the ecosystem. Covering a rich variety of trading categories together
+      with a NFT aggregated marketplace, our platform strives to cater to its large user base by providing a secure, trusted
+      and intuitive trading experience. As the world’s first social-infused digital assets trading platform, XT.COM also
+      supports social networking platform based transactions to make our crypto services more accessible to users all over
+      the world. Furthermore, to ensure optimal data integrity and security, we see user security as our top priority at
+      XT.COM.
+    exchange_type: CEX
+    name: XT.COM
+    trust_score: 7
+    trust_score_rank: 52
+    url: "https://www.xt.com/"
+    year_established: 2018
+
+  YOUNG-PLATFORM:
+    country: Italy
+    description: |
+      Young Platform is Italy's leading cryptocurrency exchange, founded in 2018 with the core mission of making crypto
+      accessible and easy for everyone. It is a comprehensive ecosystem designed to guide users through their entire
+      financial journey, starting with education through its Young Platform Step "Learn-to-Earn" app and its extensive
+      Academy. The platform caters to all levels of experience, offering both a user-friendly exchange for beginners and the
+      Young Platform Pro for advanced traders. The company's vision extends to becoming a fully-fledged digital bank, with a
+      clear roadmap that includes a payment account, a debit card, and the integration of perpetual futures and stocks. The
+      solidity of this vision is underscored by the support of major institutional partners, such as Azimut and Banca Sella,
+      who have invested in the company's equity, validating its long-term strategy.
+    exchange_type: CEX
+    name: Young Platform
+    trust_score: 6
+    trust_score_rank: 218
+    url: "https://youngplatform.com/"
+    year_established: 2019
+
+  ZAIF:
+    country: Japan
+    description: ''
+    exchange_type: CEX
+    name: Zaif
+    trust_score: 6
+    trust_score_rank: 216
+    url: "https://zaif.jp/"
+    year_established: 2015
+
+  ZBX:
+    country: Malta
+    description: ''
+    exchange_type: CEX
+    name: ZBX
+    trust_score: 3
+    trust_score_rank: 735
+    url: "https://www.zbx.com/"
+    year_established: 2018
+
+  ZEBPAY:
+    country: India
+    description: |
+      ZebPay is a crypto-assets exchange with an established presence in India, Australia and Singapore. Since its inception
+      in 2014 in India, ZebPay has rapidly expanded across geographies, and has been providing its services to crypto-traders
+      and crypto-focused investors. The choice of millions of traders, ZebPay offers its services across a wide range of
+      devices, including mobile apps for those who are always on the go and a seamless web interface for users who prefer
+      desktops. ZebPay also offers an OTC desk, a bespoke service for users trading in large quantities of crypto assets.
+      ZebPay OTC is a white-glove service available at every stage of the trading process - from the initial expert
+      consultation all the way through to execution, with trade reporting and market insights.
+    exchange_type: CEX
+    name: ZebPay
+    trust_score_rank: 932
+    url: "https://www.zebpay.com"
+    year_established: 2014
+
+  ZOOMEX:
+    country: Seychelles
+    description: |
+      Founded in 2021, Zoomex is a global cryptocurrency trading platform that offers a streamlined user interface and aims
+      to support efficient trading. The platform features a matching engine with millisecond-level response times and
+      flexible identity verification options. Zoomex also supports a free trading system and provides trading access to users
+      across various regions.
+    exchange_type: CEX
+    name: Zoomex
+    trust_score: 7
+    trust_score_rank: 58
+    url: "https://www.zoomex.com/en-US/"
+    year_established: 2021
